@@ -1,0 +1,1302 @@
+[
+  {
+    "id_parcela":"PAR-1",
+    "nombre_parcela":"Campo Este 1",
+    "id_agricultor":"AGR0077",
+    "nombre_agricultor":"  Pedro Sánchez  ",
+    "provincia":"  CHACO  ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":201.43,
+    "fecha_siembra":"2024-06-24"
+  },
+  {
+    "id_parcela":"PAR_002",
+    "nombre_parcela":"Campo Norte 2",
+    "id_agricultor":"AGR0016",
+    "nombre_agricultor":"jorge flores",
+    "provincia":"  chaco  ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":386.73,
+    "fecha_siembra":"2024-02-19"
+  },
+  {
+    "id_parcela":"PAR_003",
+    "nombre_parcela":"Campo Oeste 3",
+    "id_agricultor":"AGR0053",
+    "nombre_agricultor":"Jorge García",
+    "provincia":"ENTRE RÍOS",
+    "cultivo_principal":"Vid",
+    "superficie_ha":378.71,
+    "fecha_siembra":"2024\/04\/16"
+  },
+  {
+    "id_parcela":"PAR0004",
+    "nombre_parcela":"Campo Sur 4",
+    "id_agricultor":"AGR0041",
+    "nombre_agricultor":"lucía pérez",
+    "provincia":"  BUENOS AIRES  ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":349.73,
+    "fecha_siembra":"2023-08-02"
+  },
+  {
+    "id_parcela":"PAR-5",
+    "nombre_parcela":"Campo Sur 5",
+    "id_agricultor":"AGR0081",
+    "nombre_agricultor":"luis rodríguez",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Vid",
+    "superficie_ha":113.9,
+    "fecha_siembra":"2023\/07\/29"
+  },
+  {
+    "id_parcela":"PAR0006",
+    "nombre_parcela":"Campo Sur 6",
+    "id_agricultor":"AGR0051",
+    "nombre_agricultor":"  Diego Rodríguez  ",
+    "provincia":"chaco",
+    "cultivo_principal":"Vid",
+    "superficie_ha":208.91,
+    "fecha_siembra":"2024\/02\/03"
+  },
+  {
+    "id_parcela":"PAR-7",
+    "nombre_parcela":"Campo Oeste 7",
+    "id_agricultor":"AGR0004",
+    "nombre_agricultor":"VALENTINA MARTÍNEZ",
+    "provincia":"    Santa Fe    ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":255.1,
+    "fecha_siembra":"2023-08-09"
+  },
+  {
+    "id_parcela":"par8",
+    "nombre_parcela":"Campo Oeste 8",
+    "id_agricultor":"AGR0046",
+    "nombre_agricultor":"camila pérez",
+    "provincia":"  entre ríos  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":null,
+    "fecha_siembra":"06-06-2024"
+  },
+  {
+    "id_parcela":"PAR_009",
+    "nombre_parcela":"Campo Sur 9",
+    "id_agricultor":"AGR0098",
+    "nombre_agricultor":"  Ana Rodríguez  ",
+    "provincia":"  CÓRDOBA  ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":381.91,
+    "fecha_siembra":"2023\/12\/11"
+  },
+  {
+    "id_parcela":"par10",
+    "nombre_parcela":"Campo Sur 10",
+    "id_agricultor":"AGR0027",
+    "nombre_agricultor":"PAULA PÉREZ",
+    "provincia":"    Entre Ríos    ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":206.57,
+    "fecha_siembra":"2023\/11\/10"
+  },
+  {
+    "id_parcela":"PAR_011",
+    "nombre_parcela":"Campo Oeste 11",
+    "id_agricultor":"AGR0091",
+    "nombre_agricultor":"SOFÍA LÓPEZ",
+    "provincia":"    Entre Ríos    ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":482.75,
+    "fecha_siembra":"2023-11-17"
+  },
+  {
+    "id_parcela":"PAR_012",
+    "nombre_parcela":"Campo Norte 12",
+    "id_agricultor":"AGR0006",
+    "nombre_agricultor":"  Sofía Pérez  ",
+    "provincia":"La Pampa",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":435.72,
+    "fecha_siembra":"2023-08-19"
+  },
+  {
+    "id_parcela":"PAR_013",
+    "nombre_parcela":"Campo Este 13",
+    "id_agricultor":"AGR0016",
+    "nombre_agricultor":"jorge flores",
+    "provincia":"    Chaco    ",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":165.63,
+    "fecha_siembra":"2024\/05\/11"
+  },
+  {
+    "id_parcela":"par14",
+    "nombre_parcela":"Campo Oeste 14",
+    "id_agricultor":"AGR0078",
+    "nombre_agricultor":"Andrés Fernández",
+    "provincia":"  Buenos Aires  ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":460.62,
+    "fecha_siembra":"2023-09-25"
+  },
+  {
+    "id_parcela":"PAR_015",
+    "nombre_parcela":"Campo Norte 15",
+    "id_agricultor":"AGR0027",
+    "nombre_agricultor":"Paula Pérez",
+    "provincia":"    Entre Ríos    ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":451.91,
+    "fecha_siembra":"24-06-2023"
+  },
+  {
+    "id_parcela":"PAR0016",
+    "nombre_parcela":"Campo Este 16",
+    "id_agricultor":"AGR0084",
+    "nombre_agricultor":"jorge pérez",
+    "provincia":"córdoba",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":266.52,
+    "fecha_siembra":"16\/03\/2024"
+  },
+  {
+    "id_parcela":"PAR-17",
+    "nombre_parcela":"Campo Sur 17",
+    "id_agricultor":"AGR0023",
+    "nombre_agricultor":"Miguel Fernández",
+    "provincia":"  CHACO  ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":249.84,
+    "fecha_siembra":"25\/03\/2024"
+  },
+  {
+    "id_parcela":"PAR-18",
+    "nombre_parcela":"Campo Oeste 18",
+    "id_agricultor":"AGR0068",
+    "nombre_agricultor":"andrés rodríguez",
+    "provincia":"    Santa Fe    ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":449.66,
+    "fecha_siembra":"25-01-2024"
+  },
+  {
+    "id_parcela":"PAR-19",
+    "nombre_parcela":"Campo Norte 19",
+    "id_agricultor":"AGR0025",
+    "nombre_agricultor":"  María López  ",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Vid",
+    "superficie_ha":481.09,
+    "fecha_siembra":"19-05-2024"
+  },
+  {
+    "id_parcela":"PAR_020",
+    "nombre_parcela":"Campo Este 20",
+    "id_agricultor":"AGR0075",
+    "nombre_agricultor":"PAULA TORRES",
+    "provincia":"  tucumán  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":120.13,
+    "fecha_siembra":"19-03-2024"
+  },
+  {
+    "id_parcela":"par21",
+    "nombre_parcela":"Campo Este 21",
+    "id_agricultor":"AGR0078",
+    "nombre_agricultor":"Andrés Fernández",
+    "provincia":"    Buenos Aires    ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":null,
+    "fecha_siembra":"2024-05-17"
+  },
+  {
+    "id_parcela":"PAR_022",
+    "nombre_parcela":"Campo Este 22",
+    "id_agricultor":"AGR0009",
+    "nombre_agricultor":"PEDRO MARTÍNEZ",
+    "provincia":"santa fe",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":311.2,
+    "fecha_siembra":"13\/05\/2024"
+  },
+  {
+    "id_parcela":"PAR0023",
+    "nombre_parcela":"Campo Norte 23",
+    "id_agricultor":"AGR0027",
+    "nombre_agricultor":"paula pérez",
+    "provincia":"    Entre Ríos    ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":366.72,
+    "fecha_siembra":"17-07-2023"
+  },
+  {
+    "id_parcela":"par24",
+    "nombre_parcela":"Campo Oeste 24",
+    "id_agricultor":"AGR0054",
+    "nombre_agricultor":"PEDRO GÓMEZ",
+    "provincia":"  MENDOZA  ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":438.48,
+    "fecha_siembra":"05-12-2023"
+  },
+  {
+    "id_parcela":"PAR-25",
+    "nombre_parcela":"Campo Este 25",
+    "id_agricultor":"AGR0059",
+    "nombre_agricultor":"  Luis Gómez  ",
+    "provincia":"mendoza",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":402.51,
+    "fecha_siembra":"2024-01-26"
+  },
+  {
+    "id_parcela":"PAR-26",
+    "nombre_parcela":"Campo Sur 26",
+    "id_agricultor":"AGR0002",
+    "nombre_agricultor":"  Diego Díaz  ",
+    "provincia":"chaco",
+    "cultivo_principal":"Soja",
+    "superficie_ha":8.93,
+    "fecha_siembra":"2024-03-01"
+  },
+  {
+    "id_parcela":"PAR_027",
+    "nombre_parcela":"Campo Este 27",
+    "id_agricultor":"AGR0048",
+    "nombre_agricultor":"diego martínez",
+    "provincia":"  Chaco  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":186.99,
+    "fecha_siembra":"11\/05\/2024"
+  },
+  {
+    "id_parcela":"PAR_028",
+    "nombre_parcela":"Campo Norte 28",
+    "id_agricultor":"AGR0013",
+    "nombre_agricultor":"ana flores",
+    "provincia":"LA PAMPA",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":412.28,
+    "fecha_siembra":"24-05-2024"
+  },
+  {
+    "id_parcela":"PAR_029",
+    "nombre_parcela":"Campo Norte 29",
+    "id_agricultor":"AGR0089",
+    "nombre_agricultor":"PAULA SÁNCHEZ",
+    "provincia":"LA PAMPA",
+    "cultivo_principal":"Soja",
+    "superficie_ha":247.33,
+    "fecha_siembra":"20\/07\/2023"
+  },
+  {
+    "id_parcela":"PAR-30",
+    "nombre_parcela":"Campo Oeste 30",
+    "id_agricultor":"AGR0065",
+    "nombre_agricultor":"  María López  ",
+    "provincia":"mendoza",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":348.85,
+    "fecha_siembra":"2024\/03\/03"
+  },
+  {
+    "id_parcela":"PAR-31",
+    "nombre_parcela":"Campo Oeste 31",
+    "id_agricultor":"AGR0095",
+    "nombre_agricultor":"Lucía Romero",
+    "provincia":"    La Pampa    ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":475.86,
+    "fecha_siembra":"17-06-2023"
+  },
+  {
+    "id_parcela":"PAR-32",
+    "nombre_parcela":"Campo Oeste 32",
+    "id_agricultor":"AGR0046",
+    "nombre_agricultor":"  Camila Pérez  ",
+    "provincia":"  ENTRE RÍOS  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":490.5,
+    "fecha_siembra":"06-12-2023"
+  },
+  {
+    "id_parcela":"PAR0033",
+    "nombre_parcela":"Campo Oeste 33",
+    "id_agricultor":"AGR0055",
+    "nombre_agricultor":"paula lópez",
+    "provincia":"  MENDOZA  ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":412.45,
+    "fecha_siembra":"17\/07\/2023"
+  },
+  {
+    "id_parcela":"PAR0034",
+    "nombre_parcela":"Campo Norte 34",
+    "id_agricultor":"AGR0095",
+    "nombre_agricultor":"lucía romero",
+    "provincia":"  LA PAMPA  ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":104.19,
+    "fecha_siembra":"26\/06\/2024"
+  },
+  {
+    "id_parcela":"PAR-35",
+    "nombre_parcela":"Campo Sur 35",
+    "id_agricultor":"AGR0100",
+    "nombre_agricultor":"luis lópez",
+    "provincia":"BUENOS AIRES",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":3.41,
+    "fecha_siembra":"14\/08\/2023"
+  },
+  {
+    "id_parcela":"par36",
+    "nombre_parcela":"Campo Sur 36",
+    "id_agricultor":"AGR0062",
+    "nombre_agricultor":"Diego Díaz",
+    "provincia":"  Entre Ríos  ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":null,
+    "fecha_siembra":"30-09-2023"
+  },
+  {
+    "id_parcela":"PAR0037",
+    "nombre_parcela":"Campo Sur 37",
+    "id_agricultor":"AGR0046",
+    "nombre_agricultor":"camila pérez",
+    "provincia":"  Entre Ríos  ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":263.99,
+    "fecha_siembra":"2024-06-16"
+  },
+  {
+    "id_parcela":"PAR_038",
+    "nombre_parcela":"Campo Oeste 38",
+    "id_agricultor":"AGR0050",
+    "nombre_agricultor":"pedro fernández",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":472.82,
+    "fecha_siembra":"23-06-2023"
+  },
+  {
+    "id_parcela":"PAR_039",
+    "nombre_parcela":"Campo Norte 39",
+    "id_agricultor":"AGR0090",
+    "nombre_agricultor":"Camila Romero",
+    "provincia":"    La Pampa    ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":343.68,
+    "fecha_siembra":"2024\/02\/07"
+  },
+  {
+    "id_parcela":"PAR0040",
+    "nombre_parcela":"Campo Norte 40",
+    "id_agricultor":"AGR0042",
+    "nombre_agricultor":"maría romero",
+    "provincia":"SANTA FE",
+    "cultivo_principal":"Soja",
+    "superficie_ha":312.91,
+    "fecha_siembra":"26-03-2024"
+  },
+  {
+    "id_parcela":"PAR_041",
+    "nombre_parcela":"Campo Central 41",
+    "id_agricultor":"AGR0097",
+    "nombre_agricultor":"pedro díaz",
+    "provincia":"  la pampa  ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":51.39,
+    "fecha_siembra":"2024-05-25"
+  },
+  {
+    "id_parcela":"PAR-42",
+    "nombre_parcela":"Campo Oeste 42",
+    "id_agricultor":"AGR0070",
+    "nombre_agricultor":"  Paula Romero  ",
+    "provincia":"  LA PAMPA  ",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":227.84,
+    "fecha_siembra":"2023-12-30"
+  },
+  {
+    "id_parcela":"par43",
+    "nombre_parcela":"Campo Oeste 43",
+    "id_agricultor":"AGR0097",
+    "nombre_agricultor":"pedro díaz",
+    "provincia":"la pampa",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":344.04,
+    "fecha_siembra":"2024-01-29"
+  },
+  {
+    "id_parcela":"PAR0044",
+    "nombre_parcela":"Campo Norte 44",
+    "id_agricultor":"AGR0057",
+    "nombre_agricultor":"Juan Rodríguez",
+    "provincia":"  santa fe  ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":187.58,
+    "fecha_siembra":"2023-08-06"
+  },
+  {
+    "id_parcela":"par45",
+    "nombre_parcela":"Campo Norte 45",
+    "id_agricultor":"AGR0050",
+    "nombre_agricultor":"  Pedro Fernández  ",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":375.64,
+    "fecha_siembra":"2024-06-04"
+  },
+  {
+    "id_parcela":"par46",
+    "nombre_parcela":"Campo Central 46",
+    "id_agricultor":"AGR0057",
+    "nombre_agricultor":"juan rodríguez",
+    "provincia":"santa fe",
+    "cultivo_principal":"Soja",
+    "superficie_ha":107.94,
+    "fecha_siembra":"2024\/05\/02"
+  },
+  {
+    "id_parcela":"PAR-47",
+    "nombre_parcela":"Campo Norte 47",
+    "id_agricultor":"AGR0099",
+    "nombre_agricultor":"camila sánchez",
+    "provincia":"entre ríos",
+    "cultivo_principal":"Soja",
+    "superficie_ha":287.9,
+    "fecha_siembra":"2024-01-06"
+  },
+  {
+    "id_parcela":"par48",
+    "nombre_parcela":"Campo Norte 48",
+    "id_agricultor":"AGR0092",
+    "nombre_agricultor":"VALENTINA TORRES",
+    "provincia":"  buenos aires  ",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":460.93,
+    "fecha_siembra":"2023-11-27"
+  },
+  {
+    "id_parcela":"PAR-49",
+    "nombre_parcela":"Campo Sur 49",
+    "id_agricultor":"AGR0092",
+    "nombre_agricultor":"  Valentina Torres  ",
+    "provincia":"  Buenos Aires  ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":485.96,
+    "fecha_siembra":"17\/07\/2023"
+  },
+  {
+    "id_parcela":"PAR_050",
+    "nombre_parcela":"Campo Oeste 50",
+    "id_agricultor":"AGR0007",
+    "nombre_agricultor":"  María Romero  ",
+    "provincia":"tucumán",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":361.35,
+    "fecha_siembra":"2024-07-02"
+  },
+  {
+    "id_parcela":"PAR0051",
+    "nombre_parcela":"Campo Sur 51",
+    "id_agricultor":"AGR0044",
+    "nombre_agricultor":"DIEGO ROMERO",
+    "provincia":"CÓRDOBA",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":222.67,
+    "fecha_siembra":"2024\/01\/04"
+  },
+  {
+    "id_parcela":"PAR_052",
+    "nombre_parcela":"Campo Oeste 52",
+    "id_agricultor":"AGR0087",
+    "nombre_agricultor":"paula flores",
+    "provincia":"BUENOS AIRES",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":173.9,
+    "fecha_siembra":"27-07-2023"
+  },
+  {
+    "id_parcela":"PAR_053",
+    "nombre_parcela":"Campo Central 53",
+    "id_agricultor":"AGR0066",
+    "nombre_agricultor":"ana sánchez",
+    "provincia":"  La Pampa  ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":300.46,
+    "fecha_siembra":"04\/06\/2023"
+  },
+  {
+    "id_parcela":"par54",
+    "nombre_parcela":"Campo Sur 54",
+    "id_agricultor":"AGR0025",
+    "nombre_agricultor":"MARÍA LÓPEZ",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":5.85,
+    "fecha_siembra":"2024\/06\/17"
+  },
+  {
+    "id_parcela":"PAR-55",
+    "nombre_parcela":"Campo Sur 55",
+    "id_agricultor":"AGR0072",
+    "nombre_agricultor":"  María Díaz  ",
+    "provincia":"TUCUMÁN",
+    "cultivo_principal":"Vid",
+    "superficie_ha":334.69,
+    "fecha_siembra":"2023-11-29"
+  },
+  {
+    "id_parcela":"PAR_056",
+    "nombre_parcela":"Campo Norte 56",
+    "id_agricultor":"AGR0014",
+    "nombre_agricultor":"  Ana Díaz  ",
+    "provincia":"  Chaco  ",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":431.33,
+    "fecha_siembra":"2024\/03\/21"
+  },
+  {
+    "id_parcela":"PAR_057",
+    "nombre_parcela":"Campo Oeste 57",
+    "id_agricultor":"AGR0055",
+    "nombre_agricultor":"paula lópez",
+    "provincia":"  Mendoza  ",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":null,
+    "fecha_siembra":"14\/11\/2023"
+  },
+  {
+    "id_parcela":"PAR_058",
+    "nombre_parcela":"Campo Este 58",
+    "id_agricultor":"AGR0057",
+    "nombre_agricultor":"Juan Rodríguez",
+    "provincia":"  santa fe  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":218.97,
+    "fecha_siembra":"2023-12-23"
+  },
+  {
+    "id_parcela":"PAR_059",
+    "nombre_parcela":"Campo Este 59",
+    "id_agricultor":"AGR0031",
+    "nombre_agricultor":"jorge rodríguez",
+    "provincia":"LA PAMPA",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":40.04,
+    "fecha_siembra":"2024-04-20"
+  },
+  {
+    "id_parcela":"PAR-60",
+    "nombre_parcela":"Campo Este 60",
+    "id_agricultor":"AGR0005",
+    "nombre_agricultor":"carlos lópez",
+    "provincia":"CÓRDOBA",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":129.47,
+    "fecha_siembra":"28\/08\/2023"
+  },
+  {
+    "id_parcela":"PAR0061",
+    "nombre_parcela":"Campo Sur 61",
+    "id_agricultor":"AGR0065",
+    "nombre_agricultor":"  María López  ",
+    "provincia":"  MENDOZA  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":290.58,
+    "fecha_siembra":"14-05-2024"
+  },
+  {
+    "id_parcela":"par62",
+    "nombre_parcela":"Campo Sur 62",
+    "id_agricultor":"AGR0081",
+    "nombre_agricultor":"  Luis Rodríguez  ",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":152.8,
+    "fecha_siembra":"2023-10-19"
+  },
+  {
+    "id_parcela":"par63",
+    "nombre_parcela":"Campo Central 63",
+    "id_agricultor":"AGR0052",
+    "nombre_agricultor":"Paula Fernández",
+    "provincia":"chaco",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":30.33,
+    "fecha_siembra":"2023-10-25"
+  },
+  {
+    "id_parcela":"PAR0064",
+    "nombre_parcela":"Campo Central 64",
+    "id_agricultor":"AGR0058",
+    "nombre_agricultor":"  Valentina García  ",
+    "provincia":"  Chaco  ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":396.33,
+    "fecha_siembra":"2023\/06\/22"
+  },
+  {
+    "id_parcela":"PAR-65",
+    "nombre_parcela":"Campo Este 65",
+    "id_agricultor":"AGR0100",
+    "nombre_agricultor":"  Luis López  ",
+    "provincia":"BUENOS AIRES",
+    "cultivo_principal":"Soja",
+    "superficie_ha":405.86,
+    "fecha_siembra":"2023-11-23"
+  },
+  {
+    "id_parcela":"PAR-66",
+    "nombre_parcela":"Campo Norte 66",
+    "id_agricultor":"AGR0031",
+    "nombre_agricultor":"JORGE RODRÍGUEZ",
+    "provincia":"  LA PAMPA  ",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":305.68,
+    "fecha_siembra":"04-12-2023"
+  },
+  {
+    "id_parcela":"par67",
+    "nombre_parcela":"Campo Oeste 67",
+    "id_agricultor":"AGR0061",
+    "nombre_agricultor":"  Diego García  ",
+    "provincia":"santa fe",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":395.04,
+    "fecha_siembra":"27-04-2024"
+  },
+  {
+    "id_parcela":"PAR0068",
+    "nombre_parcela":"Campo Este 68",
+    "id_agricultor":"AGR0015",
+    "nombre_agricultor":"Carlos Romero",
+    "provincia":"  CÓRDOBA  ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":426.08,
+    "fecha_siembra":"04\/04\/2024"
+  },
+  {
+    "id_parcela":"par69",
+    "nombre_parcela":"Campo Norte 69",
+    "id_agricultor":"AGR0019",
+    "nombre_agricultor":"MIGUEL RODRÍGUEZ",
+    "provincia":"mendoza",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":349.84,
+    "fecha_siembra":"18\/12\/2023"
+  },
+  {
+    "id_parcela":"PAR0070",
+    "nombre_parcela":"Campo Este 70",
+    "id_agricultor":"AGR0096",
+    "nombre_agricultor":"  María Martínez  ",
+    "provincia":"entre ríos",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":352.01,
+    "fecha_siembra":"2024-06-13"
+  },
+  {
+    "id_parcela":"PAR_071",
+    "nombre_parcela":"Campo Central 71",
+    "id_agricultor":"AGR0045",
+    "nombre_agricultor":"andrés rodríguez",
+    "provincia":"entre ríos",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":475.68,
+    "fecha_siembra":"2023\/11\/22"
+  },
+  {
+    "id_parcela":"PAR-72",
+    "nombre_parcela":"Campo Sur 72",
+    "id_agricultor":"AGR0016",
+    "nombre_agricultor":"JORGE FLORES",
+    "provincia":"  CHACO  ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":394.48,
+    "fecha_siembra":"2024-02-15"
+  },
+  {
+    "id_parcela":"par73",
+    "nombre_parcela":"Campo Central 73",
+    "id_agricultor":"AGR0078",
+    "nombre_agricultor":"ANDRÉS FERNÁNDEZ",
+    "provincia":"    Buenos Aires    ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":416.01,
+    "fecha_siembra":"29\/06\/2024"
+  },
+  {
+    "id_parcela":"PAR_074",
+    "nombre_parcela":"Campo Norte 74",
+    "id_agricultor":"AGR0087",
+    "nombre_agricultor":"  Paula Flores  ",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":484.86,
+    "fecha_siembra":"08-04-2024"
+  },
+  {
+    "id_parcela":"PAR_075",
+    "nombre_parcela":"Campo Sur 75",
+    "id_agricultor":"AGR0088",
+    "nombre_agricultor":"DIEGO PÉREZ",
+    "provincia":"tucumán",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":452.18,
+    "fecha_siembra":"08-09-2023"
+  },
+  {
+    "id_parcela":"PAR_076",
+    "nombre_parcela":"Campo Oeste 76",
+    "id_agricultor":"AGR0081",
+    "nombre_agricultor":"luis rodríguez",
+    "provincia":"  buenos aires  ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":483.2,
+    "fecha_siembra":"11\/09\/2023"
+  },
+  {
+    "id_parcela":"par77",
+    "nombre_parcela":"Campo Norte 77",
+    "id_agricultor":"AGR0100",
+    "nombre_agricultor":"  Luis López  ",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Vid",
+    "superficie_ha":356.28,
+    "fecha_siembra":"2024-02-20"
+  },
+  {
+    "id_parcela":"par78",
+    "nombre_parcela":"Campo Norte 78",
+    "id_agricultor":"AGR0074",
+    "nombre_agricultor":"SOFÍA ROMERO",
+    "provincia":"  mendoza  ",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":75.38,
+    "fecha_siembra":"2024-01-10"
+  },
+  {
+    "id_parcela":"PAR-79",
+    "nombre_parcela":"Campo Oeste 79",
+    "id_agricultor":"AGR0036",
+    "nombre_agricultor":"ana gómez",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":null,
+    "fecha_siembra":"13-02-2024"
+  },
+  {
+    "id_parcela":"PAR-80",
+    "nombre_parcela":"Campo Oeste 80",
+    "id_agricultor":"AGR0008",
+    "nombre_agricultor":"Juan Flores",
+    "provincia":"córdoba",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":null,
+    "fecha_siembra":"21-07-2023"
+  },
+  {
+    "id_parcela":"PAR-81",
+    "nombre_parcela":"Campo Sur 81",
+    "id_agricultor":"AGR0061",
+    "nombre_agricultor":"Diego García",
+    "provincia":"santa fe",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":415.89,
+    "fecha_siembra":"2024\/06\/23"
+  },
+  {
+    "id_parcela":"PAR_082",
+    "nombre_parcela":"Campo Central 82",
+    "id_agricultor":"AGR0016",
+    "nombre_agricultor":"Jorge Flores",
+    "provincia":"  Chaco  ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":417.81,
+    "fecha_siembra":"2024\/03\/07"
+  },
+  {
+    "id_parcela":"PAR0083",
+    "nombre_parcela":"Campo Este 83",
+    "id_agricultor":"AGR0016",
+    "nombre_agricultor":"JORGE FLORES",
+    "provincia":"  chaco  ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":null,
+    "fecha_siembra":"2024\/01\/01"
+  },
+  {
+    "id_parcela":"PAR0084",
+    "nombre_parcela":"Campo Norte 84",
+    "id_agricultor":"AGR0066",
+    "nombre_agricultor":"  Ana Sánchez  ",
+    "provincia":"  La Pampa  ",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":122.49,
+    "fecha_siembra":"13-08-2023"
+  },
+  {
+    "id_parcela":"PAR_085",
+    "nombre_parcela":"Campo Norte 85",
+    "id_agricultor":"AGR0041",
+    "nombre_agricultor":"lucía pérez",
+    "provincia":"  BUENOS AIRES  ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":332.86,
+    "fecha_siembra":"14-07-2023"
+  },
+  {
+    "id_parcela":"PAR0086",
+    "nombre_parcela":"Campo Central 86",
+    "id_agricultor":"AGR0001",
+    "nombre_agricultor":"Diego Rodríguez",
+    "provincia":"  MENDOZA  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":318.56,
+    "fecha_siembra":"09-12-2023"
+  },
+  {
+    "id_parcela":"PAR0087",
+    "nombre_parcela":"Campo Este 87",
+    "id_agricultor":"AGR0051",
+    "nombre_agricultor":"Diego Rodríguez",
+    "provincia":"chaco",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":314.87,
+    "fecha_siembra":"30-06-2024"
+  },
+  {
+    "id_parcela":"PAR-88",
+    "nombre_parcela":"Campo Norte 88",
+    "id_agricultor":"AGR0009",
+    "nombre_agricultor":"pedro martínez",
+    "provincia":"santa fe",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":415.53,
+    "fecha_siembra":"2024\/05\/16"
+  },
+  {
+    "id_parcela":"PAR_089",
+    "nombre_parcela":"Campo Sur 89",
+    "id_agricultor":"AGR0094",
+    "nombre_agricultor":"MIGUEL GÓMEZ",
+    "provincia":"CÓRDOBA",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":229.92,
+    "fecha_siembra":"29\/10\/2023"
+  },
+  {
+    "id_parcela":"PAR0090",
+    "nombre_parcela":"Campo Sur 90",
+    "id_agricultor":"AGR0053",
+    "nombre_agricultor":"Jorge García",
+    "provincia":"entre ríos",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":494.58,
+    "fecha_siembra":"2024\/03\/05"
+  },
+  {
+    "id_parcela":"par91",
+    "nombre_parcela":"Campo Norte 91",
+    "id_agricultor":"AGR0040",
+    "nombre_agricultor":"ANA FLORES",
+    "provincia":"  entre ríos  ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":25.81,
+    "fecha_siembra":"01-05-2024"
+  },
+  {
+    "id_parcela":"par92",
+    "nombre_parcela":"Campo Norte 92",
+    "id_agricultor":"AGR0062",
+    "nombre_agricultor":"diego díaz",
+    "provincia":"    Entre Ríos    ",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":447.53,
+    "fecha_siembra":"15-12-2023"
+  },
+  {
+    "id_parcela":"PAR-93",
+    "nombre_parcela":"Campo Oeste 93",
+    "id_agricultor":"AGR0068",
+    "nombre_agricultor":"  Andrés Rodríguez  ",
+    "provincia":"  santa fe  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":400.97,
+    "fecha_siembra":"2024\/06\/07"
+  },
+  {
+    "id_parcela":"PAR0094",
+    "nombre_parcela":"Campo Oeste 94",
+    "id_agricultor":"AGR0004",
+    "nombre_agricultor":"VALENTINA MARTÍNEZ",
+    "provincia":"  santa fe  ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":165.3,
+    "fecha_siembra":"30-10-2023"
+  },
+  {
+    "id_parcela":"PAR_095",
+    "nombre_parcela":"Campo Central 95",
+    "id_agricultor":"AGR0045",
+    "nombre_agricultor":"  Andrés Rodríguez  ",
+    "provincia":"ENTRE RÍOS",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":224.67,
+    "fecha_siembra":"07-06-2024"
+  },
+  {
+    "id_parcela":"PAR_096",
+    "nombre_parcela":"Campo Este 96",
+    "id_agricultor":"AGR0099",
+    "nombre_agricultor":"Camila Sánchez",
+    "provincia":"Entre Ríos",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":182.93,
+    "fecha_siembra":"18\/06\/2024"
+  },
+  {
+    "id_parcela":"PAR0097",
+    "nombre_parcela":"Campo Sur 97",
+    "id_agricultor":"AGR0045",
+    "nombre_agricultor":"  Andrés Rodríguez  ",
+    "provincia":"entre ríos",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":389.7,
+    "fecha_siembra":"05-12-2023"
+  },
+  {
+    "id_parcela":"PAR_098",
+    "nombre_parcela":"Campo Central 98",
+    "id_agricultor":"AGR0069",
+    "nombre_agricultor":"Andrés Rodríguez",
+    "provincia":"  TUCUMÁN  ",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":186.74,
+    "fecha_siembra":"2024-01-14"
+  },
+  {
+    "id_parcela":"PAR-99",
+    "nombre_parcela":"Campo Central 99",
+    "id_agricultor":"AGR0095",
+    "nombre_agricultor":"lucía romero",
+    "provincia":"    La Pampa    ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":126.31,
+    "fecha_siembra":"2023-07-29"
+  },
+  {
+    "id_parcela":"PAR-100",
+    "nombre_parcela":"Campo Oeste 100",
+    "id_agricultor":"AGR0006",
+    "nombre_agricultor":"  Sofía Pérez  ",
+    "provincia":"La Pampa",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":352.61,
+    "fecha_siembra":"18-09-2023"
+  },
+  {
+    "id_parcela":"PAR_101",
+    "nombre_parcela":"Campo Sur 101",
+    "id_agricultor":"AGR0024",
+    "nombre_agricultor":"Camila Martínez",
+    "provincia":"  TUCUMÁN  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":87.98,
+    "fecha_siembra":"2024\/05\/31"
+  },
+  {
+    "id_parcela":"PAR0102",
+    "nombre_parcela":"Campo Este 102",
+    "id_agricultor":"AGR0034",
+    "nombre_agricultor":"andrés gómez",
+    "provincia":"chaco",
+    "cultivo_principal":"Vid",
+    "superficie_ha":445.88,
+    "fecha_siembra":"20\/08\/2023"
+  },
+  {
+    "id_parcela":"par103",
+    "nombre_parcela":"Campo Central 103",
+    "id_agricultor":"AGR0045",
+    "nombre_agricultor":"ANDRÉS RODRÍGUEZ",
+    "provincia":"entre ríos",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":119.89,
+    "fecha_siembra":"2024-02-08"
+  },
+  {
+    "id_parcela":"par104",
+    "nombre_parcela":"Campo Central 104",
+    "id_agricultor":"AGR0036",
+    "nombre_agricultor":"ana gómez",
+    "provincia":"  buenos aires  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":66.63,
+    "fecha_siembra":"2023-07-15"
+  },
+  {
+    "id_parcela":"par105",
+    "nombre_parcela":"Campo Oeste 105",
+    "id_agricultor":"AGR0058",
+    "nombre_agricultor":"  Valentina García  ",
+    "provincia":"  Chaco  ",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":288.3,
+    "fecha_siembra":"04-08-2023"
+  },
+  {
+    "id_parcela":"PAR0106",
+    "nombre_parcela":"Campo Oeste 106",
+    "id_agricultor":"AGR0064",
+    "nombre_agricultor":"  Diego López  ",
+    "provincia":"córdoba",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":390.57,
+    "fecha_siembra":"23\/04\/2024"
+  },
+  {
+    "id_parcela":"PAR-107",
+    "nombre_parcela":"Campo Oeste 107",
+    "id_agricultor":"AGR0100",
+    "nombre_agricultor":"Luis López",
+    "provincia":"BUENOS AIRES",
+    "cultivo_principal":"Vid",
+    "superficie_ha":84.0,
+    "fecha_siembra":"13\/11\/2023"
+  },
+  {
+    "id_parcela":"par108",
+    "nombre_parcela":"Campo Central 108",
+    "id_agricultor":"AGR0053",
+    "nombre_agricultor":"jorge garcía",
+    "provincia":"ENTRE RÍOS",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":478.26,
+    "fecha_siembra":"19\/10\/2023"
+  },
+  {
+    "id_parcela":"par109",
+    "nombre_parcela":"Campo Central 109",
+    "id_agricultor":"AGR0042",
+    "nombre_agricultor":"María Romero",
+    "provincia":"SANTA FE",
+    "cultivo_principal":"Vid",
+    "superficie_ha":78.79,
+    "fecha_siembra":"03-05-2024"
+  },
+  {
+    "id_parcela":"PAR0110",
+    "nombre_parcela":"Campo Norte 110",
+    "id_agricultor":"AGR0078",
+    "nombre_agricultor":"Andrés Fernández",
+    "provincia":"  Buenos Aires  ",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":133.8,
+    "fecha_siembra":"2023\/09\/16"
+  },
+  {
+    "id_parcela":"PAR0111",
+    "nombre_parcela":"Campo Oeste 111",
+    "id_agricultor":"AGR0080",
+    "nombre_agricultor":"sofía lópez",
+    "provincia":"chaco",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":404.06,
+    "fecha_siembra":"25-12-2023"
+  },
+  {
+    "id_parcela":"PAR_112",
+    "nombre_parcela":"Campo Norte 112",
+    "id_agricultor":"AGR0002",
+    "nombre_agricultor":"Diego Díaz",
+    "provincia":"CHACO",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":233.29,
+    "fecha_siembra":"22\/11\/2023"
+  },
+  {
+    "id_parcela":"par113",
+    "nombre_parcela":"Campo Este 113",
+    "id_agricultor":"AGR0038",
+    "nombre_agricultor":"paula fernández",
+    "provincia":"    Mendoza    ",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":258.46,
+    "fecha_siembra":"25-07-2023"
+  },
+  {
+    "id_parcela":"PAR-114",
+    "nombre_parcela":"Campo Oeste 114",
+    "id_agricultor":"AGR0079",
+    "nombre_agricultor":"María Flores",
+    "provincia":"santa fe",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":50.21,
+    "fecha_siembra":"2023\/10\/27"
+  },
+  {
+    "id_parcela":"PAR_115",
+    "nombre_parcela":"Campo Sur 115",
+    "id_agricultor":"AGR0070",
+    "nombre_agricultor":"PAULA ROMERO",
+    "provincia":"  la pampa  ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":96.54,
+    "fecha_siembra":"2023\/08\/21"
+  },
+  {
+    "id_parcela":"PAR_116",
+    "nombre_parcela":"Campo Oeste 116",
+    "id_agricultor":"AGR0021",
+    "nombre_agricultor":"andrés pérez",
+    "provincia":"  Mendoza  ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":197.83,
+    "fecha_siembra":"21\/01\/2024"
+  },
+  {
+    "id_parcela":"PAR-117",
+    "nombre_parcela":"Campo Central 117",
+    "id_agricultor":"AGR0092",
+    "nombre_agricultor":"valentina torres",
+    "provincia":"  Buenos Aires  ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":299.56,
+    "fecha_siembra":"2024\/04\/30"
+  },
+  {
+    "id_parcela":"par118",
+    "nombre_parcela":"Campo Central 118",
+    "id_agricultor":"AGR0042",
+    "nombre_agricultor":"María Romero",
+    "provincia":"santa fe",
+    "cultivo_principal":"Girasol",
+    "superficie_ha":133.71,
+    "fecha_siembra":"2023\/12\/05"
+  },
+  {
+    "id_parcela":"par119",
+    "nombre_parcela":"Campo Norte 119",
+    "id_agricultor":"AGR0027",
+    "nombre_agricultor":"  Paula Pérez  ",
+    "provincia":"  Entre Ríos  ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":182.54,
+    "fecha_siembra":"2023-10-26"
+  },
+  {
+    "id_parcela":"PAR_120",
+    "nombre_parcela":"Campo Central 120",
+    "id_agricultor":"AGR0089",
+    "nombre_agricultor":"  Paula Sánchez  ",
+    "provincia":"la pampa",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":340.84,
+    "fecha_siembra":"31\/07\/2023"
+  },
+  {
+    "id_parcela":"PAR_096",
+    "nombre_parcela":"Campo Este 96",
+    "id_agricultor":"AGR0099",
+    "nombre_agricultor":"Camila Sánchez",
+    "provincia":"Entre Ríos",
+    "cultivo_principal":"Algodón",
+    "superficie_ha":182.93,
+    "fecha_siembra":"18\/06\/2024"
+  },
+  {
+    "id_parcela":"PAR0094",
+    "nombre_parcela":"Campo Oeste 94",
+    "id_agricultor":"AGR0004",
+    "nombre_agricultor":"VALENTINA MARTÍNEZ",
+    "provincia":"  santa fe  ",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":165.3,
+    "fecha_siembra":"30-10-2023"
+  },
+  {
+    "id_parcela":"PAR-5",
+    "nombre_parcela":"Campo Sur 5",
+    "id_agricultor":"AGR0081",
+    "nombre_agricultor":"luis rodríguez",
+    "provincia":"buenos aires",
+    "cultivo_principal":"Vid",
+    "superficie_ha":113.9,
+    "fecha_siembra":"2023\/07\/29"
+  },
+  {
+    "id_parcela":"par108",
+    "nombre_parcela":"Campo Central 108",
+    "id_agricultor":"AGR0053",
+    "nombre_agricultor":"jorge garcía",
+    "provincia":"ENTRE RÍOS",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":478.26,
+    "fecha_siembra":"19\/10\/2023"
+  },
+  {
+    "id_parcela":"PAR0064",
+    "nombre_parcela":"Campo Central 64",
+    "id_agricultor":"AGR0058",
+    "nombre_agricultor":"  Valentina García  ",
+    "provincia":"  Chaco  ",
+    "cultivo_principal":"Vid",
+    "superficie_ha":396.33,
+    "fecha_siembra":"2023\/06\/22"
+  },
+  {
+    "id_parcela":"par103",
+    "nombre_parcela":"Campo Central 103",
+    "id_agricultor":"AGR0045",
+    "nombre_agricultor":"ANDRÉS RODRÍGUEZ",
+    "provincia":"entre ríos",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":119.89,
+    "fecha_siembra":"2024-02-08"
+  },
+  {
+    "id_parcela":"PAR-35",
+    "nombre_parcela":"Campo Sur 35",
+    "id_agricultor":"AGR0100",
+    "nombre_agricultor":"luis lópez",
+    "provincia":"BUENOS AIRES",
+    "cultivo_principal":"Alfalfa",
+    "superficie_ha":3.41,
+    "fecha_siembra":"14\/08\/2023"
+  },
+  {
+    "id_parcela":"PAR_059",
+    "nombre_parcela":"Campo Este 59",
+    "id_agricultor":"AGR0031",
+    "nombre_agricultor":"jorge rodríguez",
+    "provincia":"LA PAMPA",
+    "cultivo_principal":"Trigo",
+    "superficie_ha":40.04,
+    "fecha_siembra":"2024-04-20"
+  },
+  {
+    "id_parcela":"PAR0033",
+    "nombre_parcela":"Campo Oeste 33",
+    "id_agricultor":"AGR0055",
+    "nombre_agricultor":"paula lópez",
+    "provincia":"  MENDOZA  ",
+    "cultivo_principal":"Soja",
+    "superficie_ha":412.45,
+    "fecha_siembra":"17\/07\/2023"
+  },
+  {
+    "id_parcela":"PAR0106",
+    "nombre_parcela":"Campo Oeste 106",
+    "id_agricultor":"AGR0064",
+    "nombre_agricultor":"  Diego López  ",
+    "provincia":"córdoba",
+    "cultivo_principal":"Maíz",
+    "superficie_ha":390.57,
+    "fecha_siembra":"23\/04\/2024"
+  }
+]

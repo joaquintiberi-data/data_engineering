@@ -1,0 +1,965 @@
+[
+  {
+    "id_agricultor":"AGR0001",
+    "nombre":"Diego",
+    "apellido":"Rodríguez",
+    "email":null,
+    "telefono":"+54 9 2281241943",
+    "provincia":"MENDOZA",
+    "fecha_alta":"2019-10-13"
+  },
+  {
+    "id_agricultor":"AGR0002",
+    "nombre":"Diego",
+    "apellido":"Díaz",
+    "email":"agricultor2@correo.com",
+    "telefono":"+54 9 1473399426",
+    "provincia":"Chaco",
+    "fecha_alta":"2019-03-03"
+  },
+  {
+    "id_agricultor":"AGR0003",
+    "nombre":"Ana",
+    "apellido":"López",
+    "email":"agricultor3@correo.com",
+    "telefono":"+54 9 1213971123",
+    "provincia":"  Mendoza  ",
+    "fecha_alta":"2020\/03\/27"
+  },
+  {
+    "id_agricultor":"AGR0004",
+    "nombre":"Valentina",
+    "apellido":"Martínez",
+    "email":"agricultor4@correo.com",
+    "telefono":"+54 9 1127911967",
+    "provincia":"  Santa Fe  ",
+    "fecha_alta":"27-11-2020"
+  },
+  {
+    "id_agricultor":"AGR0005",
+    "nombre":"Carlos",
+    "apellido":"López",
+    "email":"agricultor5@correo.com",
+    "telefono":"+54 9 2545662585",
+    "provincia":"Córdoba",
+    "fecha_alta":"2021-02-17"
+  },
+  {
+    "id_agricultor":"AGR0006",
+    "nombre":"Sofía",
+    "apellido":"Pérez",
+    "email":"agricultor6@correo.com",
+    "telefono":"+54 9 1286618211",
+    "provincia":"La Pampa",
+    "fecha_alta":"2024\/06\/15"
+  },
+  {
+    "id_agricultor":"AGR0007",
+    "nombre":"María",
+    "apellido":"Romero",
+    "email":"agricultor7@correo.com",
+    "telefono":"+54 9 3799987374",
+    "provincia":"TUCUMÁN",
+    "fecha_alta":"2022-12-13"
+  },
+  {
+    "id_agricultor":"AGR0008",
+    "nombre":"Juan",
+    "apellido":"Flores",
+    "email":"agricultor8@correo.com",
+    "telefono":"+54 9 2342911821",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"2023-11-10"
+  },
+  {
+    "id_agricultor":"AGR0009",
+    "nombre":"Pedro",
+    "apellido":"Martínez",
+    "email":"agricultor9@correo.com",
+    "telefono":"+54 9 2666942273",
+    "provincia":"santa fe",
+    "fecha_alta":"28\/12\/2020"
+  },
+  {
+    "id_agricultor":"AGR0010",
+    "nombre":"Diego",
+    "apellido":"Martínez",
+    "email":"agricultor10@correo.com",
+    "telefono":"+54 9 3883290795",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"29\/12\/2021"
+  },
+  {
+    "id_agricultor":"AGR0011",
+    "nombre":"Carlos",
+    "apellido":"Sánchez",
+    "email":"agricultor11@correo.com",
+    "telefono":"+54 9 3848778024",
+    "provincia":"mendoza",
+    "fecha_alta":"2023-09-23"
+  },
+  {
+    "id_agricultor":"AGR0012",
+    "nombre":"Ana",
+    "apellido":"Gómez",
+    "email":"agricultor12@correo.com",
+    "telefono":"+54 9 2822989659",
+    "provincia":"Entre Ríos",
+    "fecha_alta":"08-03-2020"
+  },
+  {
+    "id_agricultor":"AGR0013",
+    "nombre":"Ana",
+    "apellido":"Flores",
+    "email":"agricultor13@correo.com",
+    "telefono":"+54 9 3861027762",
+    "provincia":"LA PAMPA",
+    "fecha_alta":"26\/06\/2020"
+  },
+  {
+    "id_agricultor":"AGR0014",
+    "nombre":"Ana",
+    "apellido":"Díaz",
+    "email":"agricultor14@correo.com",
+    "telefono":"+54 9 2228466620",
+    "provincia":"  Chaco  ",
+    "fecha_alta":"11\/01\/2021"
+  },
+  {
+    "id_agricultor":"AGR0015",
+    "nombre":"Carlos",
+    "apellido":"Romero",
+    "email":"agricultor15@correo.com",
+    "telefono":"+54 9 1302363285",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"09\/07\/2022"
+  },
+  {
+    "id_agricultor":"AGR0016",
+    "nombre":"Jorge",
+    "apellido":"Flores",
+    "email":"agricultor16@correo.com",
+    "telefono":"+54 9 1372849424",
+    "provincia":"  Chaco  ",
+    "fecha_alta":"2022\/05\/05"
+  },
+  {
+    "id_agricultor":"AGR0017",
+    "nombre":"Miguel",
+    "apellido":"Martínez",
+    "email":"agricultor17@correo.com",
+    "telefono":"+54 9 1149310608",
+    "provincia":"córdoba",
+    "fecha_alta":"24-04-2023"
+  },
+  {
+    "id_agricultor":"AGR0018",
+    "nombre":"María",
+    "apellido":"Martínez",
+    "email":"agricultor18@correo.com",
+    "telefono":"+54 9 3048728483",
+    "provincia":"buenos aires",
+    "fecha_alta":"13\/06\/2024"
+  },
+  {
+    "id_agricultor":"AGR0019",
+    "nombre":"Miguel",
+    "apellido":"Rodríguez",
+    "email":"agricultor19@correo.com",
+    "telefono":"+54 9 2381810600",
+    "provincia":"MENDOZA",
+    "fecha_alta":"04\/02\/2021"
+  },
+  {
+    "id_agricultor":"AGR0020",
+    "nombre":"Miguel",
+    "apellido":"Romero",
+    "email":"agricultor20@correo.com",
+    "telefono":"+54 9 3672447412",
+    "provincia":"  Tucumán  ",
+    "fecha_alta":"2019-02-09"
+  },
+  {
+    "id_agricultor":"AGR0021",
+    "nombre":"Andrés",
+    "apellido":"Pérez",
+    "email":"agricultor21@correo.com",
+    "telefono":"+54 9 2420763135",
+    "provincia":"Mendoza",
+    "fecha_alta":"2020-05-08"
+  },
+  {
+    "id_agricultor":"AGR0022",
+    "nombre":"María",
+    "apellido":"Díaz",
+    "email":"agricultor22@correo.com",
+    "telefono":"+54 9 1397265480",
+    "provincia":"SANTA FE",
+    "fecha_alta":"2022\/09\/13"
+  },
+  {
+    "id_agricultor":"AGR0023",
+    "nombre":"Miguel",
+    "apellido":"Fernández",
+    "email":"agricultor23@correo.com",
+    "telefono":"+54 9 3705301030",
+    "provincia":"CHACO",
+    "fecha_alta":"17\/03\/2024"
+  },
+  {
+    "id_agricultor":"AGR0024",
+    "nombre":"Camila",
+    "apellido":"Martínez",
+    "email":"agricultor24@correo.com",
+    "telefono":"+54 9 3984873529",
+    "provincia":"  Tucumán  ",
+    "fecha_alta":"2024\/01\/17"
+  },
+  {
+    "id_agricultor":"AGR0025",
+    "nombre":"María",
+    "apellido":"López",
+    "email":"agricultor25@correo.com",
+    "telefono":"+54 9 2552066459",
+    "provincia":"BUENOS AIRES",
+    "fecha_alta":"20\/04\/2022"
+  },
+  {
+    "id_agricultor":"AGR0026",
+    "nombre":"Juan",
+    "apellido":"Rodríguez",
+    "email":"agricultor26@correo.com",
+    "telefono":"+54 9 1352860896",
+    "provincia":"Mendoza",
+    "fecha_alta":"2024-01-29"
+  },
+  {
+    "id_agricultor":"AGR0027",
+    "nombre":"Paula",
+    "apellido":"Pérez",
+    "email":"agricultor27@correo.com",
+    "telefono":"+54 9 2122222125",
+    "provincia":"  Entre Ríos  ",
+    "fecha_alta":"14\/03\/2020"
+  },
+  {
+    "id_agricultor":"AGR0028",
+    "nombre":"Camila",
+    "apellido":"Torres",
+    "email":"agricultor28@correo.com",
+    "telefono":"+54 9 2143665192",
+    "provincia":"  La Pampa  ",
+    "fecha_alta":"2020-01-25"
+  },
+  {
+    "id_agricultor":"AGR0029",
+    "nombre":"María",
+    "apellido":"Flores",
+    "email":"agricultor29@correo.com",
+    "telefono":"+54 9 2919256337",
+    "provincia":"  Chaco  ",
+    "fecha_alta":"2023-11-05"
+  },
+  {
+    "id_agricultor":"AGR0030",
+    "nombre":"Diego",
+    "apellido":"Flores",
+    "email":"agricultor30@correo.com",
+    "telefono":"+54 9 1522701550",
+    "provincia":"  Buenos Aires  ",
+    "fecha_alta":"31-01-2023"
+  },
+  {
+    "id_agricultor":"AGR0031",
+    "nombre":"Jorge",
+    "apellido":"Rodríguez",
+    "email":"agricultor31@correo.com",
+    "telefono":"+54 9 1916941039",
+    "provincia":"LA PAMPA",
+    "fecha_alta":"14\/05\/2021"
+  },
+  {
+    "id_agricultor":"AGR0032",
+    "nombre":"Luis",
+    "apellido":"Sánchez",
+    "email":"agricultor32@correo.com",
+    "telefono":"+54 9 1423775634",
+    "provincia":"La Pampa",
+    "fecha_alta":"2019-04-14"
+  },
+  {
+    "id_agricultor":"AGR0033",
+    "nombre":"María",
+    "apellido":"López",
+    "email":"agricultor33@correo.com",
+    "telefono":"+54 9 3185812759",
+    "provincia":"LA PAMPA",
+    "fecha_alta":"2023\/11\/06"
+  },
+  {
+    "id_agricultor":"AGR0034",
+    "nombre":"Andrés",
+    "apellido":"Gómez",
+    "email":"agricultor34@correo.com",
+    "telefono":"+54 9 1109257255",
+    "provincia":"chaco",
+    "fecha_alta":"2024\/03\/12"
+  },
+  {
+    "id_agricultor":"AGR0035",
+    "nombre":"Luis",
+    "apellido":"García",
+    "email":"agricultor35@correo.com",
+    "telefono":"+54 9 3487006772",
+    "provincia":"LA PAMPA",
+    "fecha_alta":"24-01-2020"
+  },
+  {
+    "id_agricultor":"AGR0036",
+    "nombre":"Ana",
+    "apellido":"Gómez",
+    "email":"agricultor36@correo.com",
+    "telefono":"+54 9 3428710672",
+    "provincia":"buenos aires",
+    "fecha_alta":"2019-04-28"
+  },
+  {
+    "id_agricultor":"AGR0037",
+    "nombre":"Valentina",
+    "apellido":"Sánchez",
+    "email":"agricultor37@correo.com",
+    "telefono":"+54 9 3381169403",
+    "provincia":"Santa Fe",
+    "fecha_alta":"2024-05-21"
+  },
+  {
+    "id_agricultor":"AGR0038",
+    "nombre":"Paula",
+    "apellido":"Fernández",
+    "email":"agricultor38@correo.com",
+    "telefono":"+54 9 1391889680",
+    "provincia":"  Mendoza  ",
+    "fecha_alta":"03\/09\/2019"
+  },
+  {
+    "id_agricultor":"AGR0039",
+    "nombre":"Valentina",
+    "apellido":"Torres",
+    "email":null,
+    "telefono":"+54 9 1452116052",
+    "provincia":"chaco",
+    "fecha_alta":"29-03-2024"
+  },
+  {
+    "id_agricultor":"AGR0040",
+    "nombre":"Ana",
+    "apellido":"Flores",
+    "email":"agricultor40@correo.com",
+    "telefono":"+54 9 2125148381",
+    "provincia":"  Entre Ríos  ",
+    "fecha_alta":"26-09-2019"
+  },
+  {
+    "id_agricultor":"AGR0041",
+    "nombre":"Lucía",
+    "apellido":"Pérez",
+    "email":"agricultor41@correo.com",
+    "telefono":"+54 9 1411570307",
+    "provincia":"  Buenos Aires  ",
+    "fecha_alta":"2022-06-26"
+  },
+  {
+    "id_agricultor":"AGR0042",
+    "nombre":"María",
+    "apellido":"Romero",
+    "email":"agricultor42@correo.com",
+    "telefono":"+54 9 2239027119",
+    "provincia":"santa fe",
+    "fecha_alta":"2023-12-10"
+  },
+  {
+    "id_agricultor":"AGR0043",
+    "nombre":"Andrés",
+    "apellido":"López",
+    "email":"agricultor43@correo.com",
+    "telefono":"+54 9 1777517496",
+    "provincia":"la pampa",
+    "fecha_alta":"2022-06-06"
+  },
+  {
+    "id_agricultor":"AGR0044",
+    "nombre":"Diego",
+    "apellido":"Romero",
+    "email":"agricultor44@correo.com",
+    "telefono":"+54 9 3949232839",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"2020-06-25"
+  },
+  {
+    "id_agricultor":"AGR0045",
+    "nombre":"Andrés",
+    "apellido":"Rodríguez",
+    "email":null,
+    "telefono":"+54 9 1767643690",
+    "provincia":"entre ríos",
+    "fecha_alta":"23\/05\/2022"
+  },
+  {
+    "id_agricultor":"AGR0046",
+    "nombre":"Camila",
+    "apellido":"Pérez",
+    "email":"agricultor46@correo.com",
+    "telefono":"+54 9 3824031273",
+    "provincia":"  Entre Ríos  ",
+    "fecha_alta":"2020-05-29"
+  },
+  {
+    "id_agricultor":"AGR0047",
+    "nombre":"María",
+    "apellido":"Flores",
+    "email":"agricultor47@correo.com",
+    "telefono":"+54 9 2288332531",
+    "provincia":"Buenos Aires",
+    "fecha_alta":"14\/11\/2020"
+  },
+  {
+    "id_agricultor":"AGR0048",
+    "nombre":"Diego",
+    "apellido":"Martínez",
+    "email":"agricultor48@correo.com",
+    "telefono":"+54 9 2997669065",
+    "provincia":"Chaco",
+    "fecha_alta":"2019-08-18"
+  },
+  {
+    "id_agricultor":"AGR0049",
+    "nombre":"Andrés",
+    "apellido":"Díaz",
+    "email":"agricultor49@correo.com",
+    "telefono":"+54 9 3443292475",
+    "provincia":"buenos aires",
+    "fecha_alta":"07\/04\/2022"
+  },
+  {
+    "id_agricultor":"AGR0050",
+    "nombre":"Pedro",
+    "apellido":"Fernández",
+    "email":null,
+    "telefono":"+54 9 2666166314",
+    "provincia":"buenos aires",
+    "fecha_alta":"06\/03\/2020"
+  },
+  {
+    "id_agricultor":"AGR0051",
+    "nombre":"Diego",
+    "apellido":"Rodríguez",
+    "email":"agricultor51@correo.com",
+    "telefono":"+54 9 3504681399",
+    "provincia":"CHACO",
+    "fecha_alta":"10\/03\/2024"
+  },
+  {
+    "id_agricultor":"AGR0052",
+    "nombre":"Paula",
+    "apellido":"Fernández",
+    "email":"agricultor52@correo.com",
+    "telefono":"+54 9 1860434128",
+    "provincia":"Chaco",
+    "fecha_alta":"03-01-2020"
+  },
+  {
+    "id_agricultor":"AGR0053",
+    "nombre":"Jorge",
+    "apellido":"García",
+    "email":"agricultor53@correo.com",
+    "telefono":"+54 9 2165870178",
+    "provincia":"ENTRE RÍOS",
+    "fecha_alta":"2023-06-01"
+  },
+  {
+    "id_agricultor":"AGR0054",
+    "nombre":"Pedro",
+    "apellido":"Gómez",
+    "email":"agricultor54@correo.com",
+    "telefono":"+54 9 2055345537",
+    "provincia":"  Mendoza  ",
+    "fecha_alta":"17-12-2020"
+  },
+  {
+    "id_agricultor":"AGR0055",
+    "nombre":"Paula",
+    "apellido":"López",
+    "email":"agricultor55@correo.com",
+    "telefono":"+54 9 3934820954",
+    "provincia":"  Mendoza  ",
+    "fecha_alta":"03-11-2020"
+  },
+  {
+    "id_agricultor":"AGR0056",
+    "nombre":"Paula",
+    "apellido":"Rodríguez",
+    "email":"agricultor56@correo.com",
+    "telefono":"+54 9 2298832728",
+    "provincia":"  Tucumán  ",
+    "fecha_alta":"23-10-2022"
+  },
+  {
+    "id_agricultor":"AGR0057",
+    "nombre":"Juan",
+    "apellido":"Rodríguez",
+    "email":"agricultor57@correo.com",
+    "telefono":"+54 9 2221910732",
+    "provincia":"santa fe",
+    "fecha_alta":"2019-03-20"
+  },
+  {
+    "id_agricultor":"AGR0058",
+    "nombre":"Valentina",
+    "apellido":"García",
+    "email":"agricultor58@correo.com",
+    "telefono":"+54 9 2447233823",
+    "provincia":"Chaco",
+    "fecha_alta":"27\/02\/2021"
+  },
+  {
+    "id_agricultor":"AGR0059",
+    "nombre":"Luis",
+    "apellido":"Gómez",
+    "email":"agricultor59@correo.com",
+    "telefono":"+54 9 1107263971",
+    "provincia":"mendoza",
+    "fecha_alta":"2021-06-02"
+  },
+  {
+    "id_agricultor":"AGR0060",
+    "nombre":"Diego",
+    "apellido":"Pérez",
+    "email":"agricultor60@correo.com",
+    "telefono":"+54 9 3949227494",
+    "provincia":"córdoba",
+    "fecha_alta":"04-11-2021"
+  },
+  {
+    "id_agricultor":"AGR0061",
+    "nombre":"Diego",
+    "apellido":"García",
+    "email":"agricultor61@correo.com",
+    "telefono":"+54 9 2369829408",
+    "provincia":"SANTA FE",
+    "fecha_alta":"2021\/05\/11"
+  },
+  {
+    "id_agricultor":"AGR0062",
+    "nombre":"Diego",
+    "apellido":"Díaz",
+    "email":"agricultor62@correo.com",
+    "telefono":"+54 9 3743616431",
+    "provincia":"  Entre Ríos  ",
+    "fecha_alta":"2022-01-27"
+  },
+  {
+    "id_agricultor":"AGR0063",
+    "nombre":"Luis",
+    "apellido":"Martínez",
+    "email":"agricultor63@correo.com",
+    "telefono":"+54 9 3591015654",
+    "provincia":"  Tucumán  ",
+    "fecha_alta":"2021\/06\/23"
+  },
+  {
+    "id_agricultor":"AGR0064",
+    "nombre":"Diego",
+    "apellido":"López",
+    "email":"agricultor64@correo.com",
+    "telefono":"+54 9 1828818981",
+    "provincia":"córdoba",
+    "fecha_alta":"21-11-2021"
+  },
+  {
+    "id_agricultor":"AGR0065",
+    "nombre":"María",
+    "apellido":"López",
+    "email":"agricultor65@correo.com",
+    "telefono":"+54 9 2064824319",
+    "provincia":"MENDOZA",
+    "fecha_alta":"2019-02-20"
+  },
+  {
+    "id_agricultor":"AGR0066",
+    "nombre":"Ana",
+    "apellido":"Sánchez",
+    "email":"agricultor66@correo.com",
+    "telefono":"+54 9 1412794864",
+    "provincia":"  La Pampa  ",
+    "fecha_alta":"20\/12\/2023"
+  },
+  {
+    "id_agricultor":"AGR0067",
+    "nombre":"Camila",
+    "apellido":"Díaz",
+    "email":"agricultor67@correo.com",
+    "telefono":"+54 9 2816495971",
+    "provincia":"MENDOZA",
+    "fecha_alta":"2022-09-05"
+  },
+  {
+    "id_agricultor":"AGR0068",
+    "nombre":"Andrés",
+    "apellido":"Rodríguez",
+    "email":"agricultor68@correo.com",
+    "telefono":"+54 9 2039915527",
+    "provincia":"  Santa Fe  ",
+    "fecha_alta":"13\/04\/2019"
+  },
+  {
+    "id_agricultor":"AGR0069",
+    "nombre":"Andrés",
+    "apellido":"Rodríguez",
+    "email":"agricultor69@correo.com",
+    "telefono":"+54 9 3095627518",
+    "provincia":"  Tucumán  ",
+    "fecha_alta":"2022\/06\/08"
+  },
+  {
+    "id_agricultor":"AGR0070",
+    "nombre":"Paula",
+    "apellido":"Romero",
+    "email":"agricultor70@correo.com",
+    "telefono":"+54 9 1783577992",
+    "provincia":"  La Pampa  ",
+    "fecha_alta":"14\/06\/2020"
+  },
+  {
+    "id_agricultor":"AGR0071",
+    "nombre":"Paula",
+    "apellido":"Flores",
+    "email":"agricultor71@correo.com",
+    "telefono":"+54 9 3338965651",
+    "provincia":"LA PAMPA",
+    "fecha_alta":"2020\/07\/16"
+  },
+  {
+    "id_agricultor":"AGR0072",
+    "nombre":"María",
+    "apellido":"Díaz",
+    "email":"agricultor72@correo.com",
+    "telefono":"+54 9 2267007513",
+    "provincia":"tucumán",
+    "fecha_alta":"2024-01-03"
+  },
+  {
+    "id_agricultor":"AGR0073",
+    "nombre":"Carlos",
+    "apellido":"Fernández",
+    "email":"agricultor73@correo.com",
+    "telefono":"+54 9 1756293602",
+    "provincia":"Mendoza",
+    "fecha_alta":"2021\/04\/29"
+  },
+  {
+    "id_agricultor":"AGR0074",
+    "nombre":"Sofía",
+    "apellido":"Romero",
+    "email":"agricultor74@correo.com",
+    "telefono":"+54 9 1367429212",
+    "provincia":"  Mendoza  ",
+    "fecha_alta":"2021-03-08"
+  },
+  {
+    "id_agricultor":"AGR0075",
+    "nombre":"Paula",
+    "apellido":"Torres",
+    "email":"agricultor75@correo.com",
+    "telefono":"+54 9 1125323460",
+    "provincia":"tucumán",
+    "fecha_alta":"2023\/03\/24"
+  },
+  {
+    "id_agricultor":"AGR0076",
+    "nombre":"Paula",
+    "apellido":"García",
+    "email":"agricultor76@correo.com",
+    "telefono":"+54 9 3445620385",
+    "provincia":"  Mendoza  ",
+    "fecha_alta":"25-03-2020"
+  },
+  {
+    "id_agricultor":"AGR0077",
+    "nombre":"Pedro",
+    "apellido":"Sánchez",
+    "email":null,
+    "telefono":"+54 9 2543665390",
+    "provincia":"CHACO",
+    "fecha_alta":"2023\/09\/18"
+  },
+  {
+    "id_agricultor":"AGR0078",
+    "nombre":"Andrés",
+    "apellido":"Fernández",
+    "email":"agricultor78@correo.com",
+    "telefono":"+54 9 3394043548",
+    "provincia":"  Buenos Aires  ",
+    "fecha_alta":"2022-04-27"
+  },
+  {
+    "id_agricultor":"AGR0079",
+    "nombre":"María",
+    "apellido":"Flores",
+    "email":"agricultor79@correo.com",
+    "telefono":"+54 9 3082979741",
+    "provincia":"Santa Fe",
+    "fecha_alta":"2020\/06\/16"
+  },
+  {
+    "id_agricultor":"AGR0080",
+    "nombre":"Sofía",
+    "apellido":"López",
+    "email":"agricultor80@correo.com",
+    "telefono":"+54 9 2549553823",
+    "provincia":"chaco",
+    "fecha_alta":"2023\/03\/21"
+  },
+  {
+    "id_agricultor":"AGR0081",
+    "nombre":"Luis",
+    "apellido":"Rodríguez",
+    "email":"agricultor81@correo.com",
+    "telefono":"+54 9 3416787198",
+    "provincia":"buenos aires",
+    "fecha_alta":"2020-04-04"
+  },
+  {
+    "id_agricultor":"AGR0082",
+    "nombre":"Jorge",
+    "apellido":"Flores",
+    "email":null,
+    "telefono":"+54 9 1233272825",
+    "provincia":"MENDOZA",
+    "fecha_alta":"2023-09-15"
+  },
+  {
+    "id_agricultor":"AGR0083",
+    "nombre":"Valentina",
+    "apellido":"Fernández",
+    "email":"agricultor83@correo.com",
+    "telefono":"+54 9 3133929266",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"10-08-2021"
+  },
+  {
+    "id_agricultor":"AGR0084",
+    "nombre":"Jorge",
+    "apellido":"Pérez",
+    "email":"agricultor84@correo.com",
+    "telefono":"+54 9 3708108101",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"29-05-2024"
+  },
+  {
+    "id_agricultor":"AGR0085",
+    "nombre":"María",
+    "apellido":"Torres",
+    "email":null,
+    "telefono":"+54 9 2439846171",
+    "provincia":"  Chaco  ",
+    "fecha_alta":"12\/04\/2024"
+  },
+  {
+    "id_agricultor":"AGR0086",
+    "nombre":"María",
+    "apellido":"Torres",
+    "email":"agricultor86@correo.com",
+    "telefono":"+54 9 3793985578",
+    "provincia":"Mendoza",
+    "fecha_alta":"28-11-2022"
+  },
+  {
+    "id_agricultor":"AGR0087",
+    "nombre":"Paula",
+    "apellido":"Flores",
+    "email":"agricultor87@correo.com",
+    "telefono":"+54 9 1619927529",
+    "provincia":"buenos aires",
+    "fecha_alta":"2021\/12\/27"
+  },
+  {
+    "id_agricultor":"AGR0088",
+    "nombre":"Diego",
+    "apellido":"Pérez",
+    "email":"agricultor88@correo.com",
+    "telefono":"+54 9 3881177100",
+    "provincia":"Tucumán",
+    "fecha_alta":"2023\/10\/06"
+  },
+  {
+    "id_agricultor":"AGR0089",
+    "nombre":"Paula",
+    "apellido":"Sánchez",
+    "email":null,
+    "telefono":"+54 9 2655585773",
+    "provincia":"LA PAMPA",
+    "fecha_alta":"10\/06\/2021"
+  },
+  {
+    "id_agricultor":"AGR0090",
+    "nombre":"Camila",
+    "apellido":"Romero",
+    "email":"agricultor90@correo.com",
+    "telefono":"+54 9 2259995046",
+    "provincia":"  La Pampa  ",
+    "fecha_alta":"11-06-2021"
+  },
+  {
+    "id_agricultor":"AGR0091",
+    "nombre":"Sofía",
+    "apellido":"López",
+    "email":"agricultor91@correo.com",
+    "telefono":"+54 9 1472214308",
+    "provincia":"  Entre Ríos  ",
+    "fecha_alta":"2020\/05\/14"
+  },
+  {
+    "id_agricultor":"AGR0092",
+    "nombre":"Valentina",
+    "apellido":"Torres",
+    "email":"agricultor92@correo.com",
+    "telefono":"+54 9 2544812497",
+    "provincia":"  Buenos Aires  ",
+    "fecha_alta":"09-10-2023"
+  },
+  {
+    "id_agricultor":"AGR0093",
+    "nombre":"Carlos",
+    "apellido":"Sánchez",
+    "email":"agricultor93@correo.com",
+    "telefono":"+54 9 2209615163",
+    "provincia":"tucumán",
+    "fecha_alta":"08-12-2023"
+  },
+  {
+    "id_agricultor":"AGR0094",
+    "nombre":"Miguel",
+    "apellido":"Gómez",
+    "email":"agricultor94@correo.com",
+    "telefono":"+54 9 1920581106",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"2023\/01\/14"
+  },
+  {
+    "id_agricultor":"AGR0095",
+    "nombre":"Lucía",
+    "apellido":"Romero",
+    "email":"agricultor95@correo.com",
+    "telefono":"+54 9 3144804330",
+    "provincia":"  La Pampa  ",
+    "fecha_alta":"2023-06-12"
+  },
+  {
+    "id_agricultor":"AGR0096",
+    "nombre":"María",
+    "apellido":"Martínez",
+    "email":"agricultor96@correo.com",
+    "telefono":"+54 9 2144987715",
+    "provincia":"entre ríos",
+    "fecha_alta":"27-08-2021"
+  },
+  {
+    "id_agricultor":"AGR0097",
+    "nombre":"Pedro",
+    "apellido":"Díaz",
+    "email":"agricultor97@correo.com",
+    "telefono":"+54 9 2611014697",
+    "provincia":"la pampa",
+    "fecha_alta":"19-09-2020"
+  },
+  {
+    "id_agricultor":"AGR0098",
+    "nombre":"Ana",
+    "apellido":"Rodríguez",
+    "email":"agricultor98@correo.com",
+    "telefono":"+54 9 2455268102",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"28\/01\/2020"
+  },
+  {
+    "id_agricultor":"AGR0099",
+    "nombre":"Camila",
+    "apellido":"Sánchez",
+    "email":"agricultor99@correo.com",
+    "telefono":"+54 9 3632256470",
+    "provincia":"Entre Ríos",
+    "fecha_alta":"02\/09\/2023"
+  },
+  {
+    "id_agricultor":"AGR0100",
+    "nombre":"Luis",
+    "apellido":"López",
+    "email":"agricultor100@correo.com",
+    "telefono":"+54 9 2398229437",
+    "provincia":"BUENOS AIRES",
+    "fecha_alta":"2020-07-15"
+  },
+  {
+    "id_agricultor":"AGR0026",
+    "nombre":"Juan",
+    "apellido":"Rodríguez",
+    "email":"agricultor26@correo.com",
+    "telefono":"+54 9 1352860896",
+    "provincia":"Mendoza",
+    "fecha_alta":"2024-01-29"
+  },
+  {
+    "id_agricultor":"AGR0089",
+    "nombre":"Paula",
+    "apellido":"Sánchez",
+    "email":null,
+    "telefono":"+54 9 2655585773",
+    "provincia":"LA PAMPA",
+    "fecha_alta":"10\/06\/2021"
+  },
+  {
+    "id_agricultor":"AGR0078",
+    "nombre":"Andrés",
+    "apellido":"Fernández",
+    "email":"agricultor78@correo.com",
+    "telefono":"+54 9 3394043548",
+    "provincia":"  Buenos Aires  ",
+    "fecha_alta":"2022-04-27"
+  },
+  {
+    "id_agricultor":"AGR0100",
+    "nombre":"Luis",
+    "apellido":"López",
+    "email":"agricultor100@correo.com",
+    "telefono":"+54 9 2398229437",
+    "provincia":"BUENOS AIRES",
+    "fecha_alta":"2020-07-15"
+  },
+  {
+    "id_agricultor":"AGR0044",
+    "nombre":"Diego",
+    "apellido":"Romero",
+    "email":"agricultor44@correo.com",
+    "telefono":"+54 9 3949232839",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"2020-06-25"
+  },
+  {
+    "id_agricultor":"AGR0094",
+    "nombre":"Miguel",
+    "apellido":"Gómez",
+    "email":"agricultor94@correo.com",
+    "telefono":"+54 9 1920581106",
+    "provincia":"CÓRDOBA",
+    "fecha_alta":"2023\/01\/14"
+  },
+  {
+    "id_agricultor":"AGR0065",
+    "nombre":"María",
+    "apellido":"López",
+    "email":"agricultor65@correo.com",
+    "telefono":"+54 9 2064824319",
+    "provincia":"MENDOZA",
+    "fecha_alta":"2019-02-20"
+  }
+]
