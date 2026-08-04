@@ -1,0 +1,7842 @@
+[
+  {
+    "id_lectura":1,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"12\/03\/2025 06:11",
+    "valor_medido":6.22,
+    "unidad_medida":"pH",
+    "bateria_%":52.0
+  },
+  {
+    "id_lectura":2,
+    "id_sensor":"SEN0088",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"31\/03\/2025 18:18",
+    "valor_medido":7.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":3,
+    "id_sensor":"SEN0116",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 11",
+    "timestamp":"2025-03-29T06:55:00",
+    "valor_medido":5.38,
+    "unidad_medida":"pH",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":4,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-02-11 01:35:00",
+    "valor_medido":40.5,
+    "unidad_medida":"%",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":5,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"23\/02\/2025 16:28",
+    "valor_medido":13.3,
+    "unidad_medida":"pH",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":6,
+    "id_sensor":"sen3",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 65",
+    "timestamp":"2025-01-30T07:00:00",
+    "valor_medido":31.0,
+    "unidad_medida":"°C",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":7,
+    "id_sensor":"SEN0022",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 17",
+    "timestamp":"2025-03-03T12:31:00",
+    "valor_medido":48.3,
+    "unidad_medida":"%",
+    "bateria_%":90.0
+  },
+  {
+    "id_lectura":8,
+    "id_sensor":"SEN-104",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-01-06T15:24:00",
+    "valor_medido":5.22,
+    "unidad_medida":"pH",
+    "bateria_%":55.0
+  },
+  {
+    "id_lectura":9,
+    "id_sensor":"sen111",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 55",
+    "timestamp":"29\/01\/2025 14:23",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":24.0
+  },
+  {
+    "id_lectura":10,
+    "id_sensor":"SEN-100",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 66",
+    "timestamp":"2025-03-16T12:10:00",
+    "valor_medido":5.87,
+    "unidad_medida":"pH",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":11,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"18\/02\/2025 06:57",
+    "valor_medido":51.1,
+    "unidad_medida":"%",
+    "bateria_%":6.0
+  },
+  {
+    "id_lectura":12,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"13\/03\/2025 12:36",
+    "valor_medido":44.9,
+    "unidad_medida":"%",
+    "bateria_%":46.0
+  },
+  {
+    "id_lectura":13,
+    "id_sensor":"sen91",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"2025-01-01T16:40:00",
+    "valor_medido":19.0,
+    "unidad_medida":"lux",
+    "bateria_%":61.0
+  },
+  {
+    "id_lectura":14,
+    "id_sensor":"SEN_120",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 105",
+    "timestamp":"2025-02-06 08:23:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":15,
+    "id_sensor":"sen114",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 9",
+    "timestamp":"2025-01-15 21:59:00",
+    "valor_medido":28.4,
+    "unidad_medida":"°C",
+    "bateria_%":50.0
+  },
+  {
+    "id_lectura":16,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-03-27T17:35:00",
+    "valor_medido":33.0,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":17,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"10\/04\/2025 01:19",
+    "valor_medido":63242.0,
+    "unidad_medida":"lux",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":18,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-01-09 02:56:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":72.0
+  },
+  {
+    "id_lectura":19,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-01-12 05:18:00",
+    "valor_medido":51302.0,
+    "unidad_medida":"lux",
+    "bateria_%":44.0
+  },
+  {
+    "id_lectura":20,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-04-09 13:37:00",
+    "valor_medido":3.7,
+    "unidad_medida":"mm",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":21,
+    "id_sensor":"sen114",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 9",
+    "timestamp":"2025-04-06T03:11:00",
+    "valor_medido":13.4,
+    "unidad_medida":"°C",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":22,
+    "id_sensor":"SEN_076",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 26",
+    "timestamp":"2025-04-15 06:13:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":91.0
+  },
+  {
+    "id_lectura":23,
+    "id_sensor":"SEN0116",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 11",
+    "timestamp":"2025-01-07T07:43:00",
+    "valor_medido":6.92,
+    "unidad_medida":"pH",
+    "bateria_%":86.0
+  },
+  {
+    "id_lectura":24,
+    "id_sensor":"SEN_064",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"23\/04\/2025 22:00",
+    "valor_medido":61.5,
+    "unidad_medida":"%",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":25,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"08\/02\/2025 13:45",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":26,
+    "id_sensor":"SEN-69",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 39",
+    "timestamp":"2025-03-21T06:15:00",
+    "valor_medido":5.12,
+    "unidad_medida":"pH",
+    "bateria_%":76.0
+  },
+  {
+    "id_lectura":27,
+    "id_sensor":"SEN_032",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-02-16 22:43:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":71.0
+  },
+  {
+    "id_lectura":28,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-03-14T08:04:00",
+    "valor_medido":45942.0,
+    "unidad_medida":"lux",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":29,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"2025-05-08T12:08:00",
+    "valor_medido":19.0,
+    "unidad_medida":"%",
+    "bateria_%":14.0
+  },
+  {
+    "id_lectura":30,
+    "id_sensor":"SEN-79",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"2025-03-17T10:43:00",
+    "valor_medido":6.9,
+    "unidad_medida":"pH",
+    "bateria_%":97.0
+  },
+  {
+    "id_lectura":31,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-01-19T05:47:00",
+    "valor_medido":16.7,
+    "unidad_medida":"°C",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":32,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"22\/02\/2025 01:57",
+    "valor_medido":4.8,
+    "unidad_medida":"mm",
+    "bateria_%":83.0
+  },
+  {
+    "id_lectura":33,
+    "id_sensor":"sen123",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"2025-03-30 09:33:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":18.0
+  },
+  {
+    "id_lectura":34,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-04-23 13:09:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":42.0
+  },
+  {
+    "id_lectura":35,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-05-06T16:54:00",
+    "valor_medido":7.2,
+    "unidad_medida":"pH",
+    "bateria_%":34.0
+  },
+  {
+    "id_lectura":36,
+    "id_sensor":"SEN0031",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"09\/03\/2025 19:13",
+    "valor_medido":-14.8,
+    "unidad_medida":"°C",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":37,
+    "id_sensor":"SEN_097",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Norte 77",
+    "timestamp":"2025-05-05 16:09:00",
+    "valor_medido":null,
+    "unidad_medida":"km\/h",
+    "bateria_%":95.0
+  },
+  {
+    "id_lectura":38,
+    "id_sensor":"SEN-28",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-03-22T15:58:00",
+    "valor_medido":45.0,
+    "unidad_medida":"lux",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":39,
+    "id_sensor":"sen10",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 7",
+    "timestamp":"17\/01\/2025 06:06",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":97.0
+  },
+  {
+    "id_lectura":40,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-04-05 00:37:00",
+    "valor_medido":49.9,
+    "unidad_medida":"%",
+    "bateria_%":20.0
+  },
+  {
+    "id_lectura":41,
+    "id_sensor":"SEN-40",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-01-12T22:41:00",
+    "valor_medido":39.4,
+    "unidad_medida":"%",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":42,
+    "id_sensor":"SEN_029",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 64",
+    "timestamp":"2025-04-06 10:38:00",
+    "valor_medido":41.3,
+    "unidad_medida":"%",
+    "bateria_%":25.0
+  },
+  {
+    "id_lectura":43,
+    "id_sensor":"sen91",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"11\/01\/2025 11:46",
+    "valor_medido":76952.0,
+    "unidad_medida":"lux",
+    "bateria_%":35.0
+  },
+  {
+    "id_lectura":44,
+    "id_sensor":"sen10",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 7",
+    "timestamp":"2025-03-09T01:21:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":45,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"06\/01\/2025 13:31",
+    "valor_medido":52632.0,
+    "unidad_medida":"lux",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":46,
+    "id_sensor":"sen51",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"17\/04\/2025 20:07",
+    "valor_medido":39.3,
+    "unidad_medida":"km\/h",
+    "bateria_%":33.0
+  },
+  {
+    "id_lectura":47,
+    "id_sensor":"SEN0113",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 82",
+    "timestamp":"2025-05-17 08:15:00",
+    "valor_medido":52.3,
+    "unidad_medida":"%",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":48,
+    "id_sensor":"sen10",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 7",
+    "timestamp":"2025-01-10 00:55:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":49,
+    "id_sensor":"SEN_064",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"10\/02\/2025 23:31",
+    "valor_medido":48.3,
+    "unidad_medida":"%",
+    "bateria_%":65.0
+  },
+  {
+    "id_lectura":50,
+    "id_sensor":"sen127",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-01-04T15:36:00",
+    "valor_medido":56.0,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":51,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-01-25T02:05:00",
+    "valor_medido":65.6,
+    "unidad_medida":"%",
+    "bateria_%":28.0
+  },
+  {
+    "id_lectura":52,
+    "id_sensor":"SEN-79",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"15\/02\/2025 22:42",
+    "valor_medido":6.6,
+    "unidad_medida":"pH",
+    "bateria_%":90.0
+  },
+  {
+    "id_lectura":53,
+    "id_sensor":"SEN_018",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"28\/04\/2025 00:10",
+    "valor_medido":3.0,
+    "unidad_medida":"mm",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":54,
+    "id_sensor":"SEN0092",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"2025-03-26T23:02:00",
+    "valor_medido":26.2,
+    "unidad_medida":"°C",
+    "bateria_%":50.0
+  },
+  {
+    "id_lectura":55,
+    "id_sensor":"sen146",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 47",
+    "timestamp":"2025-04-17T09:39:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":47.0
+  },
+  {
+    "id_lectura":56,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"2025-04-13T05:02:00",
+    "valor_medido":67.8,
+    "unidad_medida":"%",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":57,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"20\/01\/2025 16:18",
+    "valor_medido":37.8,
+    "unidad_medida":"%",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":58,
+    "id_sensor":"SEN-98",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"01\/03\/2025 04:32",
+    "valor_medido":6.2,
+    "unidad_medida":"pH",
+    "bateria_%":83.0
+  },
+  {
+    "id_lectura":59,
+    "id_sensor":"SEN-117",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"2025-02-24 09:26:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":76.0
+  },
+  {
+    "id_lectura":60,
+    "id_sensor":"SEN-69",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 39",
+    "timestamp":"2025-03-15T13:31:00",
+    "valor_medido":5.7,
+    "unidad_medida":"pH",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":61,
+    "id_sensor":"SEN0057",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 29",
+    "timestamp":"30\/04\/2025 07:29",
+    "valor_medido":19.0,
+    "unidad_medida":"lux",
+    "bateria_%":94.0
+  },
+  {
+    "id_lectura":62,
+    "id_sensor":"sen50",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"2025-01-07 10:18:00",
+    "valor_medido":49097.0,
+    "unidad_medida":"lux",
+    "bateria_%":91.0
+  },
+  {
+    "id_lectura":63,
+    "id_sensor":"sen11",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 101",
+    "timestamp":"2025-02-10T11:31:00",
+    "valor_medido":41.3,
+    "unidad_medida":"%",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":64,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-03-07T06:17:00",
+    "valor_medido":7.7,
+    "unidad_medida":"mm",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":65,
+    "id_sensor":"sen143",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 72",
+    "timestamp":"2025-02-23 11:33:00",
+    "valor_medido":null,
+    "unidad_medida":"°C",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":66,
+    "id_sensor":"SEN0031",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"2025-04-12 18:26:00",
+    "valor_medido":22.9,
+    "unidad_medida":"°C",
+    "bateria_%":42.0
+  },
+  {
+    "id_lectura":67,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"30\/04\/2025 03:16",
+    "valor_medido":null,
+    "unidad_medida":"mm",
+    "bateria_%":39.0
+  },
+  {
+    "id_lectura":68,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"18\/03\/2025 13:04",
+    "valor_medido":63.1,
+    "unidad_medida":"%",
+    "bateria_%":74.0
+  },
+  {
+    "id_lectura":69,
+    "id_sensor":"SEN-44",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 54",
+    "timestamp":"2025-02-23 12:43:00",
+    "valor_medido":72.1,
+    "unidad_medida":"%",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":70,
+    "id_sensor":"SEN0142",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 116",
+    "timestamp":"17\/04\/2025 05:40",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":64.0
+  },
+  {
+    "id_lectura":71,
+    "id_sensor":"SEN0005",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"22\/01\/2025 19:29",
+    "valor_medido":25637.0,
+    "unidad_medida":"lux",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":72,
+    "id_sensor":"SEN-93",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"26\/01\/2025 00:09",
+    "valor_medido":14.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":72.0
+  },
+  {
+    "id_lectura":73,
+    "id_sensor":"SEN_064",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-03-25T07:09:00",
+    "valor_medido":64.0,
+    "unidad_medida":"%",
+    "bateria_%":10.0
+  },
+  {
+    "id_lectura":74,
+    "id_sensor":"SEN0033",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-03-30 18:16:00",
+    "valor_medido":26.8,
+    "unidad_medida":"%",
+    "bateria_%":7.0
+  },
+  {
+    "id_lectura":75,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"2025-01-01 20:35:00",
+    "valor_medido":37.6,
+    "unidad_medida":"%",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":76,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"15\/04\/2025 21:48",
+    "valor_medido":42.9,
+    "unidad_medida":"%",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":77,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"17\/01\/2025 00:39",
+    "valor_medido":16.0,
+    "unidad_medida":"°C",
+    "bateria_%":51.0
+  },
+  {
+    "id_lectura":78,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"20\/03\/2025 02:26",
+    "valor_medido":86.1,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":79,
+    "id_sensor":"SEN0128",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 32",
+    "timestamp":"08\/04\/2025 04:07",
+    "valor_medido":25.5,
+    "unidad_medida":"°C",
+    "bateria_%":41.0
+  },
+  {
+    "id_lectura":80,
+    "id_sensor":"SEN-40",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-05-18 18:43:00",
+    "valor_medido":34.1,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":81,
+    "id_sensor":"SEN_049",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-01-01 18:01:00",
+    "valor_medido":55.6,
+    "unidad_medida":"%",
+    "bateria_%":44.0
+  },
+  {
+    "id_lectura":82,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"26\/02\/2025 19:33",
+    "valor_medido":55.4,
+    "unidad_medida":"%",
+    "bateria_%":39.0
+  },
+  {
+    "id_lectura":83,
+    "id_sensor":"sen25",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-01-31 09:43:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":84,
+    "id_sensor":"sen50",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"24\/03\/2025 23:58",
+    "valor_medido":24714.0,
+    "unidad_medida":"lux",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":85,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"25\/01\/2025 08:32",
+    "valor_medido":6.2,
+    "unidad_medida":"mm",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":86,
+    "id_sensor":"sen106",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-03-15 10:26:00",
+    "valor_medido":267.7,
+    "unidad_medida":"km\/h",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":87,
+    "id_sensor":"sen127",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"02\/04\/2025 20:46",
+    "valor_medido":71.2,
+    "unidad_medida":"%",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":88,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"10\/03\/2025 07:14",
+    "valor_medido":5.0,
+    "unidad_medida":"%",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":89,
+    "id_sensor":"SEN_058",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-01-09 20:16:00",
+    "valor_medido":13.9,
+    "unidad_medida":"km\/h",
+    "bateria_%":83.0
+  },
+  {
+    "id_lectura":90,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"2025-01-04 14:15:00",
+    "valor_medido":18.5,
+    "unidad_medida":"pH",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":91,
+    "id_sensor":"SEN_058",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-05-08T18:30:00",
+    "valor_medido":23.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":92,
+    "id_sensor":"SEN_064",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-02-24 19:35:00",
+    "valor_medido":97.2,
+    "unidad_medida":"%",
+    "bateria_%":34.0
+  },
+  {
+    "id_lectura":93,
+    "id_sensor":"SEN-144",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"2025-04-24 09:02:00",
+    "valor_medido":18.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":13.0
+  },
+  {
+    "id_lectura":94,
+    "id_sensor":"SEN0113",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 82",
+    "timestamp":"2025-04-04 03:08:00",
+    "valor_medido":35.7,
+    "unidad_medida":"%",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":95,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-01-20T08:16:00",
+    "valor_medido":85.1,
+    "unidad_medida":"%",
+    "bateria_%":33.0
+  },
+  {
+    "id_lectura":96,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"06\/04\/2025 05:39",
+    "valor_medido":63.4,
+    "unidad_medida":"%",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":97,
+    "id_sensor":"SEN_038",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 14",
+    "timestamp":"30\/01\/2025 04:40",
+    "valor_medido":74.4,
+    "unidad_medida":"°C",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":98,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-01-03 07:42:00",
+    "valor_medido":15.5,
+    "unidad_medida":"°C",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":99,
+    "id_sensor":"SEN_059",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 52",
+    "timestamp":"2025-03-31 22:46:00",
+    "valor_medido":57.0,
+    "unidad_medida":"%",
+    "bateria_%":9.0
+  },
+  {
+    "id_lectura":100,
+    "id_sensor":"sen24",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 38",
+    "timestamp":"12\/05\/2025 17:17",
+    "valor_medido":6.66,
+    "unidad_medida":"pH",
+    "bateria_%":58.0
+  },
+  {
+    "id_lectura":101,
+    "id_sensor":"SEN0109",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-02-23 21:20:00",
+    "valor_medido":42.9,
+    "unidad_medida":"%",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":102,
+    "id_sensor":"sen143",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 72",
+    "timestamp":"08\/01\/2025 04:20",
+    "valor_medido":13.5,
+    "unidad_medida":"°C",
+    "bateria_%":40.0
+  },
+  {
+    "id_lectura":103,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-03-19 13:12:00",
+    "valor_medido":38.5,
+    "unidad_medida":"%",
+    "bateria_%":5.0
+  },
+  {
+    "id_lectura":104,
+    "id_sensor":"sen91",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"2025-01-02 18:15:00",
+    "valor_medido":56958.0,
+    "unidad_medida":"lux",
+    "bateria_%":56.0
+  },
+  {
+    "id_lectura":105,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"24\/04\/2025 04:42",
+    "valor_medido":64317.0,
+    "unidad_medida":"lux",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":106,
+    "id_sensor":"SEN0094",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Sur 90",
+    "timestamp":"21\/01\/2025 17:20",
+    "valor_medido":5.84,
+    "unidad_medida":"pH",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":107,
+    "id_sensor":"SEN0113",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 82",
+    "timestamp":"06\/05\/2025 14:13",
+    "valor_medido":84.6,
+    "unidad_medida":"%",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":108,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-01-21T13:57:00",
+    "valor_medido":7.2,
+    "unidad_medida":"pH",
+    "bateria_%":20.0
+  },
+  {
+    "id_lectura":109,
+    "id_sensor":"SEN_097",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Norte 77",
+    "timestamp":"2025-01-19T21:07:00",
+    "valor_medido":26.9,
+    "unidad_medida":"km\/h",
+    "bateria_%":72.0
+  },
+  {
+    "id_lectura":110,
+    "id_sensor":"SEN0057",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 29",
+    "timestamp":"04\/05\/2025 11:56",
+    "valor_medido":63157.0,
+    "unidad_medida":"lux",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":111,
+    "id_sensor":"SEN0145",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-05-13 09:31:00",
+    "valor_medido":6.3,
+    "unidad_medida":"km\/h",
+    "bateria_%":62.0
+  },
+  {
+    "id_lectura":112,
+    "id_sensor":"SEN0142",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 116",
+    "timestamp":"2025-01-21 13:25:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":40.0
+  },
+  {
+    "id_lectura":113,
+    "id_sensor":"sen90",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-01-03T06:00:00",
+    "valor_medido":1.7,
+    "unidad_medida":"km\/h",
+    "bateria_%":95.0
+  },
+  {
+    "id_lectura":114,
+    "id_sensor":"SEN0080",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"2025-04-15T23:25:00",
+    "valor_medido":38.0,
+    "unidad_medida":"lux",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":115,
+    "id_sensor":"sen10",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 7",
+    "timestamp":"06\/04\/2025 05:28",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":31.0
+  },
+  {
+    "id_lectura":116,
+    "id_sensor":"SEN_078",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-03-29T17:34:00",
+    "valor_medido":20.3,
+    "unidad_medida":"°C",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":117,
+    "id_sensor":"SEN_027",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-04-12T15:26:00",
+    "valor_medido":5.71,
+    "unidad_medida":"pH",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":118,
+    "id_sensor":"sen10",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 7",
+    "timestamp":"29\/01\/2025 13:37",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":9.0
+  },
+  {
+    "id_lectura":119,
+    "id_sensor":"SEN-96",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-05-17 19:02:00",
+    "valor_medido":5.59,
+    "unidad_medida":"pH",
+    "bateria_%":35.0
+  },
+  {
+    "id_lectura":120,
+    "id_sensor":"SEN0055",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"2025-01-10T03:59:00",
+    "valor_medido":17.8,
+    "unidad_medida":"°C",
+    "bateria_%":51.0
+  },
+  {
+    "id_lectura":121,
+    "id_sensor":"SEN-21",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"12\/02\/2025 18:43",
+    "valor_medido":null,
+    "unidad_medida":"pH",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":122,
+    "id_sensor":"SEN-136",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"17\/01\/2025 00:33",
+    "valor_medido":34.2,
+    "unidad_medida":"%",
+    "bateria_%":63.0
+  },
+  {
+    "id_lectura":123,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-05-16 15:59:00",
+    "valor_medido":13.1,
+    "unidad_medida":"°C",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":124,
+    "id_sensor":"SEN_006",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"2025-04-12 10:08:00",
+    "valor_medido":33.8,
+    "unidad_medida":"°C",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":125,
+    "id_sensor":"sen10",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 7",
+    "timestamp":"2025-04-27 01:26:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":58.0
+  },
+  {
+    "id_lectura":126,
+    "id_sensor":"sen11",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 101",
+    "timestamp":"2025-03-04 01:12:00",
+    "valor_medido":7.2,
+    "unidad_medida":"%",
+    "bateria_%":58.0
+  },
+  {
+    "id_lectura":127,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-03-02T10:24:00",
+    "valor_medido":6.56,
+    "unidad_medida":"pH",
+    "bateria_%":91.0
+  },
+  {
+    "id_lectura":128,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"30\/04\/2025 15:12",
+    "valor_medido":3.8,
+    "unidad_medida":"°C",
+    "bateria_%":97.0
+  },
+  {
+    "id_lectura":129,
+    "id_sensor":"sen123",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"2025-04-30T22:49:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":130,
+    "id_sensor":"SEN-79",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"2025-04-10T16:53:00",
+    "valor_medido":6.27,
+    "unidad_medida":"pH",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":131,
+    "id_sensor":"SEN0118",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 6",
+    "timestamp":"2025-03-31T15:25:00",
+    "valor_medido":23275.0,
+    "unidad_medida":"lux",
+    "bateria_%":32.0
+  },
+  {
+    "id_lectura":132,
+    "id_sensor":"SEN0005",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"22\/04\/2025 04:51",
+    "valor_medido":0.0,
+    "unidad_medida":"lux",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":133,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-02-04 16:39:00",
+    "valor_medido":6.3,
+    "unidad_medida":"pH",
+    "bateria_%":5.0
+  },
+  {
+    "id_lectura":134,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"26\/04\/2025 06:40",
+    "valor_medido":54817.0,
+    "unidad_medida":"lux",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":135,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"2025-04-02T18:52:00",
+    "valor_medido":71897.0,
+    "unidad_medida":"lux",
+    "bateria_%":70.0
+  },
+  {
+    "id_lectura":136,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"20\/03\/2025 18:58",
+    "valor_medido":37.9,
+    "unidad_medida":"%",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":137,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-02-02 06:12:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":138,
+    "id_sensor":"SEN-21",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"20\/04\/2025 07:49",
+    "valor_medido":6.54,
+    "unidad_medida":"pH",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":139,
+    "id_sensor":"SEN_041",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 95",
+    "timestamp":"2025-03-18T05:10:00",
+    "valor_medido":32.4,
+    "unidad_medida":"°C",
+    "bateria_%":35.0
+  },
+  {
+    "id_lectura":140,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"14\/03\/2025 10:19",
+    "valor_medido":14.9,
+    "unidad_medida":"°C",
+    "bateria_%":17.0
+  },
+  {
+    "id_lectura":141,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"2025-01-26T03:43:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":142,
+    "id_sensor":"SEN0034",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-04-10T17:24:00",
+    "valor_medido":12.7,
+    "unidad_medida":"°C",
+    "bateria_%":70.0
+  },
+  {
+    "id_lectura":143,
+    "id_sensor":"SEN_047",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 44",
+    "timestamp":"2025-04-26 03:47:00",
+    "valor_medido":26.9,
+    "unidad_medida":"°C",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":144,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-05-05T23:51:00",
+    "valor_medido":61.9,
+    "unidad_medida":"%",
+    "bateria_%":90.0
+  },
+  {
+    "id_lectura":145,
+    "id_sensor":"SEN-98",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"2025-04-29 08:16:00",
+    "valor_medido":6.68,
+    "unidad_medida":"pH",
+    "bateria_%":88.0
+  },
+  {
+    "id_lectura":146,
+    "id_sensor":"SEN_086",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 23",
+    "timestamp":"2025-04-26 22:33:00",
+    "valor_medido":5.61,
+    "unidad_medida":"pH",
+    "bateria_%":71.0
+  },
+  {
+    "id_lectura":147,
+    "id_sensor":"SEN-15",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-03-29T10:46:00",
+    "valor_medido":7.41,
+    "unidad_medida":"pH",
+    "bateria_%":86.0
+  },
+  {
+    "id_lectura":148,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"17\/05\/2025 03:29",
+    "valor_medido":52396.0,
+    "unidad_medida":"lux",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":149,
+    "id_sensor":"SEN-60",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-01-20 09:10:00",
+    "valor_medido":146.4,
+    "unidad_medida":"mm",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":150,
+    "id_sensor":"SEN_049",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-01-30T07:08:00",
+    "valor_medido":77.0,
+    "unidad_medida":"%",
+    "bateria_%":7.0
+  },
+  {
+    "id_lectura":151,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"2025-05-06 17:15:00",
+    "valor_medido":12.7,
+    "unidad_medida":"%",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":152,
+    "id_sensor":"SEN0014",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-03-07 07:06:00",
+    "valor_medido":7.22,
+    "unidad_medida":"pH",
+    "bateria_%":86.0
+  },
+  {
+    "id_lectura":153,
+    "id_sensor":"SEN-63",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 55",
+    "timestamp":"2025-05-15T14:53:00",
+    "valor_medido":3.0,
+    "unidad_medida":"lux",
+    "bateria_%":30.0
+  },
+  {
+    "id_lectura":154,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-04-04T00:15:00",
+    "valor_medido":33.7,
+    "unidad_medida":"%",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":155,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"2025-01-09T13:15:00",
+    "valor_medido":34256.0,
+    "unidad_medida":"lux",
+    "bateria_%":70.0
+  },
+  {
+    "id_lectura":156,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"10\/01\/2025 19:03",
+    "valor_medido":141.3,
+    "unidad_medida":"mm",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":157,
+    "id_sensor":"SEN-121",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"09\/05\/2025 06:34",
+    "valor_medido":49.3,
+    "unidad_medida":"%",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":158,
+    "id_sensor":"sen90",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-05-15T10:20:00",
+    "valor_medido":14.6,
+    "unidad_medida":"km\/h",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":159,
+    "id_sensor":"SEN0126",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 120",
+    "timestamp":"2025-03-23T16:54:00",
+    "valor_medido":7.49,
+    "unidad_medida":"pH",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":160,
+    "id_sensor":"SEN_120",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 105",
+    "timestamp":"14\/05\/2025 19:36",
+    "valor_medido":23.2,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":161,
+    "id_sensor":"SEN0054",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 97",
+    "timestamp":"2025-02-20 19:27:00",
+    "valor_medido":26.5,
+    "unidad_medida":"°C",
+    "bateria_%":32.0
+  },
+  {
+    "id_lectura":162,
+    "id_sensor":"SEN-19",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"2025-01-02 00:39:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":163,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-02-28T17:35:00",
+    "valor_medido":19.3,
+    "unidad_medida":"°C",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":164,
+    "id_sensor":"SEN_105",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 86",
+    "timestamp":"2025-02-24T19:45:00",
+    "valor_medido":68.0,
+    "unidad_medida":"%",
+    "bateria_%":9.0
+  },
+  {
+    "id_lectura":165,
+    "id_sensor":"SEN_125",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 48",
+    "timestamp":"2025-05-09 19:54:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":166,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"02\/04\/2025 22:59",
+    "valor_medido":58876.0,
+    "unidad_medida":"lux",
+    "bateria_%":28.0
+  },
+  {
+    "id_lectura":167,
+    "id_sensor":"SEN-124",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 98",
+    "timestamp":"08\/02\/2025 20:09",
+    "valor_medido":5.82,
+    "unidad_medida":"pH",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":168,
+    "id_sensor":"SEN_115",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 53",
+    "timestamp":"18\/05\/2025 00:24",
+    "valor_medido":68.7,
+    "unidad_medida":"%",
+    "bateria_%":96.0
+  },
+  {
+    "id_lectura":169,
+    "id_sensor":"SEN-15",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-04-29T04:50:00",
+    "valor_medido":-5.7,
+    "unidad_medida":"pH",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":170,
+    "id_sensor":"SEN0034",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-02-14T09:17:00",
+    "valor_medido":12.3,
+    "unidad_medida":"°C",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":171,
+    "id_sensor":"SEN0133",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"21\/01\/2025 15:20",
+    "valor_medido":66817.0,
+    "unidad_medida":"lux",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":172,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"05\/04\/2025 02:13",
+    "valor_medido":55.6,
+    "unidad_medida":"%",
+    "bateria_%":65.0
+  },
+  {
+    "id_lectura":173,
+    "id_sensor":"SEN-136",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"23\/03\/2025 02:40",
+    "valor_medido":59.2,
+    "unidad_medida":"%",
+    "bateria_%":24.0
+  },
+  {
+    "id_lectura":174,
+    "id_sensor":"sen68",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-02-28 07:28:00",
+    "valor_medido":62.9,
+    "unidad_medida":"%",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":175,
+    "id_sensor":"SEN-132",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-04-08T22:26:00",
+    "valor_medido":25.6,
+    "unidad_medida":"%",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":176,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-04-25T14:23:00",
+    "valor_medido":14.7,
+    "unidad_medida":"°C",
+    "bateria_%":13.0
+  },
+  {
+    "id_lectura":177,
+    "id_sensor":"sen50",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"2025-02-07T10:11:00",
+    "valor_medido":45161.0,
+    "unidad_medida":"lux",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":178,
+    "id_sensor":"SEN0033",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-01-14 03:05:00",
+    "valor_medido":42.6,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":179,
+    "id_sensor":"SEN0085",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 113",
+    "timestamp":"2025-05-11 12:02:00",
+    "valor_medido":5.04,
+    "unidad_medida":"pH",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":180,
+    "id_sensor":"SEN-132",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-02-15T20:36:00",
+    "valor_medido":33.2,
+    "unidad_medida":"%",
+    "bateria_%":33.0
+  },
+  {
+    "id_lectura":181,
+    "id_sensor":"SEN_047",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 44",
+    "timestamp":"2025-03-16T04:58:00",
+    "valor_medido":6.4,
+    "unidad_medida":"°C",
+    "bateria_%":40.0
+  },
+  {
+    "id_lectura":182,
+    "id_sensor":"SEN0014",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-01-04 01:47:00",
+    "valor_medido":5.46,
+    "unidad_medida":"pH",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":183,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"2025-05-12T02:58:00",
+    "valor_medido":31.4,
+    "unidad_medida":"%",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":184,
+    "id_sensor":"SEN0088",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"2025-01-14T05:08:00",
+    "valor_medido":9.1,
+    "unidad_medida":"km\/h",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":185,
+    "id_sensor":"SEN-20",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 4",
+    "timestamp":"2025-05-05 20:38:00",
+    "valor_medido":21.0,
+    "unidad_medida":"°C",
+    "bateria_%":56.0
+  },
+  {
+    "id_lectura":186,
+    "id_sensor":"SEN_102",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-03-11T10:25:00",
+    "valor_medido":10.1,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":187,
+    "id_sensor":"sen146",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 47",
+    "timestamp":"2025-01-29 10:59:00",
+    "valor_medido":44.4,
+    "unidad_medida":"%",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":188,
+    "id_sensor":"SEN_115",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 53",
+    "timestamp":"2025-02-23 16:46:00",
+    "valor_medido":71.6,
+    "unidad_medida":"%",
+    "bateria_%":93.0
+  },
+  {
+    "id_lectura":189,
+    "id_sensor":"SEN-132",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-04-28 22:53:00",
+    "valor_medido":39.1,
+    "unidad_medida":"%",
+    "bateria_%":71.0
+  },
+  {
+    "id_lectura":190,
+    "id_sensor":"SEN0116",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 11",
+    "timestamp":"2025-01-26 17:40:00",
+    "valor_medido":7.37,
+    "unidad_medida":"pH",
+    "bateria_%":50.0
+  },
+  {
+    "id_lectura":191,
+    "id_sensor":"SEN0092",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"2025-04-08 18:51:00",
+    "valor_medido":27.0,
+    "unidad_medida":"°C",
+    "bateria_%":95.0
+  },
+  {
+    "id_lectura":192,
+    "id_sensor":"SEN_105",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 86",
+    "timestamp":"15\/05\/2025 23:21",
+    "valor_medido":36.7,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":193,
+    "id_sensor":"SEN0128",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 32",
+    "timestamp":"2025-04-04 07:22:00",
+    "valor_medido":40.1,
+    "unidad_medida":"°C",
+    "bateria_%":32.0
+  },
+  {
+    "id_lectura":194,
+    "id_sensor":"SEN-21",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-02-05T09:01:00",
+    "valor_medido":null,
+    "unidad_medida":"pH",
+    "bateria_%":6.0
+  },
+  {
+    "id_lectura":195,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-05-17T17:21:00",
+    "valor_medido":29.4,
+    "unidad_medida":"°C",
+    "bateria_%":70.0
+  },
+  {
+    "id_lectura":196,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-01-14 07:34:00",
+    "valor_medido":27.4,
+    "unidad_medida":"°C",
+    "bateria_%":25.0
+  },
+  {
+    "id_lectura":197,
+    "id_sensor":"SEN-7",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 108",
+    "timestamp":"13\/05\/2025 02:08",
+    "valor_medido":6.78,
+    "unidad_medida":"pH",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":198,
+    "id_sensor":"sen137",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"30\/04\/2025 07:48",
+    "valor_medido":6.81,
+    "unidad_medida":"pH",
+    "bateria_%":24.0
+  },
+  {
+    "id_lectura":199,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"2025-02-27T20:25:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":74.0
+  },
+  {
+    "id_lectura":200,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"28\/01\/2025 17:49",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":201,
+    "id_sensor":"sen143",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 72",
+    "timestamp":"2025-01-01 21:06:00",
+    "valor_medido":15.0,
+    "unidad_medida":"°C",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":202,
+    "id_sensor":"SEN_027",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"21\/03\/2025 09:27",
+    "valor_medido":6.86,
+    "unidad_medida":"pH",
+    "bateria_%":93.0
+  },
+  {
+    "id_lectura":203,
+    "id_sensor":"SEN_008",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 85",
+    "timestamp":"02\/03\/2025 08:37",
+    "valor_medido":64216.0,
+    "unidad_medida":"lux",
+    "bateria_%":62.0
+  },
+  {
+    "id_lectura":204,
+    "id_sensor":"SEN-40",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-04-11T10:17:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":35.0
+  },
+  {
+    "id_lectura":205,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-01-26T11:40:00",
+    "valor_medido":40.0,
+    "unidad_medida":"lux",
+    "bateria_%":9.0
+  },
+  {
+    "id_lectura":206,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"2025-05-13 10:10:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":207,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-01-06T16:17:00",
+    "valor_medido":47.5,
+    "unidad_medida":"%",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":208,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-02-08T17:33:00",
+    "valor_medido":6.22,
+    "unidad_medida":"pH",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":209,
+    "id_sensor":"SEN-96",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-03-27 22:39:00",
+    "valor_medido":5.58,
+    "unidad_medida":"pH",
+    "bateria_%":28.0
+  },
+  {
+    "id_lectura":210,
+    "id_sensor":"sen10",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 7",
+    "timestamp":"18\/04\/2025 08:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":211,
+    "id_sensor":"sen9",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 23",
+    "timestamp":"2025-03-14 05:34:00",
+    "valor_medido":1.0,
+    "unidad_medida":"lux",
+    "bateria_%":78.0
+  },
+  {
+    "id_lectura":212,
+    "id_sensor":"SEN-44",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 54",
+    "timestamp":"2025-05-05T13:08:00",
+    "valor_medido":59.4,
+    "unidad_medida":"%",
+    "bateria_%":20.0
+  },
+  {
+    "id_lectura":213,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-02-02 14:41:00",
+    "valor_medido":31310.0,
+    "unidad_medida":"lux",
+    "bateria_%":61.0
+  },
+  {
+    "id_lectura":214,
+    "id_sensor":"SEN-65",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 40",
+    "timestamp":"07\/03\/2025 07:36",
+    "valor_medido":-4.4,
+    "unidad_medida":"pH",
+    "bateria_%":5.0
+  },
+  {
+    "id_lectura":215,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"02\/05\/2025 17:05",
+    "valor_medido":29832.0,
+    "unidad_medida":"lux",
+    "bateria_%":58.0
+  },
+  {
+    "id_lectura":216,
+    "id_sensor":"SEN_058",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-01-09T10:53:00",
+    "valor_medido":-5.0,
+    "unidad_medida":"km\/h",
+    "bateria_%":35.0
+  },
+  {
+    "id_lectura":217,
+    "id_sensor":"sen91",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"2025-05-16 01:27:00",
+    "valor_medido":47723.0,
+    "unidad_medida":"lux",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":218,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-03-08 12:00:00",
+    "valor_medido":17.8,
+    "unidad_medida":"°C",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":219,
+    "id_sensor":"SEN0088",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"10\/02\/2025 13:51",
+    "valor_medido":28.1,
+    "unidad_medida":"km\/h",
+    "bateria_%":44.0
+  },
+  {
+    "id_lectura":220,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"2025-03-30T15:07:00",
+    "valor_medido":35.9,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":221,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-26 07:09:00",
+    "valor_medido":93.9,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":222,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"2025-02-21 02:52:00",
+    "valor_medido":51.1,
+    "unidad_medida":"%",
+    "bateria_%":77.0
+  },
+  {
+    "id_lectura":223,
+    "id_sensor":"sen50",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"11\/05\/2025 13:56",
+    "valor_medido":80044.0,
+    "unidad_medida":"lux",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":224,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"21\/01\/2025 15:11",
+    "valor_medido":15.4,
+    "unidad_medida":"°C",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":225,
+    "id_sensor":"sen150",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"30\/01\/2025 08:29",
+    "valor_medido":7.12,
+    "unidad_medida":"pH",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":226,
+    "id_sensor":"SEN0112",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 108",
+    "timestamp":"2025-01-08T20:30:00",
+    "valor_medido":44.6,
+    "unidad_medida":"%",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":227,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"04\/04\/2025 07:46",
+    "valor_medido":-0.8,
+    "unidad_medida":"%",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":228,
+    "id_sensor":"sen130",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-03-15T19:27:00",
+    "valor_medido":34.6,
+    "unidad_medida":"°C",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":229,
+    "id_sensor":"SEN-141",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-05-13 12:34:00",
+    "valor_medido":34.0,
+    "unidad_medida":"lux",
+    "bateria_%":77.0
+  },
+  {
+    "id_lectura":230,
+    "id_sensor":"sen81",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"27\/03\/2025 19:38",
+    "valor_medido":34.0,
+    "unidad_medida":"lux",
+    "bateria_%":74.0
+  },
+  {
+    "id_lectura":231,
+    "id_sensor":"sen130",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-02-03T02:39:00",
+    "valor_medido":26.3,
+    "unidad_medida":"°C",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":232,
+    "id_sensor":"sen106",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"05\/05\/2025 19:23",
+    "valor_medido":4.3,
+    "unidad_medida":"km\/h",
+    "bateria_%":8.0
+  },
+  {
+    "id_lectura":233,
+    "id_sensor":"SEN-96",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-02-11 20:04:00",
+    "valor_medido":5.33,
+    "unidad_medida":"pH",
+    "bateria_%":25.0
+  },
+  {
+    "id_lectura":234,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-04-06T03:45:00",
+    "valor_medido":58.0,
+    "unidad_medida":"%",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":235,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"21\/04\/2025 05:31",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":76.0
+  },
+  {
+    "id_lectura":236,
+    "id_sensor":"SEN0116",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 11",
+    "timestamp":"2025-01-08T02:33:00",
+    "valor_medido":6.41,
+    "unidad_medida":"pH",
+    "bateria_%":15.0
+  },
+  {
+    "id_lectura":237,
+    "id_sensor":"SEN0126",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 120",
+    "timestamp":"2025-01-17 23:09:00",
+    "valor_medido":7.34,
+    "unidad_medida":"pH",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":238,
+    "id_sensor":"SEN-122",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"2025-01-01T05:14:00",
+    "valor_medido":4.7,
+    "unidad_medida":"mm",
+    "bateria_%":53.0
+  },
+  {
+    "id_lectura":239,
+    "id_sensor":"sen10",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 7",
+    "timestamp":"09\/03\/2025 10:12",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":61.0
+  },
+  {
+    "id_lectura":240,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-03-11T09:38:00",
+    "valor_medido":59.0,
+    "unidad_medida":"%",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":241,
+    "id_sensor":"SEN_029",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 64",
+    "timestamp":"2025-04-15 21:06:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":242,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-02-12T07:51:00",
+    "valor_medido":25.0,
+    "unidad_medida":"lux",
+    "bateria_%":52.0
+  },
+  {
+    "id_lectura":243,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-02-16T22:22:00",
+    "valor_medido":6.48,
+    "unidad_medida":"pH",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":244,
+    "id_sensor":"SEN_049",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-04-16T05:15:00",
+    "valor_medido":63.6,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":245,
+    "id_sensor":"SEN0112",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 108",
+    "timestamp":"30\/04\/2025 03:45",
+    "valor_medido":17.1,
+    "unidad_medida":"%",
+    "bateria_%":13.0
+  },
+  {
+    "id_lectura":246,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-01-29T04:14:00",
+    "valor_medido":22.1,
+    "unidad_medida":"°C",
+    "bateria_%":68.0
+  },
+  {
+    "id_lectura":247,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-03-19T02:34:00",
+    "valor_medido":7.16,
+    "unidad_medida":"pH",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":248,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-03-14T08:30:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":47.0
+  },
+  {
+    "id_lectura":249,
+    "id_sensor":"sen99",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"12\/04\/2025 18:43",
+    "valor_medido":8.9,
+    "unidad_medida":"%",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":250,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"04\/03\/2025 16:30",
+    "valor_medido":18.2,
+    "unidad_medida":"°C",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":251,
+    "id_sensor":"SEN_076",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 26",
+    "timestamp":"2025-01-22T16:17:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":252,
+    "id_sensor":"SEN0088",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"09\/02\/2025 00:58",
+    "valor_medido":4.5,
+    "unidad_medida":"km\/h",
+    "bateria_%":78.0
+  },
+  {
+    "id_lectura":253,
+    "id_sensor":"SEN0145",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-05-07 21:29:00",
+    "valor_medido":4.9,
+    "unidad_medida":"km\/h",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":254,
+    "id_sensor":"SEN-63",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 55",
+    "timestamp":"01\/01\/2025 23:06",
+    "valor_medido":58132.0,
+    "unidad_medida":"lux",
+    "bateria_%":55.0
+  },
+  {
+    "id_lectura":255,
+    "id_sensor":"SEN-132",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-01-17 01:05:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":77.0
+  },
+  {
+    "id_lectura":256,
+    "id_sensor":"SEN_148",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"07\/01\/2025 20:57",
+    "valor_medido":11.8,
+    "unidad_medida":"km\/h",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":257,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-02-22T03:36:00",
+    "valor_medido":6.81,
+    "unidad_medida":"pH",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":258,
+    "id_sensor":"SEN0062",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-02-01 21:46:00",
+    "valor_medido":54283.0,
+    "unidad_medida":"lux",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":259,
+    "id_sensor":"sen106",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-02-22T01:34:00",
+    "valor_medido":0.6,
+    "unidad_medida":"km\/h",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":260,
+    "id_sensor":"SEN0116",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 11",
+    "timestamp":"2025-02-12T04:11:00",
+    "valor_medido":6.43,
+    "unidad_medida":"pH",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":261,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"2025-02-13 13:19:00",
+    "valor_medido":5.7,
+    "unidad_medida":"mm",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":262,
+    "id_sensor":"SEN-121",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"14\/03\/2025 17:09",
+    "valor_medido":31.9,
+    "unidad_medida":"%",
+    "bateria_%":25.0
+  },
+  {
+    "id_lectura":263,
+    "id_sensor":"SEN-44",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 54",
+    "timestamp":"2025-04-05T06:03:00",
+    "valor_medido":-13.8,
+    "unidad_medida":"%",
+    "bateria_%":71.0
+  },
+  {
+    "id_lectura":264,
+    "id_sensor":"SEN-79",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"17\/04\/2025 02:52",
+    "valor_medido":6.86,
+    "unidad_medida":"pH",
+    "bateria_%":24.0
+  },
+  {
+    "id_lectura":265,
+    "id_sensor":"SEN_087",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"24\/03\/2025 18:52",
+    "valor_medido":68885.0,
+    "unidad_medida":"lux",
+    "bateria_%":64.0
+  },
+  {
+    "id_lectura":266,
+    "id_sensor":"SEN-98",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"2025-01-20T09:09:00",
+    "valor_medido":5.77,
+    "unidad_medida":"pH",
+    "bateria_%":14.0
+  },
+  {
+    "id_lectura":267,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"2025-04-04T10:35:00",
+    "valor_medido":6.22,
+    "unidad_medida":"pH",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":268,
+    "id_sensor":"SEN0109",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"15\/02\/2025 12:53",
+    "valor_medido":7.5,
+    "unidad_medida":"%",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":269,
+    "id_sensor":"SEN_008",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 85",
+    "timestamp":"14\/02\/2025 06:52",
+    "valor_medido":62707.0,
+    "unidad_medida":"lux",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":270,
+    "id_sensor":"SEN_067",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"05\/01\/2025 23:29",
+    "valor_medido":76.7,
+    "unidad_medida":"%",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":271,
+    "id_sensor":"sen130",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-02-10 02:51:00",
+    "valor_medido":19.4,
+    "unidad_medida":"°C",
+    "bateria_%":52.0
+  },
+  {
+    "id_lectura":272,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"06\/03\/2025 06:42",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":273,
+    "id_sensor":"SEN_087",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"2025-03-14 14:57:00",
+    "valor_medido":73428.0,
+    "unidad_medida":"lux",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":274,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"2025-03-28 18:06:00",
+    "valor_medido":6.53,
+    "unidad_medida":"pH",
+    "bateria_%":34.0
+  },
+  {
+    "id_lectura":275,
+    "id_sensor":"SEN_102",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-02-03T06:35:00",
+    "valor_medido":47.7,
+    "unidad_medida":"%",
+    "bateria_%":24.0
+  },
+  {
+    "id_lectura":276,
+    "id_sensor":"SEN-98",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"2025-04-01 20:09:00",
+    "valor_medido":6.0,
+    "unidad_medida":"pH",
+    "bateria_%":33.0
+  },
+  {
+    "id_lectura":277,
+    "id_sensor":"SEN_125",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 48",
+    "timestamp":"2025-02-07T15:25:00",
+    "valor_medido":1.1,
+    "unidad_medida":"mm",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":278,
+    "id_sensor":"sen150",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-01-20 10:07:00",
+    "valor_medido":null,
+    "unidad_medida":"pH",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":279,
+    "id_sensor":"SEN-53",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"2025-03-31T16:29:00",
+    "valor_medido":38.1,
+    "unidad_medida":"%",
+    "bateria_%":61.0
+  },
+  {
+    "id_lectura":280,
+    "id_sensor":"SEN0057",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 29",
+    "timestamp":"2025-03-09T13:46:00",
+    "valor_medido":49405.0,
+    "unidad_medida":"lux",
+    "bateria_%":62.0
+  },
+  {
+    "id_lectura":281,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"2025-02-03T06:58:00",
+    "valor_medido":25.2,
+    "unidad_medida":"%",
+    "bateria_%":28.0
+  },
+  {
+    "id_lectura":282,
+    "id_sensor":"sen110",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"17\/05\/2025 13:32",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":283,
+    "id_sensor":"sen146",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 47",
+    "timestamp":"06\/01\/2025 22:16",
+    "valor_medido":36.4,
+    "unidad_medida":"%",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":284,
+    "id_sensor":"SEN0014",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-02-01 19:42:00",
+    "valor_medido":6.11,
+    "unidad_medida":"pH",
+    "bateria_%":58.0
+  },
+  {
+    "id_lectura":285,
+    "id_sensor":"SEN-20",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 4",
+    "timestamp":"2025-02-27 11:06:00",
+    "valor_medido":30.6,
+    "unidad_medida":"°C",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":286,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"16\/04\/2025 18:27",
+    "valor_medido":null,
+    "unidad_medida":"lux",
+    "bateria_%":33.0
+  },
+  {
+    "id_lectura":287,
+    "id_sensor":"SEN-103",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 23",
+    "timestamp":"04\/02\/2025 01:40",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":43.0
+  },
+  {
+    "id_lectura":288,
+    "id_sensor":"SEN_006",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"08\/03\/2025 14:44",
+    "valor_medido":25.6,
+    "unidad_medida":"°C",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":289,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"17\/05\/2025 22:23",
+    "valor_medido":55.2,
+    "unidad_medida":"%",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":290,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-04-15T00:31:00",
+    "valor_medido":64.6,
+    "unidad_medida":"%",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":291,
+    "id_sensor":"sen127",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-05-12 05:17:00",
+    "valor_medido":54.6,
+    "unidad_medida":"%",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":292,
+    "id_sensor":"SEN_018",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-02-05 16:36:00",
+    "valor_medido":16.2,
+    "unidad_medida":"mm",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":293,
+    "id_sensor":"SEN_078",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-02-02 03:36:00",
+    "valor_medido":11.4,
+    "unidad_medida":"°C",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":294,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"05\/04\/2025 02:50",
+    "valor_medido":39.5,
+    "unidad_medida":"%",
+    "bateria_%":38.0
+  },
+  {
+    "id_lectura":295,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-02-15T16:31:00",
+    "valor_medido":6.15,
+    "unidad_medida":"pH",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":296,
+    "id_sensor":"sen91",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"19\/01\/2025 00:25",
+    "valor_medido":47.0,
+    "unidad_medida":"lux",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":297,
+    "id_sensor":"SEN-21",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"18\/01\/2025 12:44",
+    "valor_medido":6.68,
+    "unidad_medida":"pH",
+    "bateria_%":46.0
+  },
+  {
+    "id_lectura":298,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"13\/04\/2025 00:12",
+    "valor_medido":4.93,
+    "unidad_medida":"pH",
+    "bateria_%":52.0
+  },
+  {
+    "id_lectura":299,
+    "id_sensor":"sen127",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-01-23T01:41:00",
+    "valor_medido":52.7,
+    "unidad_medida":"%",
+    "bateria_%":25.0
+  },
+  {
+    "id_lectura":300,
+    "id_sensor":"SEN0092",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"2025-04-16T00:18:00",
+    "valor_medido":19.5,
+    "unidad_medida":"°C",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":301,
+    "id_sensor":"sen11",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 101",
+    "timestamp":"2025-02-21T19:28:00",
+    "valor_medido":55.1,
+    "unidad_medida":"%",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":302,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-05-15 01:55:00",
+    "valor_medido":56.5,
+    "unidad_medida":"%",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":303,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-03-26 10:09:00",
+    "valor_medido":28.2,
+    "unidad_medida":"°C",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":304,
+    "id_sensor":"SEN-20",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 4",
+    "timestamp":"2025-03-03T10:04:00",
+    "valor_medido":22.8,
+    "unidad_medida":"°C",
+    "bateria_%":9.0
+  },
+  {
+    "id_lectura":305,
+    "id_sensor":"SEN0022",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 17",
+    "timestamp":"2025-01-15 09:38:00",
+    "valor_medido":43.5,
+    "unidad_medida":"%",
+    "bateria_%":83.0
+  },
+  {
+    "id_lectura":306,
+    "id_sensor":"sen35",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-02-23T00:57:00",
+    "valor_medido":28.9,
+    "unidad_medida":"°C",
+    "bateria_%":34.0
+  },
+  {
+    "id_lectura":307,
+    "id_sensor":"SEN-40",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"22\/03\/2025 23:47",
+    "valor_medido":30.3,
+    "unidad_medida":"%",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":308,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-03-23 23:20:00",
+    "valor_medido":9.5,
+    "unidad_medida":"°C",
+    "bateria_%":16.0
+  },
+  {
+    "id_lectura":309,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"13\/05\/2025 11:41",
+    "valor_medido":55.3,
+    "unidad_medida":"%",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":310,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-05-17 11:39:00",
+    "valor_medido":null,
+    "unidad_medida":"°C",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":311,
+    "id_sensor":"SEN_041",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 95",
+    "timestamp":"12\/01\/2025 14:42",
+    "valor_medido":15.3,
+    "unidad_medida":"°C",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":312,
+    "id_sensor":"SEN-122",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"2025-03-14 06:34:00",
+    "valor_medido":1.4,
+    "unidad_medida":"mm",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":313,
+    "id_sensor":"SEN-60",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"16\/01\/2025 08:21",
+    "valor_medido":11.3,
+    "unidad_medida":"mm",
+    "bateria_%":94.0
+  },
+  {
+    "id_lectura":314,
+    "id_sensor":"SEN-63",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 55",
+    "timestamp":"2025-02-21T17:34:00",
+    "valor_medido":40.0,
+    "unidad_medida":"lux",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":315,
+    "id_sensor":"SEN0128",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 32",
+    "timestamp":"07\/01\/2025 09:35",
+    "valor_medido":12.9,
+    "unidad_medida":"°C",
+    "bateria_%":59.0
+  },
+  {
+    "id_lectura":316,
+    "id_sensor":"SEN-141",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-04-09 09:50:00",
+    "valor_medido":30609.0,
+    "unidad_medida":"lux",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":317,
+    "id_sensor":"SEN-144",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"2025-04-09T04:11:00",
+    "valor_medido":2.3,
+    "unidad_medida":"km\/h",
+    "bateria_%":95.0
+  },
+  {
+    "id_lectura":318,
+    "id_sensor":"SEN_032",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-04-26T18:04:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":39.0
+  },
+  {
+    "id_lectura":319,
+    "id_sensor":"sen24",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 38",
+    "timestamp":"2025-03-05 04:48:00",
+    "valor_medido":6.66,
+    "unidad_medida":"pH",
+    "bateria_%":56.0
+  },
+  {
+    "id_lectura":320,
+    "id_sensor":"sen56",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"26\/02\/2025 01:05",
+    "valor_medido":38.0,
+    "unidad_medida":"°C",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":321,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-01-01 00:24:00",
+    "valor_medido":21.5,
+    "unidad_medida":"°C",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":322,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"08\/04\/2025 09:52",
+    "valor_medido":-14.2,
+    "unidad_medida":"%",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":323,
+    "id_sensor":"sen114",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 9",
+    "timestamp":"2025-03-20T08:36:00",
+    "valor_medido":34.1,
+    "unidad_medida":"°C",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":324,
+    "id_sensor":"SEN-60",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-04-10T19:10:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":31.0
+  },
+  {
+    "id_lectura":325,
+    "id_sensor":"sen35",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-01-30T17:20:00",
+    "valor_medido":25.5,
+    "unidad_medida":"°C",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":326,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"10\/02\/2025 03:46",
+    "valor_medido":6.13,
+    "unidad_medida":"pH",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":327,
+    "id_sensor":"sen68",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-04-22T15:10:00",
+    "valor_medido":36.6,
+    "unidad_medida":"%",
+    "bateria_%":83.0
+  },
+  {
+    "id_lectura":328,
+    "id_sensor":"SEN_049",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"16\/05\/2025 05:53",
+    "valor_medido":29.4,
+    "unidad_medida":"%",
+    "bateria_%":8.0
+  },
+  {
+    "id_lectura":329,
+    "id_sensor":"SEN0033",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-02-03 04:56:00",
+    "valor_medido":53.7,
+    "unidad_medida":"%",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":330,
+    "id_sensor":"SEN-39",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 8",
+    "timestamp":"2025-03-24T10:10:00",
+    "valor_medido":5.11,
+    "unidad_medida":"pH",
+    "bateria_%":41.0
+  },
+  {
+    "id_lectura":331,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-01-04T12:44:00",
+    "valor_medido":65.4,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":332,
+    "id_sensor":"SEN-39",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 8",
+    "timestamp":"2025-01-19 14:50:00",
+    "valor_medido":6.54,
+    "unidad_medida":"pH",
+    "bateria_%":93.0
+  },
+  {
+    "id_lectura":333,
+    "id_sensor":"SEN0055",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"2025-01-02 11:50:00",
+    "valor_medido":28.9,
+    "unidad_medida":"°C",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":334,
+    "id_sensor":"SEN-121",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"09\/02\/2025 12:54",
+    "valor_medido":81.9,
+    "unidad_medida":"%",
+    "bateria_%":63.0
+  },
+  {
+    "id_lectura":335,
+    "id_sensor":"SEN_027",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-03-09 14:39:00",
+    "valor_medido":6.97,
+    "unidad_medida":"pH",
+    "bateria_%":96.0
+  },
+  {
+    "id_lectura":336,
+    "id_sensor":"SEN_073",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"27\/01\/2025 14:16",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":337,
+    "id_sensor":"SEN-124",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 98",
+    "timestamp":"03\/02\/2025 01:26",
+    "valor_medido":7.31,
+    "unidad_medida":"pH",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":338,
+    "id_sensor":"SEN_067",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-01-23T04:51:00",
+    "valor_medido":70.0,
+    "unidad_medida":"%",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":339,
+    "id_sensor":"sen68",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-03-22 15:19:00",
+    "valor_medido":22.4,
+    "unidad_medida":"%",
+    "bateria_%":94.0
+  },
+  {
+    "id_lectura":340,
+    "id_sensor":"sen77",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 52",
+    "timestamp":"18\/01\/2025 02:31",
+    "valor_medido":0.9,
+    "unidad_medida":"mm",
+    "bateria_%":39.0
+  },
+  {
+    "id_lectura":341,
+    "id_sensor":"SEN-100",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 66",
+    "timestamp":"2025-02-28T19:29:00",
+    "valor_medido":7.5,
+    "unidad_medida":"pH",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":342,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"11\/04\/2025 01:09",
+    "valor_medido":26.6,
+    "unidad_medida":"°C",
+    "bateria_%":38.0
+  },
+  {
+    "id_lectura":343,
+    "id_sensor":"SEN_059",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 52",
+    "timestamp":"2025-02-06 04:14:00",
+    "valor_medido":62.3,
+    "unidad_medida":"%",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":344,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"21\/01\/2025 13:23",
+    "valor_medido":64.5,
+    "unidad_medida":"%",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":345,
+    "id_sensor":"SEN_058",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"20\/02\/2025 06:17",
+    "valor_medido":8.7,
+    "unidad_medida":"km\/h",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":346,
+    "id_sensor":"sen24",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 38",
+    "timestamp":"2025-01-08T15:28:00",
+    "valor_medido":4.77,
+    "unidad_medida":"pH",
+    "bateria_%":76.0
+  },
+  {
+    "id_lectura":347,
+    "id_sensor":"SEN0118",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 6",
+    "timestamp":"2025-01-29 05:10:00",
+    "valor_medido":15.0,
+    "unidad_medida":"lux",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":348,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-04-23T14:54:00",
+    "valor_medido":6.48,
+    "unidad_medida":"pH",
+    "bateria_%":45.0
+  },
+  {
+    "id_lectura":349,
+    "id_sensor":"sen46",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-04-28T08:11:00",
+    "valor_medido":42.3,
+    "unidad_medida":"%",
+    "bateria_%":16.0
+  },
+  {
+    "id_lectura":350,
+    "id_sensor":"SEN0142",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 116",
+    "timestamp":"2025-03-30T19:25:00",
+    "valor_medido":0.1,
+    "unidad_medida":"mm",
+    "bateria_%":56.0
+  },
+  {
+    "id_lectura":351,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"2025-05-14T11:21:00",
+    "valor_medido":38.6,
+    "unidad_medida":"%",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":352,
+    "id_sensor":"sen139",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 112",
+    "timestamp":"2025-01-25T12:39:00",
+    "valor_medido":32.0,
+    "unidad_medida":"lux",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":353,
+    "id_sensor":"SEN-39",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 8",
+    "timestamp":"2025-04-09 19:14:00",
+    "valor_medido":6.33,
+    "unidad_medida":"pH",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":354,
+    "id_sensor":"SEN-100",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 66",
+    "timestamp":"05\/03\/2025 06:58",
+    "valor_medido":6.83,
+    "unidad_medida":"pH",
+    "bateria_%":76.0
+  },
+  {
+    "id_lectura":355,
+    "id_sensor":"sen3",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 65",
+    "timestamp":"2025-04-11T22:44:00",
+    "valor_medido":25.6,
+    "unidad_medida":"°C",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":356,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"17\/02\/2025 22:35",
+    "valor_medido":43.3,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":357,
+    "id_sensor":"SEN-60",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-04-27 03:34:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":46.0
+  },
+  {
+    "id_lectura":358,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-04-23T21:41:00",
+    "valor_medido":55047.0,
+    "unidad_medida":"lux",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":359,
+    "id_sensor":"sen43",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"04\/02\/2025 13:33",
+    "valor_medido":92.0,
+    "unidad_medida":"%",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":360,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"22\/04\/2025 14:24",
+    "valor_medido":44.5,
+    "unidad_medida":"%",
+    "bateria_%":14.0
+  },
+  {
+    "id_lectura":361,
+    "id_sensor":"SEN-60",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-01-18 12:33:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":362,
+    "id_sensor":"SEN_087",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"2025-02-06 18:53:00",
+    "valor_medido":null,
+    "unidad_medida":"lux",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":363,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-04-27T19:51:00",
+    "valor_medido":56645.0,
+    "unidad_medida":"lux",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":364,
+    "id_sensor":"SEN0034",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-02-16 14:12:00",
+    "valor_medido":113.4,
+    "unidad_medida":"°C",
+    "bateria_%":26.0
+  },
+  {
+    "id_lectura":365,
+    "id_sensor":"sen146",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 47",
+    "timestamp":"2025-04-30 09:00:00",
+    "valor_medido":99.6,
+    "unidad_medida":"%",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":366,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-01-12T01:12:00",
+    "valor_medido":27.2,
+    "unidad_medida":"°C",
+    "bateria_%":53.0
+  },
+  {
+    "id_lectura":367,
+    "id_sensor":"sen110",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-03-09T04:29:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":5.0
+  },
+  {
+    "id_lectura":368,
+    "id_sensor":"SEN_029",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 64",
+    "timestamp":"14\/05\/2025 16:12",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":369,
+    "id_sensor":"sen146",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 47",
+    "timestamp":"2025-04-05T13:39:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":370,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-02-04T11:45:00",
+    "valor_medido":5.85,
+    "unidad_medida":"pH",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":371,
+    "id_sensor":"sen51",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"2025-02-02T13:37:00",
+    "valor_medido":6.3,
+    "unidad_medida":"km\/h",
+    "bateria_%":13.0
+  },
+  {
+    "id_lectura":372,
+    "id_sensor":"SEN-39",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 8",
+    "timestamp":"2025-04-27T06:11:00",
+    "valor_medido":6.08,
+    "unidad_medida":"pH",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":373,
+    "id_sensor":"SEN0108",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 57",
+    "timestamp":"2025-03-19 17:55:00",
+    "valor_medido":96.7,
+    "unidad_medida":"%",
+    "bateria_%":70.0
+  },
+  {
+    "id_lectura":374,
+    "id_sensor":"SEN_038",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 14",
+    "timestamp":"2025-03-15T02:25:00",
+    "valor_medido":34.9,
+    "unidad_medida":"°C",
+    "bateria_%":76.0
+  },
+  {
+    "id_lectura":375,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"22\/03\/2025 15:32",
+    "valor_medido":7.19,
+    "unidad_medida":"pH",
+    "bateria_%":41.0
+  },
+  {
+    "id_lectura":376,
+    "id_sensor":"SEN-96",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-03-09T16:04:00",
+    "valor_medido":5.28,
+    "unidad_medida":"pH",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":377,
+    "id_sensor":"SEN-100",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 66",
+    "timestamp":"2025-02-28T21:10:00",
+    "valor_medido":6.73,
+    "unidad_medida":"pH",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":378,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"11\/04\/2025 04:01",
+    "valor_medido":5.09,
+    "unidad_medida":"pH",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":379,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-03-23 11:09:00",
+    "valor_medido":28.6,
+    "unidad_medida":"°C",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":380,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-04-19 10:55:00",
+    "valor_medido":126.6,
+    "unidad_medida":"°C",
+    "bateria_%":28.0
+  },
+  {
+    "id_lectura":381,
+    "id_sensor":"SEN-104",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-02-09 02:34:00",
+    "valor_medido":7.04,
+    "unidad_medida":"pH",
+    "bateria_%":88.0
+  },
+  {
+    "id_lectura":382,
+    "id_sensor":"SEN-40",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-02-20T05:40:00",
+    "valor_medido":23.4,
+    "unidad_medida":"%",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":383,
+    "id_sensor":"sen99",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"29\/01\/2025 03:57",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":17.0
+  },
+  {
+    "id_lectura":384,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-02-18T05:45:00",
+    "valor_medido":25.3,
+    "unidad_medida":"%",
+    "bateria_%":32.0
+  },
+  {
+    "id_lectura":385,
+    "id_sensor":"SEN-28",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"24\/02\/2025 16:02",
+    "valor_medido":null,
+    "unidad_medida":"lux",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":386,
+    "id_sensor":"sen139",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 112",
+    "timestamp":"14\/05\/2025 16:03",
+    "valor_medido":null,
+    "unidad_medida":"lux",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":387,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"2025-03-30T21:18:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":388,
+    "id_sensor":"sen35",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-04-19 08:36:00",
+    "valor_medido":33.0,
+    "unidad_medida":"°C",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":389,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-03-11 11:00:00",
+    "valor_medido":null,
+    "unidad_medida":"pH",
+    "bateria_%":42.0
+  },
+  {
+    "id_lectura":390,
+    "id_sensor":"sen106",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"05\/03\/2025 08:07",
+    "valor_medido":19.8,
+    "unidad_medida":"km\/h",
+    "bateria_%":15.0
+  },
+  {
+    "id_lectura":391,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-02-11 06:32:00",
+    "valor_medido":51863.0,
+    "unidad_medida":"lux",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":392,
+    "id_sensor":"SEN0128",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 32",
+    "timestamp":"2025-03-11T15:06:00",
+    "valor_medido":null,
+    "unidad_medida":"°C",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":393,
+    "id_sensor":"SEN0133",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"2025-04-09T06:59:00",
+    "valor_medido":23.0,
+    "unidad_medida":"lux",
+    "bateria_%":6.0
+  },
+  {
+    "id_lectura":394,
+    "id_sensor":"SEN0055",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"03\/05\/2025 15:09",
+    "valor_medido":14.5,
+    "unidad_medida":"°C",
+    "bateria_%":96.0
+  },
+  {
+    "id_lectura":395,
+    "id_sensor":"SEN0089",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 66",
+    "timestamp":"2025-04-19 08:10:00",
+    "valor_medido":6.31,
+    "unidad_medida":"pH",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":396,
+    "id_sensor":"SEN_064",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"13\/03\/2025 18:49",
+    "valor_medido":80.6,
+    "unidad_medida":"%",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":397,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-05-16T16:19:00",
+    "valor_medido":144.5,
+    "unidad_medida":"%",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":398,
+    "id_sensor":"SEN0089",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 66",
+    "timestamp":"24\/01\/2025 17:37",
+    "valor_medido":6.14,
+    "unidad_medida":"pH",
+    "bateria_%":62.0
+  },
+  {
+    "id_lectura":399,
+    "id_sensor":"SEN0022",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 17",
+    "timestamp":"2025-03-13 23:10:00",
+    "valor_medido":51.8,
+    "unidad_medida":"%",
+    "bateria_%":94.0
+  },
+  {
+    "id_lectura":400,
+    "id_sensor":"SEN-141",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"06\/04\/2025 10:28",
+    "valor_medido":19.0,
+    "unidad_medida":"lux",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":401,
+    "id_sensor":"SEN-104",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"17\/01\/2025 07:26",
+    "valor_medido":null,
+    "unidad_medida":"pH",
+    "bateria_%":44.0
+  },
+  {
+    "id_lectura":402,
+    "id_sensor":"SEN-96",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-02-04T16:15:00",
+    "valor_medido":6.48,
+    "unidad_medida":"pH",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":403,
+    "id_sensor":"SEN_058",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"25\/02\/2025 11:46",
+    "valor_medido":8.6,
+    "unidad_medida":"km\/h",
+    "bateria_%":56.0
+  },
+  {
+    "id_lectura":404,
+    "id_sensor":"SEN_125",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 48",
+    "timestamp":"2025-04-24 10:43:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":47.0
+  },
+  {
+    "id_lectura":405,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-01-29 09:32:00",
+    "valor_medido":6.4,
+    "unidad_medida":"mm",
+    "bateria_%":31.0
+  },
+  {
+    "id_lectura":406,
+    "id_sensor":"SEN_078",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"24\/04\/2025 01:12",
+    "valor_medido":32.1,
+    "unidad_medida":"°C",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":407,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"07\/05\/2025 07:14",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":408,
+    "id_sensor":"SEN0014",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-02-08 01:10:00",
+    "valor_medido":6.57,
+    "unidad_medida":"pH",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":409,
+    "id_sensor":"SEN-144",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"17\/05\/2025 14:21",
+    "valor_medido":25.2,
+    "unidad_medida":"km\/h",
+    "bateria_%":18.0
+  },
+  {
+    "id_lectura":410,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-05-07 12:48:00",
+    "valor_medido":5.78,
+    "unidad_medida":"pH",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":411,
+    "id_sensor":"SEN0145",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-04-06T21:37:00",
+    "valor_medido":160.5,
+    "unidad_medida":"km\/h",
+    "bateria_%":6.0
+  },
+  {
+    "id_lectura":412,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"26\/03\/2025 15:26",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":413,
+    "id_sensor":"SEN_120",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 105",
+    "timestamp":"2025-05-01 04:01:00",
+    "valor_medido":45.3,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":414,
+    "id_sensor":"SEN0095",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"29\/04\/2025 05:19",
+    "valor_medido":20.7,
+    "unidad_medida":"km\/h",
+    "bateria_%":90.0
+  },
+  {
+    "id_lectura":415,
+    "id_sensor":"SEN-122",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"2025-01-19T03:10:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":416,
+    "id_sensor":"SEN_135",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 1",
+    "timestamp":"06\/02\/2025 04:53",
+    "valor_medido":31.5,
+    "unidad_medida":"%",
+    "bateria_%":91.0
+  },
+  {
+    "id_lectura":417,
+    "id_sensor":"SEN-21",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"04\/01\/2025 21:53",
+    "valor_medido":-4.8,
+    "unidad_medida":"pH",
+    "bateria_%":20.0
+  },
+  {
+    "id_lectura":418,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"04\/01\/2025 08:16",
+    "valor_medido":23.7,
+    "unidad_medida":"%",
+    "bateria_%":38.0
+  },
+  {
+    "id_lectura":419,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-02-12T23:59:00",
+    "valor_medido":65.5,
+    "unidad_medida":"%",
+    "bateria_%":7.0
+  },
+  {
+    "id_lectura":420,
+    "id_sensor":"SEN0112",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 108",
+    "timestamp":"24\/04\/2025 22:07",
+    "valor_medido":26.3,
+    "unidad_medida":"%",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":421,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"2025-04-12 00:34:00",
+    "valor_medido":36.9,
+    "unidad_medida":"%",
+    "bateria_%":50.0
+  },
+  {
+    "id_lectura":422,
+    "id_sensor":"SEN_120",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 105",
+    "timestamp":"2025-04-30T14:10:00",
+    "valor_medido":63.4,
+    "unidad_medida":"%",
+    "bateria_%":86.0
+  },
+  {
+    "id_lectura":423,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-04-22T11:49:00",
+    "valor_medido":57.2,
+    "unidad_medida":"%",
+    "bateria_%":30.0
+  },
+  {
+    "id_lectura":424,
+    "id_sensor":"SEN0005",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"2025-04-15T07:01:00",
+    "valor_medido":61268.0,
+    "unidad_medida":"lux",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":425,
+    "id_sensor":"SEN-40",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-01-24 23:43:00",
+    "valor_medido":49.8,
+    "unidad_medida":"%",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":426,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"06\/02\/2025 19:54",
+    "valor_medido":60.7,
+    "unidad_medida":"%",
+    "bateria_%":67.0
+  },
+  {
+    "id_lectura":427,
+    "id_sensor":"SEN-98",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"2025-01-25 14:55:00",
+    "valor_medido":7.06,
+    "unidad_medida":"pH",
+    "bateria_%":72.0
+  },
+  {
+    "id_lectura":428,
+    "id_sensor":"SEN_073",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-29T18:31:00",
+    "valor_medido":38.3,
+    "unidad_medida":"%",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":429,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-01-22 13:14:00",
+    "valor_medido":84614.0,
+    "unidad_medida":"lux",
+    "bateria_%":97.0
+  },
+  {
+    "id_lectura":430,
+    "id_sensor":"SEN-98",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"28\/02\/2025 00:22",
+    "valor_medido":6.93,
+    "unidad_medida":"pH",
+    "bateria_%":38.0
+  },
+  {
+    "id_lectura":431,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-03-22T15:30:00",
+    "valor_medido":6.42,
+    "unidad_medida":"pH",
+    "bateria_%":35.0
+  },
+  {
+    "id_lectura":432,
+    "id_sensor":"sen110",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-01-28 15:54:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":433,
+    "id_sensor":"SEN-15",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-04-22T09:47:00",
+    "valor_medido":7.05,
+    "unidad_medida":"pH",
+    "bateria_%":29.0
+  },
+  {
+    "id_lectura":434,
+    "id_sensor":"SEN-40",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-04-19T13:32:00",
+    "valor_medido":64.6,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":435,
+    "id_sensor":"sen137",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"15\/01\/2025 11:14",
+    "valor_medido":5.98,
+    "unidad_medida":"pH",
+    "bateria_%":77.0
+  },
+  {
+    "id_lectura":436,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"27\/03\/2025 08:03",
+    "valor_medido":13776.0,
+    "unidad_medida":"lux",
+    "bateria_%":17.0
+  },
+  {
+    "id_lectura":437,
+    "id_sensor":"SEN_008",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 85",
+    "timestamp":"2025-01-30 19:35:00",
+    "valor_medido":13.0,
+    "unidad_medida":"lux",
+    "bateria_%":52.0
+  },
+  {
+    "id_lectura":438,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-02-10 12:21:00",
+    "valor_medido":18.2,
+    "unidad_medida":"mm",
+    "bateria_%":56.0
+  },
+  {
+    "id_lectura":439,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"23\/04\/2025 07:58",
+    "valor_medido":37.1,
+    "unidad_medida":"°C",
+    "bateria_%":31.0
+  },
+  {
+    "id_lectura":440,
+    "id_sensor":"SEN0145",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-03-19 20:01:00",
+    "valor_medido":10.1,
+    "unidad_medida":"km\/h",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":441,
+    "id_sensor":"SEN-122",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"2025-05-12T02:36:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":68.0
+  },
+  {
+    "id_lectura":442,
+    "id_sensor":"SEN-53",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"2025-04-06T14:46:00",
+    "valor_medido":45.9,
+    "unidad_medida":"%",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":443,
+    "id_sensor":"sen106",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-20 21:36:00",
+    "valor_medido":6.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":31.0
+  },
+  {
+    "id_lectura":444,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-04-05T10:14:00",
+    "valor_medido":6.89,
+    "unidad_medida":"pH",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":445,
+    "id_sensor":"sen146",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 47",
+    "timestamp":"2025-03-12T12:34:00",
+    "valor_medido":24.1,
+    "unidad_medida":"%",
+    "bateria_%":24.0
+  },
+  {
+    "id_lectura":446,
+    "id_sensor":"SEN0031",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"23\/02\/2025 00:10",
+    "valor_medido":27.3,
+    "unidad_medida":"°C",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":447,
+    "id_sensor":"sen77",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 52",
+    "timestamp":"2025-03-25 23:39:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":18.0
+  },
+  {
+    "id_lectura":448,
+    "id_sensor":"sen143",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 72",
+    "timestamp":"26\/03\/2025 09:24",
+    "valor_medido":19.4,
+    "unidad_medida":"°C",
+    "bateria_%":64.0
+  },
+  {
+    "id_lectura":449,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-01-21T14:27:00",
+    "valor_medido":67.5,
+    "unidad_medida":"%",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":450,
+    "id_sensor":"SEN0107",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Este 96",
+    "timestamp":"10\/04\/2025 11:17",
+    "valor_medido":7.7,
+    "unidad_medida":"km\/h",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":451,
+    "id_sensor":"SEN_105",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 86",
+    "timestamp":"2025-02-02T13:31:00",
+    "valor_medido":74.7,
+    "unidad_medida":"%",
+    "bateria_%":58.0
+  },
+  {
+    "id_lectura":452,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-01-17T10:00:00",
+    "valor_medido":5.2,
+    "unidad_medida":"pH",
+    "bateria_%":91.0
+  },
+  {
+    "id_lectura":453,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-01-30 20:30:00",
+    "valor_medido":50.0,
+    "unidad_medida":"lux",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":454,
+    "id_sensor":"SEN-79",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"2025-03-08T01:43:00",
+    "valor_medido":null,
+    "unidad_medida":"pH",
+    "bateria_%":65.0
+  },
+  {
+    "id_lectura":455,
+    "id_sensor":"SEN_042",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"22\/04\/2025 10:11",
+    "valor_medido":25.2,
+    "unidad_medida":"°C",
+    "bateria_%":5.0
+  },
+  {
+    "id_lectura":456,
+    "id_sensor":"sen114",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 9",
+    "timestamp":"2025-02-01T02:36:00",
+    "valor_medido":19.7,
+    "unidad_medida":"°C",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":457,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"2025-01-30T12:19:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":39.0
+  },
+  {
+    "id_lectura":458,
+    "id_sensor":"SEN-39",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 8",
+    "timestamp":"26\/02\/2025 08:18",
+    "valor_medido":5.06,
+    "unidad_medida":"pH",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":459,
+    "id_sensor":"SEN-40",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-01-22 09:36:00",
+    "valor_medido":19.3,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":460,
+    "id_sensor":"SEN_029",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 64",
+    "timestamp":"2025-02-16 01:51:00",
+    "valor_medido":204.0,
+    "unidad_medida":"%",
+    "bateria_%":63.0
+  },
+  {
+    "id_lectura":461,
+    "id_sensor":"sen56",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"2025-02-13T07:18:00",
+    "valor_medido":9.2,
+    "unidad_medida":"°C",
+    "bateria_%":52.0
+  },
+  {
+    "id_lectura":462,
+    "id_sensor":"SEN-63",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 55",
+    "timestamp":"2025-03-22T10:34:00",
+    "valor_medido":null,
+    "unidad_medida":"lux",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":463,
+    "id_sensor":"SEN_148",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"2025-04-10T15:22:00",
+    "valor_medido":15.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":26.0
+  },
+  {
+    "id_lectura":464,
+    "id_sensor":"sen81",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"09\/01\/2025 21:43",
+    "valor_medido":8.0,
+    "unidad_medida":"lux",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":465,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-06T21:41:00",
+    "valor_medido":17.9,
+    "unidad_medida":"%",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":466,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-01-09 22:13:00",
+    "valor_medido":null,
+    "unidad_medida":"°C",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":467,
+    "id_sensor":"sen111",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 55",
+    "timestamp":"2025-04-22T05:53:00",
+    "valor_medido":33.3,
+    "unidad_medida":"%",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":468,
+    "id_sensor":"SEN0133",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"2025-04-13T08:11:00",
+    "valor_medido":43199.0,
+    "unidad_medida":"lux",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":469,
+    "id_sensor":"SEN-93",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"17\/01\/2025 22:52",
+    "valor_medido":22.6,
+    "unidad_medida":"km\/h",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":470,
+    "id_sensor":"SEN-122",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"2025-01-13 07:38:00",
+    "valor_medido":21.1,
+    "unidad_medida":"mm",
+    "bateria_%":17.0
+  },
+  {
+    "id_lectura":471,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"23\/01\/2025 05:07",
+    "valor_medido":53.4,
+    "unidad_medida":"%",
+    "bateria_%":52.0
+  },
+  {
+    "id_lectura":472,
+    "id_sensor":"SEN-79",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"2025-04-06 12:12:00",
+    "valor_medido":6.84,
+    "unidad_medida":"pH",
+    "bateria_%":13.0
+  },
+  {
+    "id_lectura":473,
+    "id_sensor":"SEN-20",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 4",
+    "timestamp":"2025-04-15T00:20:00",
+    "valor_medido":16.8,
+    "unidad_medida":"°C",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":474,
+    "id_sensor":"SEN0088",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"2025-03-30T01:09:00",
+    "valor_medido":19.9,
+    "unidad_medida":"km\/h",
+    "bateria_%":90.0
+  },
+  {
+    "id_lectura":475,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"22\/02\/2025 06:44",
+    "valor_medido":46.0,
+    "unidad_medida":"%",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":476,
+    "id_sensor":"sen114",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 9",
+    "timestamp":"2025-04-24 10:59:00",
+    "valor_medido":22.0,
+    "unidad_medida":"°C",
+    "bateria_%":63.0
+  },
+  {
+    "id_lectura":477,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-04-05 14:37:00",
+    "valor_medido":26828.0,
+    "unidad_medida":"lux",
+    "bateria_%":29.0
+  },
+  {
+    "id_lectura":478,
+    "id_sensor":"SEN0095",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-05-09 23:51:00",
+    "valor_medido":36.9,
+    "unidad_medida":"km\/h",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":479,
+    "id_sensor":"sen150",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-01-05 08:47:00",
+    "valor_medido":7.38,
+    "unidad_medida":"pH",
+    "bateria_%":26.0
+  },
+  {
+    "id_lectura":480,
+    "id_sensor":"sen150",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"23\/04\/2025 00:19",
+    "valor_medido":8.11,
+    "unidad_medida":"pH",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":481,
+    "id_sensor":"sen25",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-03-05T15:38:00",
+    "valor_medido":56.5,
+    "unidad_medida":"%",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":482,
+    "id_sensor":"SEN_008",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 85",
+    "timestamp":"2025-02-06 15:00:00",
+    "valor_medido":25.0,
+    "unidad_medida":"lux",
+    "bateria_%":64.0
+  },
+  {
+    "id_lectura":483,
+    "id_sensor":"SEN_073",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-04-11 02:57:00",
+    "valor_medido":67.0,
+    "unidad_medida":"%",
+    "bateria_%":42.0
+  },
+  {
+    "id_lectura":484,
+    "id_sensor":"SEN-20",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 4",
+    "timestamp":"2025-03-04T03:25:00",
+    "valor_medido":14.0,
+    "unidad_medida":"°C",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":485,
+    "id_sensor":"SEN_030",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 12",
+    "timestamp":"01\/02\/2025 23:20",
+    "valor_medido":6.6,
+    "unidad_medida":"pH",
+    "bateria_%":61.0
+  },
+  {
+    "id_lectura":486,
+    "id_sensor":"sen90",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-03-28T09:07:00",
+    "valor_medido":3.7,
+    "unidad_medida":"km\/h",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":487,
+    "id_sensor":"sen24",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 38",
+    "timestamp":"2025-04-25T04:16:00",
+    "valor_medido":6.37,
+    "unidad_medida":"pH",
+    "bateria_%":59.0
+  },
+  {
+    "id_lectura":488,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-03-17 08:35:00",
+    "valor_medido":83.9,
+    "unidad_medida":"%",
+    "bateria_%":38.0
+  },
+  {
+    "id_lectura":489,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"13\/04\/2025 20:16",
+    "valor_medido":5.98,
+    "unidad_medida":"pH",
+    "bateria_%":2.0
+  },
+  {
+    "id_lectura":490,
+    "id_sensor":"SEN0113",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 82",
+    "timestamp":"07\/02\/2025 21:54",
+    "valor_medido":47.8,
+    "unidad_medida":"%",
+    "bateria_%":45.0
+  },
+  {
+    "id_lectura":491,
+    "id_sensor":"sen137",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"13\/01\/2025 01:17",
+    "valor_medido":5.08,
+    "unidad_medida":"pH",
+    "bateria_%":43.0
+  },
+  {
+    "id_lectura":492,
+    "id_sensor":"SEN-65",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 40",
+    "timestamp":"2025-03-10 07:27:00",
+    "valor_medido":7.52,
+    "unidad_medida":"pH",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":493,
+    "id_sensor":"SEN_067",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"04\/02\/2025 02:40",
+    "valor_medido":86.7,
+    "unidad_medida":"%",
+    "bateria_%":40.0
+  },
+  {
+    "id_lectura":494,
+    "id_sensor":"SEN_097",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Norte 77",
+    "timestamp":"2025-05-10 05:20:00",
+    "valor_medido":193.0,
+    "unidad_medida":"km\/h",
+    "bateria_%":38.0
+  },
+  {
+    "id_lectura":495,
+    "id_sensor":"sen25",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-02-09 08:19:00",
+    "valor_medido":64.0,
+    "unidad_medida":"%",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":496,
+    "id_sensor":"SEN-44",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 54",
+    "timestamp":"2025-01-07 19:22:00",
+    "valor_medido":73.8,
+    "unidad_medida":"%",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":497,
+    "id_sensor":"SEN-104",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-03-29 20:47:00",
+    "valor_medido":7.58,
+    "unidad_medida":"pH",
+    "bateria_%":61.0
+  },
+  {
+    "id_lectura":498,
+    "id_sensor":"SEN0134",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"14\/05\/2025 08:05",
+    "valor_medido":3.2,
+    "unidad_medida":"km\/h",
+    "bateria_%":18.0
+  },
+  {
+    "id_lectura":499,
+    "id_sensor":"SEN_042",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-01-18T21:16:00",
+    "valor_medido":11.5,
+    "unidad_medida":"°C",
+    "bateria_%":16.0
+  },
+  {
+    "id_lectura":500,
+    "id_sensor":"SEN0092",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"07\/02\/2025 08:28",
+    "valor_medido":19.6,
+    "unidad_medida":"°C",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":501,
+    "id_sensor":"SEN0094",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Sur 90",
+    "timestamp":"2025-01-22T02:05:00",
+    "valor_medido":-7.1,
+    "unidad_medida":"pH",
+    "bateria_%":42.0
+  },
+  {
+    "id_lectura":502,
+    "id_sensor":"sen68",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-03-26 23:48:00",
+    "valor_medido":17.8,
+    "unidad_medida":"%",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":503,
+    "id_sensor":"SEN0048",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-05-16T17:22:00",
+    "valor_medido":4.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":504,
+    "id_sensor":"SEN0085",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 113",
+    "timestamp":"2025-02-08 04:49:00",
+    "valor_medido":6.11,
+    "unidad_medida":"pH",
+    "bateria_%":68.0
+  },
+  {
+    "id_lectura":505,
+    "id_sensor":"SEN0092",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"2025-02-28T02:23:00",
+    "valor_medido":22.4,
+    "unidad_medida":"°C",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":506,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-01-29 16:06:00",
+    "valor_medido":20.4,
+    "unidad_medida":"°C",
+    "bateria_%":71.0
+  },
+  {
+    "id_lectura":507,
+    "id_sensor":"sen3",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 65",
+    "timestamp":"2025-04-04T13:57:00",
+    "valor_medido":null,
+    "unidad_medida":"°C",
+    "bateria_%":40.0
+  },
+  {
+    "id_lectura":508,
+    "id_sensor":"sen43",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-02-19T08:14:00",
+    "valor_medido":32.0,
+    "unidad_medida":"%",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":509,
+    "id_sensor":"SEN0095",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"14\/02\/2025 13:39",
+    "valor_medido":5.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":43.0
+  },
+  {
+    "id_lectura":510,
+    "id_sensor":"SEN_073",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-04-09 09:49:00",
+    "valor_medido":28.8,
+    "unidad_medida":"%",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":511,
+    "id_sensor":"SEN-63",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 55",
+    "timestamp":"03\/05\/2025 23:17",
+    "valor_medido":null,
+    "unidad_medida":"lux",
+    "bateria_%":54.0
+  },
+  {
+    "id_lectura":512,
+    "id_sensor":"SEN_083",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 15",
+    "timestamp":"2025-03-13T08:18:00",
+    "valor_medido":5.98,
+    "unidad_medida":"pH",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":513,
+    "id_sensor":"SEN_032",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"06\/05\/2025 15:12",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":25.0
+  },
+  {
+    "id_lectura":514,
+    "id_sensor":"SEN0149",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-05-10T18:42:00",
+    "valor_medido":5.0,
+    "unidad_medida":"pH",
+    "bateria_%":96.0
+  },
+  {
+    "id_lectura":515,
+    "id_sensor":"sen3",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 65",
+    "timestamp":"2025-03-26 18:39:00",
+    "valor_medido":33.2,
+    "unidad_medida":"°C",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":516,
+    "id_sensor":"sen91",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"27\/03\/2025 05:55",
+    "valor_medido":null,
+    "unidad_medida":"lux",
+    "bateria_%":90.0
+  },
+  {
+    "id_lectura":517,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-03-26 17:20:00",
+    "valor_medido":7.71,
+    "unidad_medida":"pH",
+    "bateria_%":78.0
+  },
+  {
+    "id_lectura":518,
+    "id_sensor":"SEN_030",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 12",
+    "timestamp":"16\/02\/2025 23:26",
+    "valor_medido":5.98,
+    "unidad_medida":"pH",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":519,
+    "id_sensor":"SEN-136",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"02\/03\/2025 03:13",
+    "valor_medido":27.7,
+    "unidad_medida":"%",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":520,
+    "id_sensor":"SEN-104",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"12\/01\/2025 21:35",
+    "valor_medido":8.19,
+    "unidad_medida":"pH",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":521,
+    "id_sensor":"SEN_049",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-02-21T09:12:00",
+    "valor_medido":59.6,
+    "unidad_medida":"%",
+    "bateria_%":65.0
+  },
+  {
+    "id_lectura":522,
+    "id_sensor":"SEN_008",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 85",
+    "timestamp":"2025-01-19 17:43:00",
+    "valor_medido":70462.0,
+    "unidad_medida":"lux",
+    "bateria_%":83.0
+  },
+  {
+    "id_lectura":523,
+    "id_sensor":"sen9",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 23",
+    "timestamp":"13\/01\/2025 21:52",
+    "valor_medido":32080.0,
+    "unidad_medida":"lux",
+    "bateria_%":30.0
+  },
+  {
+    "id_lectura":524,
+    "id_sensor":"SEN_102",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-04-24 00:38:00",
+    "valor_medido":26.0,
+    "unidad_medida":"%",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":525,
+    "id_sensor":"SEN-60",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-01-13T00:37:00",
+    "valor_medido":2.1,
+    "unidad_medida":"mm",
+    "bateria_%":55.0
+  },
+  {
+    "id_lectura":526,
+    "id_sensor":"sen11",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 101",
+    "timestamp":"2025-04-14T06:11:00",
+    "valor_medido":5.5,
+    "unidad_medida":"%",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":527,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-05-01T14:59:00",
+    "valor_medido":65831.0,
+    "unidad_medida":"lux",
+    "bateria_%":62.0
+  },
+  {
+    "id_lectura":528,
+    "id_sensor":"SEN-39",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 8",
+    "timestamp":"21\/01\/2025 19:29",
+    "valor_medido":6.16,
+    "unidad_medida":"pH",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":529,
+    "id_sensor":"sen9",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 23",
+    "timestamp":"2025-03-23 01:10:00",
+    "valor_medido":40898.0,
+    "unidad_medida":"lux",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":530,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"19\/04\/2025 13:44",
+    "valor_medido":30.5,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":531,
+    "id_sensor":"sen99",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"2025-05-01 04:18:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":74.0
+  },
+  {
+    "id_lectura":532,
+    "id_sensor":"sen56",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"2025-05-18 10:35:00",
+    "valor_medido":3.8,
+    "unidad_medida":"°C",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":533,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-01-28T03:56:00",
+    "valor_medido":21.0,
+    "unidad_medida":"lux",
+    "bateria_%":25.0
+  },
+  {
+    "id_lectura":534,
+    "id_sensor":"SEN_105",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 86",
+    "timestamp":"07\/02\/2025 10:32",
+    "valor_medido":33.9,
+    "unidad_medida":"%",
+    "bateria_%":86.0
+  },
+  {
+    "id_lectura":535,
+    "id_sensor":"SEN_076",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 26",
+    "timestamp":"2025-02-25T10:35:00",
+    "valor_medido":2.0,
+    "unidad_medida":"mm",
+    "bateria_%":44.0
+  },
+  {
+    "id_lectura":536,
+    "id_sensor":"SEN_097",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Norte 77",
+    "timestamp":"2025-01-17T06:06:00",
+    "valor_medido":18.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":51.0
+  },
+  {
+    "id_lectura":537,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-01-24T05:17:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":538,
+    "id_sensor":"SEN_001",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 11",
+    "timestamp":"09\/05\/2025 01:00",
+    "valor_medido":77.8,
+    "unidad_medida":"%",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":539,
+    "id_sensor":"SEN_115",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 53",
+    "timestamp":"2025-01-06T16:14:00",
+    "valor_medido":50.8,
+    "unidad_medida":"%",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":540,
+    "id_sensor":"SEN0095",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"27\/02\/2025 21:55",
+    "valor_medido":8.1,
+    "unidad_medida":"km\/h",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":541,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"08\/02\/2025 10:49",
+    "valor_medido":23.0,
+    "unidad_medida":"°C",
+    "bateria_%":71.0
+  },
+  {
+    "id_lectura":542,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"12\/03\/2025 00:19",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":543,
+    "id_sensor":"SEN_125",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 48",
+    "timestamp":"2025-01-23 20:31:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":62.0
+  },
+  {
+    "id_lectura":544,
+    "id_sensor":"sen99",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"2025-04-30 18:31:00",
+    "valor_medido":51.2,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":545,
+    "id_sensor":"SEN0128",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 32",
+    "timestamp":"2025-03-17T16:54:00",
+    "valor_medido":24.0,
+    "unidad_medida":"°C",
+    "bateria_%":54.0
+  },
+  {
+    "id_lectura":546,
+    "id_sensor":"sen137",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-04-24T11:00:00",
+    "valor_medido":6.02,
+    "unidad_medida":"pH",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":547,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-03-12 00:50:00",
+    "valor_medido":66.9,
+    "unidad_medida":"%",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":548,
+    "id_sensor":"SEN0034",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-04-16T05:03:00",
+    "valor_medido":35.3,
+    "unidad_medida":"°C",
+    "bateria_%":64.0
+  },
+  {
+    "id_lectura":549,
+    "id_sensor":"SEN0062",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"19\/02\/2025 00:22",
+    "valor_medido":67765.0,
+    "unidad_medida":"lux",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":550,
+    "id_sensor":"SEN-16",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"2025-01-07 21:26:00",
+    "valor_medido":44309.0,
+    "unidad_medida":"lux",
+    "bateria_%":88.0
+  },
+  {
+    "id_lectura":551,
+    "id_sensor":"SEN0092",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"2025-01-15T13:48:00",
+    "valor_medido":27.6,
+    "unidad_medida":"°C",
+    "bateria_%":96.0
+  },
+  {
+    "id_lectura":552,
+    "id_sensor":"SEN0085",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 113",
+    "timestamp":"2025-02-20 20:48:00",
+    "valor_medido":6.68,
+    "unidad_medida":"pH",
+    "bateria_%":78.0
+  },
+  {
+    "id_lectura":553,
+    "id_sensor":"SEN_073",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-17T02:25:00",
+    "valor_medido":27.4,
+    "unidad_medida":"%",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":554,
+    "id_sensor":"sen68",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-15T05:08:00",
+    "valor_medido":43.6,
+    "unidad_medida":"%",
+    "bateria_%":39.0
+  },
+  {
+    "id_lectura":555,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"22\/04\/2025 14:24",
+    "valor_medido":null,
+    "unidad_medida":"mm",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":556,
+    "id_sensor":"SEN0133",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"2025-03-27T08:31:00",
+    "valor_medido":47952.0,
+    "unidad_medida":"lux",
+    "bateria_%":53.0
+  },
+  {
+    "id_lectura":557,
+    "id_sensor":"sen143",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 72",
+    "timestamp":"06\/03\/2025 05:54",
+    "valor_medido":23.7,
+    "unidad_medida":"°C",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":558,
+    "id_sensor":"SEN-136",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-05-07T12:43:00",
+    "valor_medido":61.9,
+    "unidad_medida":"%",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":559,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"2025-04-13T14:52:00",
+    "valor_medido":42.3,
+    "unidad_medida":"%",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":560,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"15\/04\/2025 06:51",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":561,
+    "id_sensor":"sen82",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-01-05T23:16:00",
+    "valor_medido":43.0,
+    "unidad_medida":"lux",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":562,
+    "id_sensor":"sen127",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-02-20T13:56:00",
+    "valor_medido":66.2,
+    "unidad_medida":"%",
+    "bateria_%":32.0
+  },
+  {
+    "id_lectura":563,
+    "id_sensor":"SEN-144",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"2025-01-03T14:03:00",
+    "valor_medido":3.8,
+    "unidad_medida":"km\/h",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":564,
+    "id_sensor":"sen90",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"15\/05\/2025 12:35",
+    "valor_medido":18.2,
+    "unidad_medida":"km\/h",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":565,
+    "id_sensor":"SEN-7",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 108",
+    "timestamp":"2025-02-17 13:25:00",
+    "valor_medido":7.51,
+    "unidad_medida":"pH",
+    "bateria_%":67.0
+  },
+  {
+    "id_lectura":566,
+    "id_sensor":"sen127",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-01-07 00:34:00",
+    "valor_medido":43.8,
+    "unidad_medida":"%",
+    "bateria_%":76.0
+  },
+  {
+    "id_lectura":567,
+    "id_sensor":"SEN_120",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 105",
+    "timestamp":"29\/01\/2025 01:29",
+    "valor_medido":35.5,
+    "unidad_medida":"%",
+    "bateria_%":30.0
+  },
+  {
+    "id_lectura":568,
+    "id_sensor":"SEN_073",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-05-01T06:29:00",
+    "valor_medido":7.1,
+    "unidad_medida":"%",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":569,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"14\/05\/2025 16:28",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":14.0
+  },
+  {
+    "id_lectura":570,
+    "id_sensor":"sen56",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"10\/01\/2025 13:28",
+    "valor_medido":24.4,
+    "unidad_medida":"°C",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":571,
+    "id_sensor":"SEN_058",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-05-16T19:58:00",
+    "valor_medido":23.9,
+    "unidad_medida":"km\/h",
+    "bateria_%":87.0
+  },
+  {
+    "id_lectura":572,
+    "id_sensor":"SEN_097",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Norte 77",
+    "timestamp":"09\/05\/2025 10:50",
+    "valor_medido":18.7,
+    "unidad_medida":"km\/h",
+    "bateria_%":55.0
+  },
+  {
+    "id_lectura":573,
+    "id_sensor":"SEN0080",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"03\/01\/2025 03:49",
+    "valor_medido":26261.0,
+    "unidad_medida":"lux",
+    "bateria_%":67.0
+  },
+  {
+    "id_lectura":574,
+    "id_sensor":"SEN0014",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-05-05 07:31:00",
+    "valor_medido":7.37,
+    "unidad_medida":"pH",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":575,
+    "id_sensor":"SEN-15",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"06\/03\/2025 09:53",
+    "valor_medido":6.42,
+    "unidad_medida":"pH",
+    "bateria_%":83.0
+  },
+  {
+    "id_lectura":576,
+    "id_sensor":"sen81",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"2025-02-19 14:57:00",
+    "valor_medido":48.0,
+    "unidad_medida":"lux",
+    "bateria_%":74.0
+  },
+  {
+    "id_lectura":577,
+    "id_sensor":"SEN_059",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 52",
+    "timestamp":"2025-03-13T04:58:00",
+    "valor_medido":46.2,
+    "unidad_medida":"%",
+    "bateria_%":93.0
+  },
+  {
+    "id_lectura":578,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-05-03 07:31:00",
+    "valor_medido":16.8,
+    "unidad_medida":"%",
+    "bateria_%":86.0
+  },
+  {
+    "id_lectura":579,
+    "id_sensor":"sen82",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-05-06 15:52:00",
+    "valor_medido":7.0,
+    "unidad_medida":"lux",
+    "bateria_%":8.0
+  },
+  {
+    "id_lectura":580,
+    "id_sensor":"SEN_073",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-03T04:15:00",
+    "valor_medido":42.0,
+    "unidad_medida":"%",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":581,
+    "id_sensor":"sen50",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"2025-03-05 23:47:00",
+    "valor_medido":22.0,
+    "unidad_medida":"lux",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":582,
+    "id_sensor":"SEN-53",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"2025-04-23T18:11:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":583,
+    "id_sensor":"SEN0142",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 116",
+    "timestamp":"2025-04-20 02:45:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":77.0
+  },
+  {
+    "id_lectura":584,
+    "id_sensor":"sen68",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-24T15:34:00",
+    "valor_medido":51.2,
+    "unidad_medida":"%",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":585,
+    "id_sensor":"sen77",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 52",
+    "timestamp":"21\/01\/2025 04:17",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":9.0
+  },
+  {
+    "id_lectura":586,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"27\/04\/2025 06:52",
+    "valor_medido":21.9,
+    "unidad_medida":"%",
+    "bateria_%":88.0
+  },
+  {
+    "id_lectura":587,
+    "id_sensor":"SEN0088",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"02\/05\/2025 12:41",
+    "valor_medido":22.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":588,
+    "id_sensor":"SEN-121",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"2025-01-14 11:17:00",
+    "valor_medido":59.7,
+    "unidad_medida":"%",
+    "bateria_%":42.0
+  },
+  {
+    "id_lectura":589,
+    "id_sensor":"SEN0107",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Este 96",
+    "timestamp":"11\/01\/2025 22:24",
+    "valor_medido":4.2,
+    "unidad_medida":"km\/h",
+    "bateria_%":8.0
+  },
+  {
+    "id_lectura":590,
+    "id_sensor":"SEN0109",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"2025-03-31 12:21:00",
+    "valor_medido":42.9,
+    "unidad_medida":"%",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":591,
+    "id_sensor":"SEN-21",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-04-28 12:09:00",
+    "valor_medido":7.06,
+    "unidad_medida":"pH",
+    "bateria_%":55.0
+  },
+  {
+    "id_lectura":592,
+    "id_sensor":"sen139",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 112",
+    "timestamp":"09\/02\/2025 18:08",
+    "valor_medido":25.0,
+    "unidad_medida":"lux",
+    "bateria_%":13.0
+  },
+  {
+    "id_lectura":593,
+    "id_sensor":"SEN_078",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-01-07T08:18:00",
+    "valor_medido":null,
+    "unidad_medida":"°C",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":594,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"2025-03-23 04:05:00",
+    "valor_medido":228.9,
+    "unidad_medida":"%",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":595,
+    "id_sensor":"SEN_008",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 85",
+    "timestamp":"13\/03\/2025 02:02",
+    "valor_medido":13477.0,
+    "unidad_medida":"lux",
+    "bateria_%":65.0
+  },
+  {
+    "id_lectura":596,
+    "id_sensor":"sen90",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"09\/05\/2025 19:34",
+    "valor_medido":5.5,
+    "unidad_medida":"km\/h",
+    "bateria_%":51.0
+  },
+  {
+    "id_lectura":597,
+    "id_sensor":"sen139",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 112",
+    "timestamp":"2025-05-13T11:39:00",
+    "valor_medido":78293.0,
+    "unidad_medida":"lux",
+    "bateria_%":49.0
+  },
+  {
+    "id_lectura":598,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"06\/05\/2025 11:25",
+    "valor_medido":34.7,
+    "unidad_medida":"%",
+    "bateria_%":68.0
+  },
+  {
+    "id_lectura":599,
+    "id_sensor":"SEN_029",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 64",
+    "timestamp":"07\/03\/2025 08:08",
+    "valor_medido":29.4,
+    "unidad_medida":"%",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":600,
+    "id_sensor":"SEN_038",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 14",
+    "timestamp":"2025-04-28T19:06:00",
+    "valor_medido":null,
+    "unidad_medida":"°C",
+    "bateria_%":43.0
+  },
+  {
+    "id_lectura":601,
+    "id_sensor":"SEN_105",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 86",
+    "timestamp":"15\/01\/2025 15:31",
+    "valor_medido":66.4,
+    "unidad_medida":"%",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":602,
+    "id_sensor":"SEN_032",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-04-11T22:32:00",
+    "valor_medido":97.5,
+    "unidad_medida":"mm",
+    "bateria_%":13.0
+  },
+  {
+    "id_lectura":603,
+    "id_sensor":"SEN-122",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 79",
+    "timestamp":"2025-04-25T19:12:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":24.0
+  },
+  {
+    "id_lectura":604,
+    "id_sensor":"SEN0113",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 82",
+    "timestamp":"2025-01-26 11:25:00",
+    "valor_medido":299.4,
+    "unidad_medida":"%",
+    "bateria_%":8.0
+  },
+  {
+    "id_lectura":605,
+    "id_sensor":"sen25",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"09\/04\/2025 09:42",
+    "valor_medido":18.9,
+    "unidad_medida":"%",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":606,
+    "id_sensor":"sen127",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-01-03 23:43:00",
+    "valor_medido":263.9,
+    "unidad_medida":"%",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":607,
+    "id_sensor":"SEN_101",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"30\/04\/2025 00:42",
+    "valor_medido":60.9,
+    "unidad_medida":"%",
+    "bateria_%":68.0
+  },
+  {
+    "id_lectura":608,
+    "id_sensor":"sen137",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-01-28 02:47:00",
+    "valor_medido":6.86,
+    "unidad_medida":"pH",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":609,
+    "id_sensor":"SEN0057",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 29",
+    "timestamp":"14\/05\/2025 21:16",
+    "valor_medido":27258.0,
+    "unidad_medida":"lux",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":610,
+    "id_sensor":"SEN0034",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-09T08:06:00",
+    "valor_medido":18.9,
+    "unidad_medida":"°C",
+    "bateria_%":22.0
+  },
+  {
+    "id_lectura":611,
+    "id_sensor":"SEN0080",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"26\/04\/2025 04:08",
+    "valor_medido":264928.5,
+    "unidad_medida":"lux",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":612,
+    "id_sensor":"SEN-132",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-01-12 15:26:00",
+    "valor_medido":36.6,
+    "unidad_medida":"%",
+    "bateria_%":76.0
+  },
+  {
+    "id_lectura":613,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-04-23 01:43:00",
+    "valor_medido":5.32,
+    "unidad_medida":"pH",
+    "bateria_%":94.0
+  },
+  {
+    "id_lectura":614,
+    "id_sensor":"sen9",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 23",
+    "timestamp":"2025-05-04T11:57:00",
+    "valor_medido":33.0,
+    "unidad_medida":"lux",
+    "bateria_%":17.0
+  },
+  {
+    "id_lectura":615,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"2025-02-28 13:02:00",
+    "valor_medido":100000.0,
+    "unidad_medida":"lux",
+    "bateria_%":42.0
+  },
+  {
+    "id_lectura":616,
+    "id_sensor":"sen91",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"12\/01\/2025 12:13",
+    "valor_medido":41.0,
+    "unidad_medida":"lux",
+    "bateria_%":47.0
+  },
+  {
+    "id_lectura":617,
+    "id_sensor":"SEN_102",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-04-11 17:52:00",
+    "valor_medido":47.2,
+    "unidad_medida":"%",
+    "bateria_%":5.0
+  },
+  {
+    "id_lectura":618,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"2025-01-25T06:42:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":99.0
+  },
+  {
+    "id_lectura":619,
+    "id_sensor":"sen139",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 112",
+    "timestamp":"2025-01-29 17:14:00",
+    "valor_medido":131079.4,
+    "unidad_medida":"lux",
+    "bateria_%":90.0
+  },
+  {
+    "id_lectura":620,
+    "id_sensor":"SEN0057",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 29",
+    "timestamp":"2025-04-29T15:33:00",
+    "valor_medido":25.0,
+    "unidad_medida":"lux",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":621,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"2025-03-28T15:43:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":622,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"2025-03-17 00:11:00",
+    "valor_medido":7.08,
+    "unidad_medida":"pH",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":623,
+    "id_sensor":"SEN_001",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 11",
+    "timestamp":"19\/04\/2025 13:09",
+    "valor_medido":44.2,
+    "unidad_medida":"%",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":624,
+    "id_sensor":"SEN-70",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"25\/04\/2025 04:14",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":625,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"2025-02-12T21:31:00",
+    "valor_medido":63.2,
+    "unidad_medida":"%",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":626,
+    "id_sensor":"sen82",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-03-07T21:10:00",
+    "valor_medido":32699.0,
+    "unidad_medida":"lux",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":627,
+    "id_sensor":"SEN_027",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"25\/04\/2025 01:03",
+    "valor_medido":7.58,
+    "unidad_medida":"pH",
+    "bateria_%":14.0
+  },
+  {
+    "id_lectura":628,
+    "id_sensor":"sen51",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"28\/01\/2025 03:56",
+    "valor_medido":9.9,
+    "unidad_medida":"km\/h",
+    "bateria_%":20.0
+  },
+  {
+    "id_lectura":629,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-05-02 23:53:00",
+    "valor_medido":7.69,
+    "unidad_medida":"pH",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":630,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"08\/02\/2025 03:42",
+    "valor_medido":60.1,
+    "unidad_medida":"%",
+    "bateria_%":97.0
+  },
+  {
+    "id_lectura":631,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-03-24 11:49:00",
+    "valor_medido":-19.4,
+    "unidad_medida":"°C",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":632,
+    "id_sensor":"SEN_041",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 95",
+    "timestamp":"2025-03-30 07:15:00",
+    "valor_medido":7.7,
+    "unidad_medida":"°C",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":633,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"22\/03\/2025 23:27",
+    "valor_medido":5.28,
+    "unidad_medida":"pH",
+    "bateria_%":95.0
+  },
+  {
+    "id_lectura":634,
+    "id_sensor":"sen110",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-05-04 05:12:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":635,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"2025-02-13 03:59:00",
+    "valor_medido":6.05,
+    "unidad_medida":"pH",
+    "bateria_%":28.0
+  },
+  {
+    "id_lectura":636,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"14\/01\/2025 09:15",
+    "valor_medido":42.8,
+    "unidad_medida":"%",
+    "bateria_%":55.0
+  },
+  {
+    "id_lectura":637,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-01-27 09:15:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":17.0
+  },
+  {
+    "id_lectura":638,
+    "id_sensor":"SEN0005",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"25\/03\/2025 07:53",
+    "valor_medido":58221.0,
+    "unidad_medida":"lux",
+    "bateria_%":16.0
+  },
+  {
+    "id_lectura":639,
+    "id_sensor":"sen12",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 44",
+    "timestamp":"2025-01-06 20:13:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":59.0
+  },
+  {
+    "id_lectura":640,
+    "id_sensor":"sen137",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"25\/03\/2025 11:33",
+    "valor_medido":7.14,
+    "unidad_medida":"pH",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":641,
+    "id_sensor":"SEN0142",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 116",
+    "timestamp":"2025-04-20T21:19:00",
+    "valor_medido":5.5,
+    "unidad_medida":"mm",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":642,
+    "id_sensor":"SEN0145",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-04-11 15:01:00",
+    "valor_medido":11.0,
+    "unidad_medida":"km\/h",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":643,
+    "id_sensor":"sen90",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-03-31 01:24:00",
+    "valor_medido":24.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":59.0
+  },
+  {
+    "id_lectura":644,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"2025-02-20 19:42:00",
+    "valor_medido":278341.7,
+    "unidad_medida":"lux",
+    "bateria_%":74.0
+  },
+  {
+    "id_lectura":645,
+    "id_sensor":"SEN0080",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"2025-02-10 11:42:00",
+    "valor_medido":67334.0,
+    "unidad_medida":"lux",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":646,
+    "id_sensor":"SEN0005",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"18\/03\/2025 01:16",
+    "valor_medido":24.0,
+    "unidad_medida":"lux",
+    "bateria_%":64.0
+  },
+  {
+    "id_lectura":647,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"07\/01\/2025 02:53",
+    "valor_medido":35.1,
+    "unidad_medida":"%",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":648,
+    "id_sensor":"sen82",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-01-18T20:09:00",
+    "valor_medido":15.0,
+    "unidad_medida":"lux",
+    "bateria_%":88.0
+  },
+  {
+    "id_lectura":649,
+    "id_sensor":"SEN_029",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 64",
+    "timestamp":"2025-05-14 05:13:00",
+    "valor_medido":54.0,
+    "unidad_medida":"%",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":650,
+    "id_sensor":"sen123",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"13\/02\/2025 12:28",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":20.0
+  },
+  {
+    "id_lectura":651,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-05-09T00:47:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":652,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-03-24 19:13:00",
+    "valor_medido":20.8,
+    "unidad_medida":"°C",
+    "bateria_%":51.0
+  },
+  {
+    "id_lectura":653,
+    "id_sensor":"sen123",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"03\/02\/2025 16:02",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":654,
+    "id_sensor":"SEN_125",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 48",
+    "timestamp":"2025-04-25T04:44:00",
+    "valor_medido":null,
+    "unidad_medida":"mm",
+    "bateria_%":4.0
+  },
+  {
+    "id_lectura":655,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"23\/02\/2025 23:49",
+    "valor_medido":55.7,
+    "unidad_medida":"%",
+    "bateria_%":78.0
+  },
+  {
+    "id_lectura":656,
+    "id_sensor":"sen150",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-04-09 17:56:00",
+    "valor_medido":6.05,
+    "unidad_medida":"pH",
+    "bateria_%":10.0
+  },
+  {
+    "id_lectura":657,
+    "id_sensor":"SEN_115",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 53",
+    "timestamp":"2025-04-23T22:48:00",
+    "valor_medido":37.0,
+    "unidad_medida":"%",
+    "bateria_%":65.0
+  },
+  {
+    "id_lectura":658,
+    "id_sensor":"SEN-132",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-05-03 19:36:00",
+    "valor_medido":55.2,
+    "unidad_medida":"%",
+    "bateria_%":46.0
+  },
+  {
+    "id_lectura":659,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"26\/03\/2025 17:09",
+    "valor_medido":50.6,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":660,
+    "id_sensor":"sen11",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 101",
+    "timestamp":"2025-04-12T17:23:00",
+    "valor_medido":39.4,
+    "unidad_medida":"%",
+    "bateria_%":26.0
+  },
+  {
+    "id_lectura":661,
+    "id_sensor":"SEN0057",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 29",
+    "timestamp":"2025-01-26 04:42:00",
+    "valor_medido":33.0,
+    "unidad_medida":"lux",
+    "bateria_%":94.0
+  },
+  {
+    "id_lectura":662,
+    "id_sensor":"SEN0142",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 116",
+    "timestamp":"2025-05-17 22:44:00",
+    "valor_medido":25.2,
+    "unidad_medida":"mm",
+    "bateria_%":97.0
+  },
+  {
+    "id_lectura":663,
+    "id_sensor":"SEN_083",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 15",
+    "timestamp":"11\/02\/2025 00:57",
+    "valor_medido":5.92,
+    "unidad_medida":"pH",
+    "bateria_%":54.0
+  },
+  {
+    "id_lectura":664,
+    "id_sensor":"sen23",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 24",
+    "timestamp":"20\/02\/2025 10:51",
+    "valor_medido":null,
+    "unidad_medida":"mm",
+    "bateria_%":62.0
+  },
+  {
+    "id_lectura":665,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-04-02 06:52:00",
+    "valor_medido":28.7,
+    "unidad_medida":"°C",
+    "bateria_%":68.0
+  },
+  {
+    "id_lectura":666,
+    "id_sensor":"sen143",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 72",
+    "timestamp":"04\/05\/2025 11:34",
+    "valor_medido":20.8,
+    "unidad_medida":"°C",
+    "bateria_%":47.0
+  },
+  {
+    "id_lectura":667,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-05-03 13:43:00",
+    "valor_medido":48.0,
+    "unidad_medida":"%",
+    "bateria_%":58.0
+  },
+  {
+    "id_lectura":668,
+    "id_sensor":"SEN0095",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-01-16 21:27:00",
+    "valor_medido":null,
+    "unidad_medida":"km\/h",
+    "bateria_%":9.0
+  },
+  {
+    "id_lectura":669,
+    "id_sensor":"SEN-44",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 54",
+    "timestamp":"2025-01-20 21:49:00",
+    "valor_medido":28.6,
+    "unidad_medida":"%",
+    "bateria_%":63.0
+  },
+  {
+    "id_lectura":670,
+    "id_sensor":"sen9",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 23",
+    "timestamp":"2025-01-28T09:32:00",
+    "valor_medido":11924.0,
+    "unidad_medida":"lux",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":671,
+    "id_sensor":"SEN_083",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 15",
+    "timestamp":"2025-03-17T19:52:00",
+    "valor_medido":6.59,
+    "unidad_medida":"pH",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":672,
+    "id_sensor":"SEN_049",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-03-05T02:45:00",
+    "valor_medido":62.8,
+    "unidad_medida":"%",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":673,
+    "id_sensor":"sen68",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-02-04 10:01:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":674,
+    "id_sensor":"SEN_064",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-04-28T08:36:00",
+    "valor_medido":66.8,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":675,
+    "id_sensor":"SEN_029",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 64",
+    "timestamp":"2025-03-01T09:39:00",
+    "valor_medido":44.6,
+    "unidad_medida":"%",
+    "bateria_%":70.0
+  },
+  {
+    "id_lectura":676,
+    "id_sensor":"SEN-132",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-03-23T01:21:00",
+    "valor_medido":21.8,
+    "unidad_medida":"%",
+    "bateria_%":39.0
+  },
+  {
+    "id_lectura":677,
+    "id_sensor":"SEN0055",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"2025-02-01 06:19:00",
+    "valor_medido":11.8,
+    "unidad_medida":"°C",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":678,
+    "id_sensor":"sen23",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 24",
+    "timestamp":"2025-01-09 14:44:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":20.0
+  },
+  {
+    "id_lectura":679,
+    "id_sensor":"SEN-96",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 28",
+    "timestamp":"2025-05-10 13:57:00",
+    "valor_medido":6.66,
+    "unidad_medida":"pH",
+    "bateria_%":90.0
+  },
+  {
+    "id_lectura":680,
+    "id_sensor":"sen139",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 112",
+    "timestamp":"2025-05-07 03:08:00",
+    "valor_medido":47796.0,
+    "unidad_medida":"lux",
+    "bateria_%":5.0
+  },
+  {
+    "id_lectura":681,
+    "id_sensor":"SEN0048",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"27\/02\/2025 15:21",
+    "valor_medido":24.9,
+    "unidad_medida":"km\/h",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":682,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-02-07 08:20:00",
+    "valor_medido":33.2,
+    "unidad_medida":"°C",
+    "bateria_%":44.0
+  },
+  {
+    "id_lectura":683,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"2025-01-27 22:22:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":15.0
+  },
+  {
+    "id_lectura":684,
+    "id_sensor":"SEN0057",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 29",
+    "timestamp":"2025-01-05 12:53:00",
+    "valor_medido":500.0,
+    "unidad_medida":"lux",
+    "bateria_%":40.0
+  },
+  {
+    "id_lectura":685,
+    "id_sensor":"SEN-79",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Este 70",
+    "timestamp":"29\/01\/2025 09:48",
+    "valor_medido":-8.9,
+    "unidad_medida":"pH",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":686,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-03-28T06:32:00",
+    "valor_medido":80043.0,
+    "unidad_medida":"lux",
+    "bateria_%":72.0
+  },
+  {
+    "id_lectura":687,
+    "id_sensor":"SEN0149",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"13\/05\/2025 15:03",
+    "valor_medido":5.75,
+    "unidad_medida":"pH",
+    "bateria_%":14.0
+  },
+  {
+    "id_lectura":688,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-05-14T04:35:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":39.0
+  },
+  {
+    "id_lectura":689,
+    "id_sensor":"sen36",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Este 60",
+    "timestamp":"2025-01-05 12:20:00",
+    "valor_medido":57.0,
+    "unidad_medida":"%",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":690,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-03-01T09:55:00",
+    "valor_medido":null,
+    "unidad_medida":"mm",
+    "bateria_%":67.0
+  },
+  {
+    "id_lectura":691,
+    "id_sensor":"SEN0134",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"10\/02\/2025 10:33",
+    "valor_medido":11.1,
+    "unidad_medida":"km\/h",
+    "bateria_%":10.0
+  },
+  {
+    "id_lectura":692,
+    "id_sensor":"SEN-69",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 39",
+    "timestamp":"2025-04-09T00:21:00",
+    "valor_medido":5.82,
+    "unidad_medida":"pH",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":693,
+    "id_sensor":"SEN-20",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 4",
+    "timestamp":"04\/04\/2025 04:02",
+    "valor_medido":26.5,
+    "unidad_medida":"°C",
+    "bateria_%":77.0
+  },
+  {
+    "id_lectura":694,
+    "id_sensor":"SEN0092",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Este 13",
+    "timestamp":"2025-04-04T03:01:00",
+    "valor_medido":8.5,
+    "unidad_medida":"°C",
+    "bateria_%":18.0
+  },
+  {
+    "id_lectura":695,
+    "id_sensor":"SEN0055",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 119",
+    "timestamp":"11\/05\/2025 08:05",
+    "valor_medido":17.0,
+    "unidad_medida":"°C",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":696,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"21\/02\/2025 19:39",
+    "valor_medido":26.0,
+    "unidad_medida":"°C",
+    "bateria_%":71.0
+  },
+  {
+    "id_lectura":697,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"16\/01\/2025 22:43",
+    "valor_medido":31.8,
+    "unidad_medida":"°C",
+    "bateria_%":53.0
+  },
+  {
+    "id_lectura":698,
+    "id_sensor":"SEN0005",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"22\/03\/2025 13:19",
+    "valor_medido":57482.0,
+    "unidad_medida":"lux",
+    "bateria_%":53.0
+  },
+  {
+    "id_lectura":699,
+    "id_sensor":"sen139",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 112",
+    "timestamp":"2025-01-26 09:46:00",
+    "valor_medido":77086.0,
+    "unidad_medida":"lux",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":700,
+    "id_sensor":"SEN-28",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 92",
+    "timestamp":"2025-04-06T15:04:00",
+    "valor_medido":8.0,
+    "unidad_medida":"lux",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":289,
+    "id_sensor":"SEN0075",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Este 102",
+    "timestamp":"17\/05\/2025 22:23",
+    "valor_medido":55.2,
+    "unidad_medida":"%",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":621,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"2025-03-28T15:43:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":226,
+    "id_sensor":"SEN0112",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 108",
+    "timestamp":"2025-01-08T20:30:00",
+    "valor_medido":44.6,
+    "unidad_medida":"%",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":271,
+    "id_sensor":"sen130",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-02-10 02:51:00",
+    "valor_medido":19.4,
+    "unidad_medida":"°C",
+    "bateria_%":52.0
+  },
+  {
+    "id_lectura":171,
+    "id_sensor":"SEN0133",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"21\/01\/2025 15:20",
+    "valor_medido":66817.0,
+    "unidad_medida":"lux",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":486,
+    "id_sensor":"sen90",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-03-28T09:07:00",
+    "valor_medido":3.7,
+    "unidad_medida":"km\/h",
+    "bateria_%":19.0
+  },
+  {
+    "id_lectura":387,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"2025-03-30T21:18:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":243,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-02-16T22:22:00",
+    "valor_medido":6.48,
+    "unidad_medida":"pH",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":667,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"2025-05-03 13:43:00",
+    "valor_medido":48.0,
+    "unidad_medida":"%",
+    "bateria_%":58.0
+  },
+  {
+    "id_lectura":488,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"2025-03-17 08:35:00",
+    "valor_medido":83.9,
+    "unidad_medida":"%",
+    "bateria_%":38.0
+  },
+  {
+    "id_lectura":640,
+    "id_sensor":"sen137",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"25\/03\/2025 11:33",
+    "valor_medido":7.14,
+    "unidad_medida":"pH",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":582,
+    "id_sensor":"SEN-53",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 18",
+    "timestamp":"2025-04-23T18:11:00",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":674,
+    "id_sensor":"SEN_064",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-04-28T08:36:00",
+    "valor_medido":66.8,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":644,
+    "id_sensor":"SEN-84",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 68",
+    "timestamp":"2025-02-20 19:42:00",
+    "valor_medido":278341.7,
+    "unidad_medida":"lux",
+    "bateria_%":74.0
+  },
+  {
+    "id_lectura":324,
+    "id_sensor":"SEN-60",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-04-10T19:10:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":31.0
+  },
+  {
+    "id_lectura":426,
+    "id_sensor":"SEN_045",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 71",
+    "timestamp":"06\/02\/2025 19:54",
+    "valor_medido":60.7,
+    "unidad_medida":"%",
+    "bateria_%":67.0
+  },
+  {
+    "id_lectura":223,
+    "id_sensor":"sen50",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"11\/05\/2025 13:56",
+    "valor_medido":80044.0,
+    "unidad_medida":"lux",
+    "bateria_%":92.0
+  },
+  {
+    "id_lectura":69,
+    "id_sensor":"SEN-44",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 54",
+    "timestamp":"2025-02-23 12:43:00",
+    "valor_medido":72.1,
+    "unidad_medida":"%",
+    "bateria_%":81.0
+  },
+  {
+    "id_lectura":343,
+    "id_sensor":"SEN_059",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 52",
+    "timestamp":"2025-02-06 04:14:00",
+    "valor_medido":62.3,
+    "unidad_medida":"%",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":584,
+    "id_sensor":"sen68",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-24T15:34:00",
+    "valor_medido":51.2,
+    "unidad_medida":"%",
+    "bateria_%":23.0
+  },
+  {
+    "id_lectura":224,
+    "id_sensor":"sen147",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"21\/01\/2025 15:11",
+    "valor_medido":15.4,
+    "unidad_medida":"°C",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":274,
+    "id_sensor":"sen66",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 34",
+    "timestamp":"2025-03-28 18:06:00",
+    "valor_medido":6.53,
+    "unidad_medida":"pH",
+    "bateria_%":34.0
+  },
+  {
+    "id_lectura":344,
+    "id_sensor":"SEN-52",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 118",
+    "timestamp":"21\/01\/2025 13:23",
+    "valor_medido":64.5,
+    "unidad_medida":"%",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":466,
+    "id_sensor":"SEN0061",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-01-09 22:13:00",
+    "valor_medido":null,
+    "unidad_medida":"°C",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":606,
+    "id_sensor":"sen127",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"2025-01-03 23:43:00",
+    "valor_medido":263.9,
+    "unidad_medida":"%",
+    "bateria_%":27.0
+  },
+  {
+    "id_lectura":699,
+    "id_sensor":"sen139",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Norte 112",
+    "timestamp":"2025-01-26 09:46:00",
+    "valor_medido":77086.0,
+    "unidad_medida":"lux",
+    "bateria_%":60.0
+  },
+  {
+    "id_lectura":626,
+    "id_sensor":"sen82",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-03-07T21:10:00",
+    "valor_medido":32699.0,
+    "unidad_medida":"lux",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":561,
+    "id_sensor":"sen82",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 115",
+    "timestamp":"2025-01-05T23:16:00",
+    "valor_medido":43.0,
+    "unidad_medida":"lux",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":27,
+    "id_sensor":"SEN_032",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-02-16 22:43:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":71.0
+  },
+  {
+    "id_lectura":599,
+    "id_sensor":"SEN_029",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 64",
+    "timestamp":"07\/03\/2025 08:08",
+    "valor_medido":29.4,
+    "unidad_medida":"%",
+    "bateria_%":80.0
+  },
+  {
+    "id_lectura":616,
+    "id_sensor":"sen91",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 87",
+    "timestamp":"12\/01\/2025 12:13",
+    "valor_medido":41.0,
+    "unidad_medida":"lux",
+    "bateria_%":47.0
+  },
+  {
+    "id_lectura":193,
+    "id_sensor":"SEN0128",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Oeste 32",
+    "timestamp":"2025-04-04 07:22:00",
+    "valor_medido":40.1,
+    "unidad_medida":"°C",
+    "bateria_%":32.0
+  },
+  {
+    "id_lectura":169,
+    "id_sensor":"SEN-15",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 88",
+    "timestamp":"2025-04-29T04:50:00",
+    "valor_medido":-5.7,
+    "unidad_medida":"pH",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":259,
+    "id_sensor":"sen106",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-02-22T01:34:00",
+    "valor_medido":0.6,
+    "unidad_medida":"km\/h",
+    "bateria_%":89.0
+  },
+  {
+    "id_lectura":22,
+    "id_sensor":"SEN_076",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 26",
+    "timestamp":"2025-04-15 06:13:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":91.0
+  },
+  {
+    "id_lectura":555,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"22\/04\/2025 14:24",
+    "valor_medido":null,
+    "unidad_medida":"mm",
+    "bateria_%":1.0
+  },
+  {
+    "id_lectura":431,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-03-22T15:30:00",
+    "valor_medido":6.42,
+    "unidad_medida":"pH",
+    "bateria_%":35.0
+  },
+  {
+    "id_lectura":542,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"12\/03\/2025 00:19",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":363,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-04-27T19:51:00",
+    "valor_medido":56645.0,
+    "unidad_medida":"lux",
+    "bateria_%":75.0
+  },
+  {
+    "id_lectura":258,
+    "id_sensor":"SEN0062",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"2025-02-01 21:46:00",
+    "valor_medido":54283.0,
+    "unidad_medida":"lux",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":686,
+    "id_sensor":"SEN_071",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"2025-03-28T06:32:00",
+    "valor_medido":80043.0,
+    "unidad_medida":"lux",
+    "bateria_%":72.0
+  },
+  {
+    "id_lectura":108,
+    "id_sensor":"sen4",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Central 73",
+    "timestamp":"2025-01-21T13:57:00",
+    "valor_medido":7.2,
+    "unidad_medida":"pH",
+    "bateria_%":20.0
+  },
+  {
+    "id_lectura":131,
+    "id_sensor":"SEN0118",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Sur 6",
+    "timestamp":"2025-03-31T15:25:00",
+    "valor_medido":23275.0,
+    "unidad_medida":"lux",
+    "bateria_%":32.0
+  },
+  {
+    "id_lectura":569,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"14\/05\/2025 16:28",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":14.0
+  },
+  {
+    "id_lectura":308,
+    "id_sensor":"sen13",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-03-23 23:20:00",
+    "valor_medido":9.5,
+    "unidad_medida":"°C",
+    "bateria_%":16.0
+  },
+  {
+    "id_lectura":655,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"23\/02\/2025 23:49",
+    "valor_medido":55.7,
+    "unidad_medida":"%",
+    "bateria_%":78.0
+  },
+  {
+    "id_lectura":646,
+    "id_sensor":"SEN0005",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"18\/03\/2025 01:16",
+    "valor_medido":24.0,
+    "unidad_medida":"lux",
+    "bateria_%":64.0
+  },
+  {
+    "id_lectura":133,
+    "id_sensor":"SEN0138",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 74",
+    "timestamp":"2025-02-04 16:39:00",
+    "valor_medido":6.3,
+    "unidad_medida":"pH",
+    "bateria_%":5.0
+  },
+  {
+    "id_lectura":353,
+    "id_sensor":"SEN-39",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 8",
+    "timestamp":"2025-04-09 19:14:00",
+    "valor_medido":6.33,
+    "unidad_medida":"pH",
+    "bateria_%":69.0
+  },
+  {
+    "id_lectura":140,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"14\/03\/2025 10:19",
+    "valor_medido":14.9,
+    "unidad_medida":"°C",
+    "bateria_%":17.0
+  },
+  {
+    "id_lectura":509,
+    "id_sensor":"SEN0095",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Este 25",
+    "timestamp":"14\/02\/2025 13:39",
+    "valor_medido":5.4,
+    "unidad_medida":"km\/h",
+    "bateria_%":43.0
+  },
+  {
+    "id_lectura":377,
+    "id_sensor":"SEN-100",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 66",
+    "timestamp":"2025-02-28T21:10:00",
+    "valor_medido":6.73,
+    "unidad_medida":"pH",
+    "bateria_%":48.0
+  },
+  {
+    "id_lectura":485,
+    "id_sensor":"SEN_030",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 12",
+    "timestamp":"01\/02\/2025 23:20",
+    "valor_medido":6.6,
+    "unidad_medida":"pH",
+    "bateria_%":61.0
+  },
+  {
+    "id_lectura":272,
+    "id_sensor":"SEN-72",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 5",
+    "timestamp":"06\/03\/2025 06:42",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":11.0
+  },
+  {
+    "id_lectura":390,
+    "id_sensor":"sen106",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"05\/03\/2025 08:07",
+    "valor_medido":19.8,
+    "unidad_medida":"km\/h",
+    "bateria_%":15.0
+  },
+  {
+    "id_lectura":149,
+    "id_sensor":"SEN-60",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Este 16",
+    "timestamp":"2025-01-20 09:10:00",
+    "valor_medido":146.4,
+    "unidad_medida":"mm",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":341,
+    "id_sensor":"SEN-100",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Norte 66",
+    "timestamp":"2025-02-28T19:29:00",
+    "valor_medido":7.5,
+    "unidad_medida":"pH",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":520,
+    "id_sensor":"SEN-104",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 106",
+    "timestamp":"12\/01\/2025 21:35",
+    "valor_medido":8.19,
+    "unidad_medida":"pH",
+    "bateria_%":21.0
+  },
+  {
+    "id_lectura":251,
+    "id_sensor":"SEN_076",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 26",
+    "timestamp":"2025-01-22T16:17:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":12.0
+  },
+  {
+    "id_lectura":73,
+    "id_sensor":"SEN_064",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Sur 37",
+    "timestamp":"2025-03-25T07:09:00",
+    "valor_medido":64.0,
+    "unidad_medida":"%",
+    "bateria_%":10.0
+  },
+  {
+    "id_lectura":249,
+    "id_sensor":"sen99",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 51",
+    "timestamp":"12\/04\/2025 18:43",
+    "valor_medido":8.9,
+    "unidad_medida":"%",
+    "bateria_%":73.0
+  },
+  {
+    "id_lectura":268,
+    "id_sensor":"SEN0109",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 33",
+    "timestamp":"15\/02\/2025 12:53",
+    "valor_medido":7.5,
+    "unidad_medida":"%",
+    "bateria_%":98.0
+  },
+  {
+    "id_lectura":464,
+    "id_sensor":"sen81",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"09\/01\/2025 21:43",
+    "valor_medido":8.0,
+    "unidad_medida":"lux",
+    "bateria_%":null
+  },
+  {
+    "id_lectura":184,
+    "id_sensor":"SEN0088",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"2025-01-14T05:08:00",
+    "valor_medido":9.1,
+    "unidad_medida":"km\/h",
+    "bateria_%":100.0
+  },
+  {
+    "id_lectura":154,
+    "id_sensor":"SEN-131",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 49",
+    "timestamp":"2025-04-04T00:15:00",
+    "valor_medido":33.7,
+    "unidad_medida":"%",
+    "bateria_%":85.0
+  },
+  {
+    "id_lectura":256,
+    "id_sensor":"SEN_148",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 50",
+    "timestamp":"07\/01\/2025 20:57",
+    "valor_medido":11.8,
+    "unidad_medida":"km\/h",
+    "bateria_%":66.0
+  },
+  {
+    "id_lectura":252,
+    "id_sensor":"SEN0088",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 111",
+    "timestamp":"09\/02\/2025 00:58",
+    "valor_medido":4.5,
+    "unidad_medida":"km\/h",
+    "bateria_%":78.0
+  },
+  {
+    "id_lectura":580,
+    "id_sensor":"SEN_073",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"2025-01-03T04:15:00",
+    "valor_medido":42.0,
+    "unidad_medida":"%",
+    "bateria_%":57.0
+  },
+  {
+    "id_lectura":158,
+    "id_sensor":"sen90",
+    "tipo_sensor":"Velocidad de viento",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"2025-05-15T10:20:00",
+    "valor_medido":14.6,
+    "unidad_medida":"km\/h",
+    "bateria_%":37.0
+  },
+  {
+    "id_lectura":537,
+    "id_sensor":"sen37",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Norte 19",
+    "timestamp":"2025-01-24T05:17:00",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":0.0
+  },
+  {
+    "id_lectura":448,
+    "id_sensor":"sen143",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 72",
+    "timestamp":"26\/03\/2025 09:24",
+    "valor_medido":19.4,
+    "unidad_medida":"°C",
+    "bateria_%":64.0
+  },
+  {
+    "id_lectura":366,
+    "id_sensor":"SEN-140",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Norte 2",
+    "timestamp":"2025-01-12T01:12:00",
+    "valor_medido":27.2,
+    "unidad_medida":"°C",
+    "bateria_%":53.0
+  },
+  {
+    "id_lectura":304,
+    "id_sensor":"SEN-20",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Sur 4",
+    "timestamp":"2025-03-03T10:04:00",
+    "valor_medido":22.8,
+    "unidad_medida":"°C",
+    "bateria_%":9.0
+  },
+  {
+    "id_lectura":560,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"15\/04\/2025 06:51",
+    "valor_medido":null,
+    "unidad_medida":"%",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":625,
+    "id_sensor":"SEN_026",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 100",
+    "timestamp":"2025-02-12T21:31:00",
+    "valor_medido":63.2,
+    "unidad_medida":"%",
+    "bateria_%":79.0
+  },
+  {
+    "id_lectura":412,
+    "id_sensor":"SEN-2",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Oeste 31",
+    "timestamp":"26\/03\/2025 15:26",
+    "valor_medido":0.0,
+    "unidad_medida":"mm",
+    "bateria_%":84.0
+  },
+  {
+    "id_lectura":173,
+    "id_sensor":"SEN-136",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Sur 35",
+    "timestamp":"23\/03\/2025 02:40",
+    "valor_medido":59.2,
+    "unidad_medida":"%",
+    "bateria_%":24.0
+  },
+  {
+    "id_lectura":576,
+    "id_sensor":"sen81",
+    "tipo_sensor":"Luminosidad",
+    "nombre_parcela":"Campo Central 46",
+    "timestamp":"2025-02-19 14:57:00",
+    "valor_medido":48.0,
+    "unidad_medida":"lux",
+    "bateria_%":74.0
+  },
+  {
+    "id_lectura":659,
+    "id_sensor":"SEN_074",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Central 103",
+    "timestamp":"26\/03\/2025 17:09",
+    "valor_medido":50.6,
+    "unidad_medida":"%",
+    "bateria_%":82.0
+  },
+  {
+    "id_lectura":222,
+    "id_sensor":"sen119",
+    "tipo_sensor":"Humedad de suelo",
+    "nombre_parcela":"Campo Oeste 107",
+    "timestamp":"2025-02-21 02:52:00",
+    "valor_medido":51.1,
+    "unidad_medida":"%",
+    "bateria_%":77.0
+  },
+  {
+    "id_lectura":202,
+    "id_sensor":"SEN_027",
+    "tipo_sensor":"pH de suelo",
+    "nombre_parcela":"Campo Oeste 94",
+    "timestamp":"21\/03\/2025 09:27",
+    "valor_medido":6.86,
+    "unidad_medida":"pH",
+    "bateria_%":93.0
+  },
+  {
+    "id_lectura":311,
+    "id_sensor":"SEN_041",
+    "tipo_sensor":"Temperatura",
+    "nombre_parcela":"Campo Central 95",
+    "timestamp":"12\/01\/2025 14:42",
+    "valor_medido":15.3,
+    "unidad_medida":"°C",
+    "bateria_%":3.0
+  },
+  {
+    "id_lectura":302,
+    "id_sensor":"SEN_129",
+    "tipo_sensor":"Humedad ambiente",
+    "nombre_parcela":"Campo Norte 110",
+    "timestamp":"2025-05-15 01:55:00",
+    "valor_medido":56.5,
+    "unidad_medida":"%",
+    "bateria_%":36.0
+  },
+  {
+    "id_lectura":156,
+    "id_sensor":"SEN-17",
+    "tipo_sensor":"Pluviómetro",
+    "nombre_parcela":"Campo Sur 10",
+    "timestamp":"10\/01\/2025 19:03",
+    "valor_medido":141.3,
+    "unidad_medida":"mm",
+    "bateria_%":81.0
+  }
+]
